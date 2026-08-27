@@ -61,6 +61,8 @@ def load_clean_data(path="data.csv"):
         (df['advertised_price'] <= upper_bound)
     ]
 
+    df = df[df["doors"] > 0]
+
     df = df.reset_index(drop=True)
 
     return df
