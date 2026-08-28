@@ -6,7 +6,7 @@ def load_raw_data(path="data.csv"):
 
     return df
 
-def get_cv_folds(df, n_splits=10, random_state=42):
+def get_cv_folds(df, n_splits=5, random_state=42):
 
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=random_state)
     return list(kf.split(df))
