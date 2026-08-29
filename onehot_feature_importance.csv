@@ -1,0 +1,2887 @@
+feature,importance,encoder
+list_price,0.6691110550664718,onehot
+mileage,0.09889409082318633,onehot
+vehicle_age_years,0.0888363017744377,onehot
+vehicle_age_days,0.08445076570399365,onehot
+reg_year,0.009502356821527145,onehot
+make_Porsche,0.006023465801752733,onehot
+engine,0.0050150081104845335,onehot
+make_Land Rover,0.0017024669149735857,onehot
+model_Defender 110,0.0015736060812066594,onehot
+body_SUV,0.001546202102272707,onehot
+fuel_Petrol,0.0012444304099663358,onehot
+fuel_Electric,0.001072520475883867,onehot
+engine_missing,0.0010273576609398146,onehot
+doors,0.0008775720792941287,onehot
+body_Saloon,0.0006631119576423111,onehot
+fuel_Diesel,0.0006623084530179386,onehot
+make_BMW,0.0006614740552611365,onehot
+model_911,0.0006570333173844027,onehot
+trim_Missing,0.0006370170104891896,onehot
+make_Vauxhall,0.0006244521907740872,onehot
+transmission_Automatic,0.0005459603577827879,onehot
+transmission_Manual,0.0005071234087753708,onehot
+generation_SUV (2022 - ),0.000488911546883702,onehot
+model_Defender 90,0.0004725342097367432,onehot
+make_Audi,0.000441671632114249,onehot
+model_Bentayga,0.0003890857512700043,onehot
+generation_SUV (2015 - 2020),0.00037422550659747903,onehot
+make_Volkswagen,0.0003686145165317459,onehot
+generation_SUV (2019 - ),0.00032216549048947707,onehot
+fuel_Petrol Plug-in Hybrid,0.0003120877824052861,onehot
+trim_Dynamic SE,0.00030610463114250016,onehot
+trim_M Sport,0.0002885043999060187,onehot
+make_Mercedes-Benz,0.00025623554014915956,onehot
+body_Coupe,0.00025588451571549766,onehot
+make_Ford,0.0002304153778558056,onehot
+trim_RS,0.00022077978926769124,onehot
+trim_S,0.00021818896925044764,onehot
+model_XC40,0.00021488773304095298,onehot
+generation_SUV (2017 - 2022),0.0002110560455893998,onehot
+generation_SUV (2017 - ),0.00020904312787643756,onehot
+body_Hatchback,0.00020619071336063876,onehot
+generation_SUV (2018 - ),0.00020062879804188367,onehot
+make_Nissan,0.00019906598527436246,onehot
+make_Jaguar,0.00019544891602715412,onehot
+model_Macan,0.00018731418698006032,onehot
+model_RS3,0.00018677318872394914,onehot
+body_Estate,0.00018509897684353325,onehot
+make_MINI,0.00018124318716302923,onehot
+generation_Hatchback (2007 - 2011) MK2 Facelift,0.00017758177081260453,onehot
+body_Convertible,0.00016939293828444914,onehot
+trim_M,0.00015983268050726436,onehot
+generation_SUV (2017 - 2021),0.0001590086093330658,onehot
+model_Range Rover,0.00015359701197163768,onehot
+model_e-tron,0.00013719059464750594,onehot
+trim_981,0.00013539956418790193,onehot
+generation_Coupe (2011 - 2020),0.00013480708889895197,onehot
+fuel_Petrol Hybrid,0.0001327321341955353,onehot
+trim_AMG Line,0.00013226675397457098,onehot
+make_Peugeot,0.00012930308659619367,onehot
+model_GT-R,0.0001243545293036959,onehot
+trim_Black Edition,0.00012138652832153675,onehot
+trim_S line,0.0001200494389023397,onehot
+model_Hatch,0.0001186444349312904,onehot
+model_Range Rover Sport,0.00011519839802717371,onehot
+make_SKODA,0.00011001611441131877,onehot
+model_GLC Class,0.00010954270377251398,onehot
+make_Volvo,0.00010683405819069628,onehot
+trim_SE,0.00010449071839808879,onehot
+trim_GTS,0.00010346919232612616,onehot
+generation_SUV (2020 - ),0.0001014262223678753,onehot
+plate_age_id_70,0.00010125036859143952,onehot
+plate_age_id_72,0.00010065561241993926,onehot
+make_Bentley,9.973674967610407e-05,onehot
+plate_age_id_21,9.964851797683782e-05,onehot
+model_Cayenne,9.624174542920895e-05,onehot
+model_Golf,9.616629712605603e-05,onehot
+plate_age_id_22,9.573259747911699e-05,onehot
+plate_age_id_23,9.423899818954656e-05,onehot
+model_Continental,9.341292460783914e-05,onehot
+trim_Sport,9.252265609729012e-05,onehot
+trim_Autobiography,9.179503121869813e-05,onehot
+model_S3,9.11558116770202e-05,onehot
+plate_age_id_19,9.047108435518357e-05,onehot
+plate_age_id_69,8.913104506946053e-05,onehot
+trim_AMG,8.60131778026705e-05,onehot
+trim_GT,8.251400412980547e-05,onehot
+generation_Hatchback (2018 - ),8.1894018921149e-05,onehot
+plate_age_id_71,8.019144891368997e-05,onehot
+model_A8,8.013540722332829e-05,onehot
+trim_AMG Edition 507,7.759337412979427e-05,onehot
+make_Tesla,7.67549966801983e-05,onehot
+generation_Coupe (2014 - 2018),7.621020663537036e-05,onehot
+model_i8,7.605094651618987e-05,onehot
+plate_age_id_67,7.598971486382694e-05,onehot
+body_MPV,7.33347351775531e-05,onehot
+trim_SVR,7.258638906852607e-05,onehot
+model_E Class,7.005037427854645e-05,onehot
+plate_age_id_20,6.970787852888327e-05,onehot
+model_Leaf,6.927074050566492e-05,onehot
+plate_age_id_18,6.810977132665811e-05,onehot
+trim_R-Dynamic SE,6.764402316331098e-05,onehot
+make_Lexus,6.718126943614299e-05,onehot
+plate_age_id_68,6.616929734140285e-05,onehot
+make_Toyota,6.602956926811081e-05,onehot
+model_X5,6.589322589227296e-05,onehot
+generation_Hatchback (2017 - 2020),6.56201439144076e-05,onehot
+trim_R-Dynamic HSE,6.510961857486222e-05,onehot
+model_Range Rover Velar,6.396735543441479e-05,onehot
+generation_Hatchback (2013 - 2018),6.346316173538244e-05,onehot
+model_TT RS,6.221346429745118e-05,onehot
+model_T-Roc,6.179057684332089e-05,onehot
+trim_R,6.145351836899888e-05,onehot
+trim_R-Line,6.0102531577814774e-05,onehot
+model_Focus,6.005356329482894e-05,onehot
+generation_Hatchback (2019 - ),5.686928367350034e-05,onehot
+generation_SUV (2016 - 2021),5.6154282840310436e-05,onehot
+plate_age_id_16,5.608292384200746e-05,onehot
+model_Kuga,5.6037774717799677e-05,onehot
+model_C Class,5.5771179970181084e-05,onehot
+model_Outlander,5.475951208514675e-05,onehot
+model_GLE Class,5.4140224412987e-05,onehot
+generation_Saloon (2020 - ),5.398299277207087e-05,onehot
+plate_age_id_66,5.2875640497425006e-05,onehot
+plate_age_id_17,5.26548172054172e-05,onehot
+trim_HSE,5.2352936460376e-05,onehot
+make_Renault,5.233893519474872e-05,onehot
+model_Jimny,5.0203548434126225e-05,onehot
+generation_Saloon (2019 - ),4.9306721129072043e-05,onehot
+model_A1,4.9187312641603655e-05,onehot
+plate_age_id_14,4.9173479281288226e-05,onehot
+generation_Hatchback (2020 - ),4.853279315623863e-05,onehot
+make_Kia,4.8364492707960606e-05,onehot
+make_Mitsubishi,4.743762456086765e-05,onehot
+model_F-Type,4.737869690876202e-05,onehot
+model_M5,4.707224354105179e-05,onehot
+generation_Coupe (2016 - ),4.69557914144633e-05,onehot
+trim_991 Turbo S,4.6591892406387314e-05,onehot
+make_Maserati,4.6278415473910524e-05,onehot
+plate_age_id_15,4.614268950147366e-05,onehot
+model_A Class,4.5455400574505726e-05,onehot
+generation_SUV (2018 - 2021),4.533727268534685e-05,onehot
+generation_SUV (2015 - 2021),4.5146172393468246e-05,onehot
+model_X2,4.42986757675262e-05,onehot
+model_Tiguan,4.3135322139867414e-05,onehot
+generation_SUV (2021 - ),4.302428697313275e-05,onehot
+trim_First Edition,4.300973318152855e-05,onehot
+model_7 Series,4.269839126916232e-05,onehot
+trim_Competition,4.2523034274610533e-05,onehot
+generation_SUV (2012 - 2016) MK2,4.246298617720256e-05,onehot
+make_SEAT,4.1497016388443546e-05,onehot
+make_Aston Martin,4.128288617539e-05,onehot
+generation_Coupe (2011 - 2014),4.119225595710836e-05,onehot
+model_EQA,4.1128358617600415e-05,onehot
+plate_age_id_65,4.075581078516681e-05,onehot
+model_Wrangler,4.035114670612401e-05,onehot
+plate_age_id_63,4.016550338204868e-05,onehot
+generation_SUV (2015 - 2018),4.0076281860065026e-05,onehot
+model_Grandland X,3.9779580192559605e-05,onehot
+model_RS4 Avant,3.894474063381363e-05,onehot
+generation_Estate (2017 - 2018),3.829443343511284e-05,onehot
+make_Citroen,3.822569557245206e-05,onehot
+generation_Coupe (2019 - ),3.8169936550972266e-05,onehot
+trim_Sahara,3.806359950074378e-05,onehot
+generation_SUV (2007 - 2018),3.760177443206974e-05,onehot
+generation_SUV (2010 - 2018),3.735949660068095e-05,onehot
+generation_Hatchback (2021 - ),3.725985909874332e-05,onehot
+model_8 Series,3.717097591264036e-05,onehot
+generation_SUV (2012 - 2017) L405,3.657865640898117e-05,onehot
+model_3008,3.6545468457030454e-05,onehot
+generation_SUV (2016 - 2020),3.6401767727445106e-05,onehot
+generation_Coupe (2015 - ),3.631343778487905e-05,onehot
+generation_Hatchback (2014 - 2018),3.576992230294992e-05,onehot
+generation_Saloon (2019 - 2022),3.540731620324344e-05,onehot
+trim_Vorsprung,3.5399606759753306e-05,onehot
+model_RS6 Avant,3.4886842207807195e-05,onehot
+trim_S Edition 1,3.46606768464464e-05,onehot
+generation_Coupe (2018 - ),3.460539659385178e-05,onehot
+model_CLA Class,3.420082687365432e-05,onehot
+trim_Standard Range,3.4060356361821e-05,onehot
+make_DS AUTOMOBILES,3.4041478378070035e-05,onehot
+model_Range Rover Evoque,3.349229178129366e-05,onehot
+model_5 Series,3.338206661867094e-05,onehot
+trim_Launch Edition,3.3303810869992126e-05,onehot
+fuel_Diesel Hybrid,3.3260861545653385e-05,onehot
+plate_age_id_64,3.2802639590562846e-05,onehot
+generation_Coupe (2018 - 2022),3.2738910963671424e-05,onehot
+model_XC90,3.25327359652351e-05,onehot
+model_Vantage,3.249175521748868e-05,onehot
+trim_X,3.243525868676133e-05,onehot
+model_1 Series,3.232531505055437e-05,onehot
+model_Discovery Sport,3.223684979382255e-05,onehot
+generation_Coupe (2010 - 2016) R35 Facelift,3.2132796336103216e-05,onehot
+generation_Saloon (2013 - 2021),3.165015534235685e-05,onehot
+generation_Coupe (2016 - 2021),3.146599400906842e-05,onehot
+model_Polo,3.135633304300936e-05,onehot
+trim_X-Dynamic HSE,3.0895781743064035e-05,onehot
+model_3 Series,3.0878920471445374e-05,onehot
+make_Jeep,3.084135500578936e-05,onehot
+model_I-PACE,3.070562929949201e-05,onehot
+model_iX,3.0666955412415226e-05,onehot
+model_A5,3.027844453031366e-05,onehot
+make_Ferrari,3.0228124140709488e-05,onehot
+model_S Class,3.021363966489681e-05,onehot
+model_X5 M,3.01378356041152e-05,onehot
+generation_Coupe (2011 - 2017),3.010696657628749e-05,onehot
+model_Enyaq,2.9978393275208003e-05,onehot
+generation_Coupe (2016 - 2020),2.978537392743946e-05,onehot
+trim_Titanium,2.9507643530986533e-05,onehot
+generation_Coupe (2014 - 2017),2.9169778574976613e-05,onehot
+model_S90,2.9140338339988048e-05,onehot
+model_Puma,2.8943709788750463e-05,onehot
+make_Hyundai,2.8891182329762188e-05,onehot
+plate_age_id_10,2.885744599183142e-05,onehot
+model_Q3,2.864341651027749e-05,onehot
+trim_XS Edition,2.8526034430086716e-05,onehot
+model_M3,2.8292000409090763e-05,onehot
+model_XF,2.821484110996511e-05,onehot
+generation_SUV (2014 - 2019),2.816645962850852e-05,onehot
+generation_Estate (2019 - ),2.8070730052019255e-05,onehot
+model_EQC,2.782530278547533e-05,onehot
+model_X7,2.7724172222659285e-05,onehot
+generation_Estate (2020 - ),2.7629951879737124e-05,onehot
+model_ID.3,2.7331536957144424e-05,onehot
+generation_Saloon (2015 - 2020),2.724092848981725e-05,onehot
+trim_Audi Sport Edition,2.6960996084362134e-05,onehot
+make_Lotus,2.686895776557574e-05,onehot
+generation_SUV (2014 - 2018),2.6860921072304572e-05,onehot
+generation_Saloon (2016 - 2020),2.6781693742639988e-05,onehot
+generation_Convertible (2018 - ),2.6357210283559827e-05,onehot
+make_Honda,2.6235357204743068e-05,onehot
+trim_HSE Dynamic,2.594591641756665e-05,onehot
+trim_AMG S,2.554826225450146e-05,onehot
+model_G Class,2.5457670465389263e-05,onehot
+trim_Long Range,2.545218351728179e-05,onehot
+model_Mustang,2.5183623792574316e-05,onehot
+generation_Coupe (2016 - 2018),2.4936340992494434e-05,onehot
+model_Discovery,2.490685909828039e-05,onehot
+model_M6,2.4863365052355358e-05,onehot
+generation_SUV (2017 - 2020),2.4829355750317004e-05,onehot
+generation_Convertible (2011 - 2016),2.4756347418031557e-05,onehot
+model_NX 300h,2.4602399748590613e-05,onehot
+generation_Saloon (2015 - 2018),2.4221329007260997e-05,onehot
+generation_Coupe (2010 - 2014),2.3488316089241223e-05,onehot
+trim_Turbo,2.326701941679156e-05,onehot
+trim_GT Line,2.320075488331538e-05,onehot
+generation_Saloon (2021 - ),2.31186682280734e-05,onehot
+generation_Saloon (2018 - ),2.3085295561248026e-05,onehot
+model_RAV4,2.2906590101172703e-05,onehot
+trim_AMR,2.2622761782944493e-05,onehot
+generation_SUV (2013 - 2018),2.2519762475374108e-05,onehot
+model_4 Series,2.250609905622592e-05,onehot
+model_RSQ8,2.2267410231102786e-05,onehot
+make_Mazda,2.1807623667419086e-05,onehot
+model_Sportage,2.1560207321088005e-05,onehot
+model_California,2.1454059126244175e-05,onehot
+generation_Hatchback (2017 - ),2.1295371261971773e-05,onehot
+trim_Design,2.1273270695990103e-05,onehot
+trim_Life,2.1237960899928433e-05,onehot
+generation_SUV (2002 - 2011),2.1226480866732934e-05,onehot
+generation_Coupe (2005 - 2018),2.1102364255694654e-05,onehot
+generation_SUV (2013 - 2017) L494,2.1095507437227146e-05,onehot
+model_Model X,2.1088488944130093e-05,onehot
+trim_X-Dynamic SE,2.0844397117690314e-05,onehot
+model_4 Series Gran Coupe,2.0751460711865212e-05,onehot
+plate_age_id_13,2.0339458758585556e-05,onehot
+trim_T,2.032730230218698e-05,onehot
+trim_Competition M,2.0205971716636545e-05,onehot
+generation_Estate (2022 - ),2.0127234791296782e-05,onehot
+generation_MPV (2018 - 2021),2.0058305328243723e-05,onehot
+model_Zoe,1.989970732134717e-05,onehot
+model_Tiguan Allspace,1.9870251338330673e-05,onehot
+generation_SUV (2018 - 2022),1.9863958436920933e-05,onehot
+generation_Hatchback (2010 - 2014),1.9738165106430904e-05,onehot
+generation_Coupe (2015 - 2017),1.964258865162525e-05,onehot
+model_XJ,1.939709137651874e-05,onehot
+model_Taycan,1.936873035713984e-05,onehot
+model_R8,1.9358044332076777e-05,onehot
+model_A7,1.926009608316687e-05,onehot
+model_RS Q3,1.917286863295563e-05,onehot
+trim_AMG Line Edition,1.911662040158288e-05,onehot
+model_GLA Class,1.9063383416267587e-05,onehot
+model_Rapide S,1.8953924625258706e-05,onehot
+make_Fiat,1.873368617861245e-05,onehot
+make_Morgan,1.8732626362723024e-05,onehot
+generation_SUV (2018 - 2020),1.8706615858453424e-05,onehot
+trim_Autobiography Dynamic,1.8655464768691557e-05,onehot
+trim_GT S,1.8654925478262268e-05,onehot
+generation_Convertible (2012 - 2020),1.8624428558645467e-05,onehot
+generation_Coupe (2013 - ),1.860043291387102e-05,onehot
+model_Fiesta,1.8560635842308698e-05,onehot
+generation_Hatchback (2017 - 2021),1.8412732060863185e-05,onehot
+trim_Style,1.814740371719812e-05,onehot
+generation_Convertible (2009 - 2020),1.791668143003942e-05,onehot
+generation_Hatchback (2016 - 2021),1.7860240027734113e-05,onehot
+trim_Technik,1.7840751918130643e-05,onehot
+trim_Premium Edition,1.7587300492465728e-05,onehot
+trim_Plus,1.7435913080882037e-05,onehot
+model_Land Cruiser,1.738491069256831e-05,onehot
+trim_R-Design,1.7355487757798437e-05,onehot
+trim_R-Dynamic S,1.717811835262514e-05,onehot
+model_Q4 e-tron,1.714189597461372e-05,onehot
+trim_Portfolio,1.705072021757739e-05,onehot
+plate_age_id_12,1.6971122161355976e-05,onehot
+model_A4,1.6925949324631612e-05,onehot
+trim_HSE Luxury,1.6909944507229295e-05,onehot
+model_Countryman,1.6830914447298374e-05,onehot
+model_M4,1.6788545264928162e-05,onehot
+trim_991 Carrera S,1.6783168232094947e-05,onehot
+model_e-tron S,1.666519582006645e-05,onehot
+model_Qashqai,1.659221983479642e-05,onehot
+model_X3,1.644405218932546e-05,onehot
+model_Plus Four,1.6402723125810564e-05,onehot
+trim_Premium,1.639596744409859e-05,onehot
+trim_NX,1.6359861742020465e-05,onehot
+generation_Saloon (2018 - 2022),1.6343496319946637e-05,onehot
+model_Panamera,1.6285942098830226e-05,onehot
+model_DS 3 CROSSBACK,1.6283066649194186e-05,onehot
+model_Kadjar,1.625778226978164e-05,onehot
+generation_SUV (2019 - 2022),1.6060233042680072e-05,onehot
+generation_Coupe (2003 - 2011),1.5966135693959564e-05,onehot
+trim_2,1.5949163516813184e-05,onehot
+plate_age_id_61,1.593701018348729e-05,onehot
+model_2 Series Active Tourer,1.5804474974096993e-05,onehot
+make_Alpine,1.5758991860588837e-05,onehot
+generation_Convertible (2012 - 2016),1.5717744085131e-05,onehot
+make_Alfa Romeo,1.5688693251939916e-05,onehot
+generation_Convertible (2015 - 2018),1.562278577978321e-05,onehot
+model_X6 M,1.554036118431843e-05,onehot
+model_C4 Cactus,1.5513224906718366e-05,onehot
+model_308,1.5318969241377216e-05,onehot
+model_e-2008,1.528809781325315e-05,onehot
+model_Mokka,1.522302511991385e-05,onehot
+model_AMG GT,1.521810857280059e-05,onehot
+trim_F Sport,1.5174333644327102e-05,onehot
+trim_GTD,1.5029411236104656e-05,onehot
+model_6 Series,1.5017478370094115e-05,onehot
+model_F-PACE,1.483333996199238e-05,onehot
+generation_SUV (2015 - 2019),1.4724108856380217e-05,onehot
+trim_Track Edition,1.4692412700018519e-05,onehot
+trim_ST-2,1.4683669759022297e-05,onehot
+trim_X-Dynamic S,1.4534247236014197e-05,onehot
+trim_Active,1.4463850787391264e-05,onehot
+generation_Hatchback (2022 - ),1.4454202335459892e-05,onehot
+model_Yaris Cross,1.443756967528633e-05,onehot
+trim_4,1.442447431755316e-05,onehot
+model_A110,1.428183101446907e-05,onehot
+generation_SUV (2016 - ),1.4239693727501148e-05,onehot
+trim_981 GTS,1.422296087796964e-05,onehot
+generation_Saloon (2009 - 2015),1.4176807194079428e-05,onehot
+trim_Titanium X,1.408275950366859e-05,onehot
+generation_Convertible (2003 - 2014) MK 1,1.4053424868622928e-05,onehot
+generation_Hatchback (2015 - 2017),1.3962977168616854e-05,onehot
+model_Mulsanne,1.3947310815947975e-05,onehot
+trim_SEL,1.3752792762655784e-05,onehot
+model_Kodiaq,1.3678352882307627e-05,onehot
+trim_AMG Line Night Edition,1.3563326523569226e-05,onehot
+generation_SUV (2011 - 2018) LA1,1.3532439689778754e-05,onehot
+model_X3 M,1.3446445817192661e-05,onehot
+trim_N-Connecta,1.342315257004698e-05,onehot
+model_EcoSport,1.3400703465001669e-05,onehot
+trim_991 50th Anniversary Edition,1.33666729680263e-05,onehot
+model_XC60,1.3340062518090998e-05,onehot
+plate_age_id_60,1.3235610152278938e-05,onehot
+trim_Dynamic,1.3196492596722202e-05,onehot
+model_718 Cayman,1.3067257889873121e-05,onehot
+trim_Night Edition,1.3010955575019072e-05,onehot
+generation_SUV (2019 - 2021),1.2988275676365794e-05,onehot
+generation_Hatchback (2017 - 2022),1.2954445636258211e-05,onehot
+trim_Takumi,1.2949039272912839e-05,onehot
+trim_Carbon Black,1.293580653194389e-05,onehot
+model_NX 350h,1.2859063009566469e-05,onehot
+trim_Cooper S Sport,1.2848074525519045e-05,onehot
+generation_Hatchback (2018 - 2021),1.2813854129029454e-05,onehot
+trim_Tekna,1.2799819888511662e-05,onehot
+model_A3,1.2797097517297132e-05,onehot
+generation_Coupe (2004 - 2012) 997,1.2768765141060848e-05,onehot
+model_Model S,1.2730609293107916e-05,onehot
+model_GLS Class,1.2646643439345327e-05,onehot
+generation_Hatchback (2016 - 2019),1.2582309437115372e-05,onehot
+model_DB9,1.2309773485870619e-05,onehot
+model_Elise,1.2298926933774987e-05,onehot
+model_X6,1.2267681328756337e-05,onehot
+trim_R-Sport,1.2221945209337458e-05,onehot
+generation_Hatchback (2013 - 2017) MK5 Facelift,1.2195315719720435e-05,onehot
+model_Q7,1.21466262777578e-05,onehot
+trim_AMG S Plus,1.2084923095061015e-05,onehot
+model_KONA,1.2071053729643397e-05,onehot
+model_Q5,1.2036539671027184e-05,onehot
+model_Leon,1.203345741829752e-05,onehot
+model_Boxster,1.2006679311630476e-05,onehot
+generation_Coupe (2015 - 2018),1.200531039799755e-05,onehot
+trim_Speed,1.1893945728965551e-05,onehot
+generation_Saloon (2005 - 2014),1.1818653351389743e-05,onehot
+plate_age_id_62,1.1808794955038984e-05,onehot
+generation_Hatchback (2016 - ),1.1786259415749309e-05,onehot
+generation_Hatchback (2014 -  2018),1.1749538100473263e-05,onehot
+generation_Hatchback (2014 - 2019),1.1711945942592379e-05,onehot
+trim_R-Design Pro,1.16879081097597e-05,onehot
+generation_Hatchback (2016 - 2020),1.1620430095518096e-05,onehot
+model_6 Series Gran Coupe,1.1593701183739012e-05,onehot
+generation_Convertible (2010 - 2021),1.1590191707257053e-05,onehot
+model_Touareg,1.1553505115993289e-05,onehot
+generation_Saloon (2017 - 2021),1.146540255939496e-05,onehot
+fuel_Bi Fuel,1.1396279723504261e-05,onehot
+generation_Hatchback (2012 - 2017) MK7,1.1366576974667156e-05,onehot
+model_Gallardo,1.1351280848414264e-05,onehot
+trim_Excel,1.1343202871791243e-05,onehot
+generation_SUV (2019 - 2020),1.1320414742592923e-05,onehot
+generation_Saloon (2014 - 2018),1.1317773212448106e-05,onehot
+trim_John Cooper Works,1.1277320172708323e-05,onehot
+trim_991 Carrera GTS,1.1217220794628945e-05,onehot
+trim_Match,1.1164654291882527e-05,onehot
+model_ID.5,1.1131785908495345e-05,onehot
+make_Dacia,1.1098766902920156e-05,onehot
+generation_Saloon (2017 - 2020),1.105940764858106e-05,onehot
+model_Mustang MACH-E,1.1022345906557492e-05,onehot
+model_Defender 130,1.101333568862843e-05,onehot
+trim_AMG S Edition 1,1.0995954879455897e-05,onehot
+model_M8,1.0927392412510234e-05,onehot
+generation_Saloon (2022 - ),1.089405420238353e-05,onehot
+trim_75th Limited Edition,1.088047653982664e-05,onehot
+trim_Cooper,1.0862166279649382e-05,onehot
+trim_Vogue SE,1.0860369611194266e-05,onehot
+generation_Coupe (2012 - 2017),1.0737775971729215e-05,onehot
+model_Astra,1.0726588467906401e-05,onehot
+trim_Allure,1.0650546974192388e-05,onehot
+trim_4S,1.0645623096944696e-05,onehot
+trim_SportLine,1.0505807991124273e-05,onehot
+trim_vRS,1.0502103301067482e-05,onehot
+model_Compass,1.0468460350424207e-05,onehot
+model_Corsa,1.0445640997815955e-05,onehot
+plate_age_id_11,1.042951217945672e-05,onehot
+generation_Hatchback (2015 - 2019),1.039924403540248e-05,onehot
+make_Lamborghini,1.0392132725346386e-05,onehot
+generation_Saloon (2010 - 2017) MK2,1.0309069360847758e-05,onehot
+model_Mokka-e,1.0308747100006173e-05,onehot
+trim_GT Premium,1.0293113919679325e-05,onehot
+generation_Coupe (2011 - 2015) C204,1.0272083930941242e-05,onehot
+model_Electric,1.016344762581686e-05,onehot
+trim_Inscription,1.01617085064073e-05,onehot
+trim_Vogue,1.0124047962545443e-05,onehot
+generation_Hatchback (2015 - 2018),1.0117511356615985e-05,onehot
+trim_FR,1.0044393297910204e-05,onehot
+trim_ST-Line,1.0009533950592376e-05,onehot
+generation_Convertible (2016 - 2018),9.965098710348731e-06,onehot
+generation_Convertible (2018 - 2020),9.763033434117917e-06,onehot
+trim_SRi Nav,9.734627850378855e-06,onehot
+generation_Saloon (2013 - 2017) W222,9.718046761606325e-06,onehot
+trim_Grand Edition,9.713977314953185e-06,onehot
+trim_AMG Sport,9.695715465985e-06,onehot
+generation_MPV (2018 - ),9.684378021027674e-06,onehot
+trim_Luxury,9.636039104724415e-06,onehot
+trim_Elite Nav,9.62688622678876e-06,onehot
+model_Yaris,9.59158539059209e-06,onehot
+generation_Coupe (2011 - 2021),9.581977213912256e-06,onehot
+trim_ST-3,9.512865178784763e-06,onehot
+model_T-Cross,9.504031665765032e-06,onehot
+generation_Convertible (2016 - 2020),9.49356515536082e-06,onehot
+plate_age_id_59,9.486203025522376e-06,onehot
+model_Octavia,9.44721077775334e-06,onehot
+generation_Hatchback (2012 - 2019),9.433333023145159e-06,onehot
+generation_Coupe (2008 - 2012),9.426475231428372e-06,onehot
+model_SQ7,9.419692490899051e-06,onehot
+generation_Saloon (2007 - 2015) W204,9.414406844761805e-06,onehot
+trim_SE L,9.391995628725356e-06,onehot
+model_X4,9.378359766811064e-06,onehot
+trim_S Touring,9.360959623937608e-06,onehot
+trim_UX,9.360277364000906e-06,onehot
+trim_991 Turbo,9.357456776136394e-06,onehot
+model_E-PACE,9.298362216998655e-06,onehot
+model_X1,9.294123436689338e-06,onehot
+model_Quattroporte,9.206955272046636e-06,onehot
+make_Rolls-Royce,9.196936721766919e-06,onehot
+generation_Estate (2017 - 2020),9.14383763829479e-06,onehot
+generation_Estate (2021 - ),9.137409485604624e-06,onehot
+trim_GTC S,9.110967712566388e-06,onehot
+trim_Modena S,9.050651823839671e-06,onehot
+generation_Hatchback (2012 - 2015) W176,9.041925541360074e-06,onehot
+model_WRX STI,9.0177269276719e-06,onehot
+trim_Acenta,8.944487052560298e-06,onehot
+model_2 Series,8.880061143255421e-06,onehot
+model_Arteon,8.87815524133061e-06,onehot
+generation_Estate (2016 - 2020),8.846911852764087e-06,onehot
+model_DS 7 CROSSBACK,8.841354907560106e-06,onehot
+trim_Urban Edition,8.831845485558544e-06,onehot
+trim_Momentum,8.715702352175675e-06,onehot
+trim_Flair,8.702227962691264e-06,onehot
+model_i4,8.672285172086855e-06,onehot
+model_A6 Saloon,8.663053504478178e-06,onehot
+model_Karoq,8.648170912550123e-06,onehot
+model_Q2,8.641147257004168e-06,onehot
+generation_Coupe (2017 - 2020),8.608388017771208e-06,onehot
+trim_Icon,8.594098707575197e-06,onehot
+trim_Prestige,8.528350696223845e-06,onehot
+trim_997 Carrera S,8.464557614734987e-06,onehot
+plate_age_id_9,8.431648710193181e-06,onehot
+model_Civic,8.420773845416199e-06,onehot
+generation_Saloon (2007 - 2016) X250,8.419714197541851e-06,onehot
+generation_Hatchback (2017 - 2019),8.40652428069444e-06,onehot
+trim_Cooper S,8.396891796422896e-06,onehot
+trim_991 GT3,8.311634328413215e-06,onehot
+trim_Extended Range,8.26093580777223e-06,onehot
+fuel_Diesel Plug-in Hybrid,8.2078919446903e-06,onehot
+model_Q8,8.187011168727982e-06,onehot
+trim_Performance,8.15392508678909e-06,onehot
+model_Cayman,8.136691398076932e-06,onehot
+trim_991 Carrera,8.10781793205672e-06,onehot
+model_Jazz,8.07374588095596e-06,onehot
+generation_Convertible (2022 - ),7.95049022089036e-06,onehot
+model_Niro,7.912032510652595e-06,onehot
+trim_Ultimate Bright,7.88486277526951e-06,onehot
+generation_MPV (2015 - 2019),7.868991022894627e-06,onehot
+trim_GTI,7.839896698351826e-06,onehot
+trim_GR Circuit,7.834296570385301e-06,onehot
+trim_Zetec,7.825755309463156e-06,onehot
+generation_Saloon (2013 - 2018),7.80911349180122e-06,onehot
+model_CL,7.792073200017846e-06,onehot
+model_UX 300e,7.786291803163041e-06,onehot
+trim_992 Carrera S,7.731015996756638e-06,onehot
+model_e-tron GT,7.708484021042037e-06,onehot
+trim_Recaro,7.701913996810482e-06,onehot
+trim_GTI Performance,7.697454916950912e-06,onehot
+generation_Saloon (2014 - 2020),7.692648441487366e-06,onehot
+make_McLaren,7.690337624619037e-06,onehot
+generation_Saloon (2017 - 2022),7.655823235672067e-06,onehot
+trim_ST-Line X,7.590124247909837e-06,onehot
+trim_Acenta Premium,7.58278564356309e-06,onehot
+trim_GT-Line,7.568953354099658e-06,onehot
+model_Yeti,7.50087866782994e-06,onehot
+trim_Iconic,7.427534343192574e-06,onehot
+trim_R-Dynamic S Plus,7.352782020742987e-06,onehot
+generation_Saloon (2010 - 2015),7.3481025052853265e-06,onehot
+model_Discovery 4,7.290275678081933e-06,onehot
+model_Stelvio,7.280618316398062e-06,onehot
+trim_SE Technology,7.254829847963671e-06,onehot
+generation_Estate (2007 - 2015) S204,7.2522433077387324e-06,onehot
+make_Suzuki,7.221936974722324e-06,onehot
+trim_Ultimate,7.208945808853791e-06,onehot
+model_Superb,7.15446253804837e-06,onehot
+model_C-HR,7.149038924613893e-06,onehot
+generation_Hatchback (2020 -),7.143700852685874e-06,onehot
+trim_R-Line Tech,7.138214781504866e-06,onehot
+trim_Black,7.136346880960521e-06,onehot
+generation_Coupe (2020 - ),7.10345811757504e-06,onehot
+trim_Inscription Pro,7.065461766265301e-06,onehot
+model_540C,6.976942342851445e-06,onehot
+model_SQ8,6.961152513626152e-06,onehot
+model_Mondeo,6.958550942902991e-06,onehot
+trim_SE Nav,6.953564680201918e-06,onehot
+make_Subaru,6.903412310658449e-06,onehot
+generation_Saloon (2015 - 2019),6.876997988357168e-06,onehot
+model_CLS,6.876041361573356e-06,onehot
+trim_Overland,6.831660452127909e-06,onehot
+trim_3,6.796589900623139e-06,onehot
+model_Exige,6.7902300572233235e-06,onehot
+trim_Sport 220,6.779380862790559e-06,onehot
+generation_MPV (2014 - 2020),6.768917849514579e-06,onehot
+model_5008,6.74217200829623e-06,onehot
+generation_Estate (2015 - 2019),6.726261847703227e-06,onehot
+trim_SV Autobiography Dynamic,6.7207545765488e-06,onehot
+model_Ghost,6.705415848665502e-06,onehot
+trim_EX,6.684927559920362e-06,onehot
+trim_Flying Spur Speed,6.658184334220458e-06,onehot
+model_A6 Avant,6.61678746618342e-06,onehot
+generation_Convertible (2013 - 2017) A207 Facelift,6.597411543149735e-06,onehot
+model_Arona,6.590659202924309e-06,onehot
+model_Passat,6.5857667779134105e-06,onehot
+trim_Sport Plus,6.584288928452119e-06,onehot
+trim_80,6.56893804678736e-06,onehot
+make_MG,6.543905937959027e-06,onehot
+trim_ST-Line Edition,6.541875559254918e-06,onehot
+trim_Turbo Performance,6.538760711795625e-06,onehot
+generation_Coupe (2012 - 2016) 981,6.535393783483522e-06,onehot
+generation_SUV (2009 - 2014) L320 Facelift,6.519123294732678e-06,onehot
+model_AMG GT 63,6.494417153513248e-06,onehot
+model_C5 Aircross,6.483916649560873e-06,onehot
+generation_SUV (2013 - 2016),6.472552802134627e-06,onehot
+generation_Convertible (2019 - ),6.396635652752756e-06,onehot
+model_XE,6.318112907736776e-06,onehot
+make_Smart,6.3045407368300575e-06,onehot
+trim_Carbon Edition,6.301333394926915e-06,onehot
+model_Levante,6.293839251513894e-06,onehot
+trim_997 Carrera 4 GTS,6.2419456363519755e-06,onehot
+trim_Platinum Edition,6.240210132345515e-06,onehot
+model_Vanquish,6.228020744489252e-06,onehot
+model_Insignia,6.204292334304831e-06,onehot
+generation_Estate (2014 - 2018) C7,6.176146263052526e-06,onehot
+trim_Cooper Exclusive,6.156973919143908e-06,onehot
+model_Juke,6.056720245638076e-06,onehot
+trim_Turbo S,6.045983060513208e-06,onehot
+trim_60 Nav Suite,6.044624949486396e-06,onehot
+trim_GTC Speed,5.995684583840812e-06,onehot
+trim_Elegance,5.993290971793949e-06,onehot
+trim_Vignale,5.988230703173669e-06,onehot
+model_8 Series Gran Coupe,5.935948464242213e-06,onehot
+model_Berlingo,5.925720701590106e-06,onehot
+generation_Hatchback (2013 - 2016) MK1 Facelift,5.915005146725241e-06,onehot
+trim_Type R GT,5.8882033749091285e-06,onehot
+model_718 Spyder,5.863235215085591e-06,onehot
+generation_Hatchback (2014 - ),5.842210617776031e-06,onehot
+trim_HSE Black,5.78993934841306e-06,onehot
+generation_Estate (2014 - 2018),5.776661814814689e-06,onehot
+generation_Estate (2019 - 2022),5.7608271289478e-06,onehot
+trim_SZ5,5.754803041366114e-06,onehot
+generation_Convertible (2009 - 2014),5.751938520407209e-06,onehot
+model_Prius+,5.743396199448178e-06,onehot
+trim_Match Edition,5.739913709744977e-06,onehot
+generation_Coupe (2017 - 2019),5.72756792596849e-06,onehot
+model_RS5,5.713137536579548e-06,onehot
+model_Corolla,5.6637996783408806e-06,onehot
+model_SL Class,5.662196942227688e-06,onehot
+generation_Saloon (2019 - 2020),5.657942511149108e-06,onehot
+model_ID.4,5.604607581672905e-06,onehot
+trim_xLine,5.550080065075064e-06,onehot
+trim_LP 560-4,5.545460078819828e-06,onehot
+generation_Convertible (2004 - 2012) 997,5.509966727954758e-06,onehot
+trim_Invincible,5.499518870814626e-06,onehot
+generation_MPV (2022 - ),5.498060244049457e-06,onehot
+generation_Convertible (2017 - 2020),5.467082412212879e-06,onehot
+trim_Sport Edition,5.446020460931536e-06,onehot
+generation_Saloon (2012 - 2015),5.413278011277025e-06,onehot
+generation_Saloon (2018 - 2021),5.4090776569161185e-06,onehot
+trim_GTC,5.376574429228975e-06,onehot
+model_C-Max,5.364604895475474e-06,onehot
+trim_Level 2,5.346704305131841e-06,onehot
+generation_Estate (2018 - 2022),5.340301897858603e-06,onehot
+generation_Convertible (2007 - ),5.310079027796799e-06,onehot
+generation_SUV (2020 -),5.297825430502314e-06,onehot
+generation_SUV (2010 - 2015),5.2632889180599215e-06,onehot
+model_i30,5.249903381832268e-06,onehot
+trim_997 Carrera,5.219547456362143e-06,onehot
+trim_991 Carrera 4S,5.214592998196436e-06,onehot
+trim_Edition 1,5.207245743778083e-06,onehot
+model_208,5.200862021482846e-06,onehot
+trim_Landmark Edition,5.180196230721364e-06,onehot
+trim_AMG Night Edition,5.171411939308726e-06,onehot
+generation_SUV (2014 - 2018) MK 1,5.120670887897689e-06,onehot
+generation_Hatchback (2010 - 2015) D Facelift,5.115562288156227e-06,onehot
+trim_Family,5.0800126216905246e-06,onehot
+trim_420 R,5.074594690675959e-06,onehot
+trim_FR Sport,5.004027391315441e-06,onehot
+generation_Saloon (2013 - 2017),5.00096425347537e-06,onehot
+generation_Convertible (2006 - 2011),4.978174288783772e-06,onehot
+trim_Dynamique Nav,4.960742711555717e-06,onehot
+trim_Max,4.888970195449398e-06,onehot
+trim_4h,4.848800978179528e-06,onehot
+model_TUCSON,4.842716882516037e-06,onehot
+trim_987,4.835860006457197e-06,onehot
+generation_Coupe (2006 - 2009),4.818526374510736e-06,onehot
+model_108,4.813801095693874e-06,onehot
+model_IONIQ,4.790051855781791e-06,onehot
+trim_SRi,4.766789559028746e-06,onehot
+generation_Saloon (2020 - 2022),4.714210201451696e-06,onehot
+model_X4 M,4.701712278931408e-06,onehot
+generation_SUV (2016 - 2018),4.683587134246637e-06,onehot
+trim_Veloce,4.663493374477967e-06,onehot
+generation_Saloon (2013 - 2017) 4H Facelift,4.620817390593471e-06,onehot
+trim_M Sport Edition,4.618777117798349e-06,onehot
+trim_Exclusive,4.6175594179119226e-06,onehot
+trim_Final Edition,4.6041852795871755e-06,onehot
+model_HR-V,4.594729890158719e-06,onehot
+model_SQ5,4.59068924007286e-06,onehot
+model_A4 Avant,4.585843497302659e-06,onehot
+trim_SE Tech,4.565439544822503e-06,onehot
+generation_SUV (2013 - 2017),4.555265159684544e-06,onehot
+trim_Westminster Black,4.539432337272491e-06,onehot
+model_DB11,4.511219767823697e-06,onehot
+trim_987 S,4.504305509413372e-06,onehot
+model_Ateca,4.499594564414879e-06,onehot
+model_LC 500,4.4803021950087445e-06,onehot
+trim_ST-Line Vignale,4.4750214912800855e-06,onehot
+generation_Saloon (2013 - 2016),4.470624975384274e-06,onehot
+generation_Convertible (2013 - 2017),4.470614681553296e-06,onehot
+model_2008,4.4653413548383264e-06,onehot
+model_Q8 e-tron,4.45093689369233e-06,onehot
+trim_Shine Plus,4.43285487568546e-06,onehot
+model_X-Trail,4.41701148027974e-06,onehot
+model_Z4 M,4.403100161190153e-06,onehot
+generation_Coupe (2021 - ),4.39241875668725e-06,onehot
+model_Z4,4.336921574241405e-06,onehot
+trim_Ultra Prestige,4.333384824693163e-06,onehot
+trim_N Performance,4.317078936622939e-06,onehot
+model_Giulia,4.314294176586444e-06,onehot
+model_ID. Buzz,4.29573278840487e-06,onehot
+generation_Convertible (2016 - ),4.288846619734783e-06,onehot
+model_Tipo,4.247676872622403e-06,onehot
+trim_Premium SE,4.243879856753466e-06,onehot
+trim_991 4 GTS,4.237938862985335e-06,onehot
+model_Seven,4.226305746705591e-06,onehot
+make_Caterham,4.204093026902166e-06,onehot
+model_XCeed,4.1783560141292415e-06,onehot
+model_UX 250h,4.149015064561422e-06,onehot
+trim_Advance,4.148564066211208e-06,onehot
+model_Evora,4.089052392224059e-06,onehot
+generation_Hatchback (2015 - ),4.082694924139351e-06,onehot
+model_iX3,4.067008771893494e-06,onehot
+trim_R-Dynamic Black,4.051229855208179e-06,onehot
+model_S60,4.045527440069765e-06,onehot
+trim_Type UK,4.036354867349939e-06,onehot
+generation_Hatchback (2013 - 2017),4.030883232137924e-06,onehot
+model_Flying Spur,3.9842113638546754e-06,onehot
+generation_SUV (2009 - 2014),3.9769381113837846e-06,onehot
+trim_Laurin & Klement,3.966238741545118e-06,onehot
+make_CUPRA,3.95727669932287e-06,onehot
+trim_Juro,3.950551498243367e-06,onehot
+trim_Lounge,3.94414816442303e-06,onehot
+generation_Estate (2018 - ),3.937254813226038e-06,onehot
+generation_SUV (2012 - 2016) X166,3.93628164139278e-06,onehot
+trim_Cooper Classic,3.932421751742395e-06,onehot
+generation_Hatchback (2008 - 2013) MK6,3.9207469309731445e-06,onehot
+generation_SUV (2016 - 2019),3.918663288943649e-06,onehot
+generation_Convertible (2020 - ),3.911159922412736e-06,onehot
+trim_SZ4,3.899759251286184e-06,onehot
+model_Prius,3.896850971649349e-06,onehot
+trim_60,3.8835004425137796e-06,onehot
+model_i800,3.880552916985292e-06,onehot
+trim_Performance Line +,3.8725654357588255e-06,onehot
+trim_Mulliner,3.8519281098495255e-06,onehot
+model_V60,3.839215100048011e-06,onehot
+trim_N430,3.823108259477601e-06,onehot
+trim_GT-Line S,3.7899219863112866e-06,onehot
+trim_SE Drive,3.7844266648879864e-06,onehot
+trim_Performance Line,3.7811370439175416e-06,onehot
+generation_Estate (2018 - 2021),3.758202924926338e-06,onehot
+make_Infiniti,3.733239759296913e-06,onehot
+trim_GT Sport Tech,3.710331820242994e-06,onehot
+trim_GTI Clubsport,3.70084424860015e-06,onehot
+model_V40,3.666931303243424e-06,onehot
+generation_Saloon (2013 - 2016) C117,3.6633427358772054e-06,onehot
+model_500,3.6621999935876826e-06,onehot
+trim_ST-Line X Edition,3.5513569734250954e-06,onehot
+trim_R-Dynamic,3.538160298230757e-06,onehot
+model_C40,3.537044966789696e-06,onehot
+model_LS 500h,3.52994862745197e-06,onehot
+generation_SUV (2011 - 2015) L538,3.5252730887327933e-06,onehot
+generation_Hatchback (2015 - 2020),3.5206934171741595e-06,onehot
+trim_Allure Premium,3.5077748637797443e-06,onehot
+model_MX-30,3.499125152621763e-06,onehot
+generation_Coupe (2012 - 2016),3.4944318802561283e-06,onehot
+trim_Dynamique TomTom,3.492892134227884e-06,onehot
+trim_M Sport Shadow Edition,3.478008384497688e-06,onehot
+generation_Convertible (1990 - ),3.47592890827483e-06,onehot
+trim_e+ N-Connecta,3.469028096003425e-06,onehot
+trim_HST,3.4682136021656975e-06,onehot
+generation_Hatchback (2013 - 2016),3.4531350335329133e-06,onehot
+model_M2,3.443237119854466e-06,onehot
+generation_Hatchback (2018 - 2022),3.4394521655853416e-06,onehot
+model_Crossland,3.43702823725072e-06,onehot
+model_i3,3.4270215871023318e-06,onehot
+trim_Edition,3.4126321323412148e-06,onehot
+trim_XCELLENCE Lux,3.4021734108719714e-06,onehot
+model_6 Series Gran Turismo,3.365166765225126e-06,onehot
+generation_Convertible (2004 - 2012) 987,3.355782132412947e-06,onehot
+trim_RED,3.318371494138787e-06,onehot
+model_570S,3.313712982394206e-06,onehot
+model_GLB Class,3.2988470270062656e-06,onehot
+model_CR-V,3.2980224284361255e-06,onehot
+model_Corsa-e,3.2976796391021947e-06,onehot
+model_FF,3.2677165547029655e-06,onehot
+generation_Coupe (2013 - 2017) MK1,3.2302877193158097e-06,onehot
+model_Clubman,3.2113261652728573e-06,onehot
+model_Megane,3.2004485073499027e-06,onehot
+trim_Feel,3.195573880973596e-06,onehot
+trim_R-Design Plus,3.1909734393212215e-06,onehot
+model_Polestar 2,3.185971008526799e-06,onehot
+model_Kamiq,3.1693557238239785e-06,onehot
+trim_Rubicon,3.1269472651438134e-06,onehot
+model_S7,3.122629473209141e-06,onehot
+model_TT,3.1215725345463794e-06,onehot
+trim_GS Line,3.115744841023715e-06,onehot
+model_DS 4,3.094676119183713e-06,onehot
+generation_Coupe (2013 - 2017),3.0859729594129074e-06,onehot
+trim_Dynamic R,3.076614858344074e-06,onehot
+trim_Titanium Edition,3.062927394425803e-06,onehot
+trim_XCELLENCE,3.0607380857238703e-06,onehot
+make_Abarth,3.0477103918047035e-06,onehot
+trim_SRi Nav Premium,3.0414926727331745e-06,onehot
+model_Virage,3.040033432621565e-06,onehot
+trim_1ST Edition,3.02448968677505e-06,onehot
+trim_SE Edition,3.0050143044522265e-06,onehot
+model_Tarraco,2.9748468494425983e-06,onehot
+model_S5,2.951692999584626e-06,onehot
+generation_Saloon (2016 - ),2.9165946611222236e-06,onehot
+model_Ibiza,2.9157983342696714e-06,onehot
+model_V90,2.910043476572532e-06,onehot
+model_S4 Avant,2.909397900741724e-06,onehot
+generation_Estate (2018 - 2020),2.90857270850077e-06,onehot
+trim_SE Premium,2.892723159494137e-06,onehot
+generation_MPV (2018 - 2019),2.8750337391933337e-06,onehot
+generation_Hatchback (2012 - 2017),2.8686601627264035e-06,onehot
+generation_Convertible (2017 - 2021),2.858681901072357e-06,onehot
+model_500X,2.8538981562937968e-06,onehot
+model_IONIQ 5,2.8167481106885517e-06,onehot
+model_Mazda6,2.8109427905349048e-06,onehot
+trim_997 Carrera 4S,2.8085867101204226e-06,onehot
+trim_ED Plus,2.7921358779949973e-06,onehot
+model_XKR,2.7863429347543675e-06,onehot
+model_DS 3,2.7836964395577805e-06,onehot
+model_e-208,2.7825131530268948e-06,onehot
+trim_Limited,2.778551518693549e-06,onehot
+generation_Coupe (2007 - 2017),2.7674532769356848e-06,onehot
+trim_Allure Premium +,2.7540720434955854e-06,onehot
+plate_age_id_58,2.742048745439055e-06,onehot
+trim_AMG S Night Edition,2.7383497414407964e-06,onehot
+trim_981 S,2.736401947716885e-06,onehot
+trim_Momentum Plus,2.730313442788847e-06,onehot
+model_B Class,2.726441508853377e-06,onehot
+trim_Royale,2.718637510982146e-06,onehot
+trim_Excite,2.689889965356142e-06,onehot
+model_A5 Cabriolet,2.6832095337587384e-06,onehot
+model_Fabia,2.681935810151704e-06,onehot
+trim_SE Technik,2.66304770931437e-06,onehot
+trim_GTI Clubsport 40,2.6613342446604925e-06,onehot
+model_Clio,2.6611692435114228e-06,onehot
+generation_Saloon (2017 - ),2.644421438507226e-06,onehot
+generation_Hatchback (2009 - 2014) MK5,2.6405625403922265e-06,onehot
+model_Rifter,2.630354271352772e-06,onehot
+generation_Coupe (2006 - 2012) C216,2.6076734437642875e-06,onehot
+generation_Coupe (2013 - 2017) C207 Facelift,2.6038798336120205e-06,onehot
+trim_Roadster,2.6025244739195066e-06,onehot
+model_S-Max,2.592618179492266e-06,onehot
+model_Crossland X,2.589749042967204e-06,onehot
+trim_Sport Nav,2.586142843986108e-06,onehot
+trim_992 Carrera,2.57319923834763e-06,onehot
+model_Convertible,2.56036575053955e-06,onehot
+generation_Coupe (2017 - ),2.553835042032828e-06,onehot
+model_718 Boxster,2.55079695932704e-06,onehot
+model_C3,2.537275830384261e-06,onehot
+model_Mazda3,2.536817189133081e-06,onehot
+trim_CS,2.5346365245669117e-06,onehot
+trim_Icon Tech,2.5339237463770287e-06,onehot
+generation_Estate (2012 - 2015),2.522503005161451e-06,onehot
+generation_Coupe (2005 - 2012) 987,2.5074335272248683e-06,onehot
+trim_Long Range Plus,2.5059331779267447e-06,onehot
+model_570GT,2.4838936066486917e-06,onehot
+generation_Hatchback (2019 - 2022),2.479139650029521e-06,onehot
+trim_GR SPORT,2.475592126281996e-06,onehot
+trim_Premium Luxury,2.471845782537341e-06,onehot
+trim_EX Navi,2.465118247962205e-06,onehot
+trim_Monte Carlo,2.456448286131945e-06,onehot
+generation_SUV (2012 - 2017) B8 Facelift,2.4533751985751406e-06,onehot
+generation_Saloon (2013 - 2016) W212 Facelift,2.449978222106045e-06,onehot
+generation_Estate (2017 - ),2.4488264696006607e-06,onehot
+generation_SUV (2014 - 2017),2.448234130346444e-06,onehot
+model_Swift,2.4477474996792225e-06,onehot
+generation_Coupe (2011 - 2013),2.431388492670433e-06,onehot
+model_Model 3,2.4204099483586213e-06,onehot
+generation_Estate (2013 - 2017),2.405370790532144e-06,onehot
+trim_Elite,2.3990942046548757e-06,onehot
+generation_Roadster (2016 - 2020),2.3979479281540166e-06,onehot
+model_MG ZS,2.3876073747034825e-06,onehot
+generation_SUV (2020 -  ),2.3786524548641946e-06,onehot
+model_508,2.366853527696601e-06,onehot
+model_RX 450h,2.3472665787877174e-06,onehot
+trim_SZ-T,2.3467189939149265e-06,onehot
+model_Forester,2.339988484937537e-06,onehot
+trim_992 Carrera 4S,2.33148581557051e-06,onehot
+trim_Flair Plus,2.3297482572340356e-06,onehot
+trim_N Line,2.3295034988721823e-06,onehot
+trim_Tekna+,2.3159293450230374e-06,onehot
+model_Sorento,2.3154680953434508e-06,onehot
+model_Ghibli,2.314086312474158e-06,onehot
+trim_4hs,2.314028490279501e-06,onehot
+trim_30 Jahre Edition,2.2996030743150686e-06,onehot
+trim_SE Executive,2.2920146395358425e-06,onehot
+model_Granturismo,2.282661564341139e-06,onehot
+trim_XJ50,2.2804254237725006e-06,onehot
+model_CX-30,2.2742012718053816e-06,onehot
+model_Captur,2.2737030173244744e-06,onehot
+trim_AMG Edition,2.2701194945018957e-06,onehot
+generation_SUV (2011 - 2015) MK1,2.26368121352066e-06,onehot
+generation_SUV (2009 - 2013) L322 Facelift,2.253546962115063e-06,onehot
+trim_VZ2,2.2473235201760463e-06,onehot
+model_Soul,2.2456924354292248e-06,onehot
+generation_Estate (2017 - 2022),2.2330339111405545e-06,onehot
+trim_VTR,2.2300228042530934e-06,onehot
+trim_Pro,2.211906523989969e-06,onehot
+trim_S Edition,2.209383812563971e-06,onehot
+model_Cherokee,2.1982081488096486e-06,onehot
+model_Stonic,2.1972219016152572e-06,onehot
+generation_Saloon (2011 - 2015),2.1964844829774835e-06,onehot
+generation_Coupe (2011 - 2015),2.189205994028085e-06,onehot
+trim_400,2.1867123410360984e-06,onehot
+model_Formentor,2.1845664930730233e-06,onehot
+trim_Cooper Sport,2.1804161266709557e-06,onehot
+generation_Convertible (2018 - 2022),2.1800641686380705e-06,onehot
+trim_Shadow Edition,2.17754854315591e-06,onehot
+trim_Supersports,2.156323310289925e-06,onehot
+generation_SUV (2013 - 2015) MK 3,2.140207019873399e-06,onehot
+model_308 SW,2.1183296978780803e-06,onehot
+generation_Saloon (2008 - 2012),2.110356724592027e-06,onehot
+trim_Chequered Flag,2.1103167074576787e-06,onehot
+model_RS7,2.107154944933096e-06,onehot
+trim_Momentum Pro,2.1045373416723864e-06,onehot
+model_i20,2.095796992254513e-06,onehot
+generation_SUV (2013 - 2017) X156,2.0922639129303965e-06,onehot
+trim_up! GTI,2.088106008973319e-06,onehot
+model_e-C4,2.0767495697623247e-06,onehot
+trim_Renaultsport,2.07409721830918e-06,onehot
+model_GL Class,2.0740682278222325e-06,onehot
+model_CX-5,2.0665173996538897e-06,onehot
+trim_Active X,2.0637861134339523e-06,onehot
+model_EV6,2.058792394024282e-06,onehot
+make_SsangYong,2.056323390522224e-06,onehot
+trim_Premium Sport Edition,2.0379562093925787e-06,onehot
+generation_Hatchback (2009 - 2015),2.0262354336944254e-06,onehot
+generation_Convertible (2003 - 2009) MK 2,2.020369463015616e-06,onehot
+model_Ceed,2.0141843168298856e-06,onehot
+trim_SportLine Plus,2.01287879311318e-06,onehot
+model_GranCabrio,2.0122059968530894e-06,onehot
+trim_Cooper S Exclusive,2.008056046058264e-06,onehot
+model_S2000,1.9885184056837668e-06,onehot
+trim_Shine,1.9816636297970666e-06,onehot
+trim_Cooper D,1.9782463331569868e-06,onehot
+trim_Exceed,1.976213939396324e-06,onehot
+generation_Hatchback (2011 - 2015),1.9667940795116746e-06,onehot
+trim_Quadrifoglio,1.954291782650585e-06,onehot
+generation_Saloon (2016 - 2019),1.951407643920934e-06,onehot
+model_Micra,1.951282621355587e-06,onehot
+generation_Hatchback (2019 - 2021),1.9423583862090467e-06,onehot
+trim_S line Plus,1.9329482874194995e-06,onehot
+generation_SUV (2015 - 2022),1.932042885743546e-06,onehot
+model_4C,1.9314431860467694e-06,onehot
+trim_Pure,1.9190783949955527e-06,onehot
+model_Sandero Stepway,1.913440705756827e-06,onehot
+trim_GT Line Premium,1.9089235049316293e-06,onehot
+model_Mokka X,1.903679100908988e-06,onehot
+generation_Coupe (2019 - 2022),1.8967883907960238e-06,onehot
+trim_XE Premium,1.8966329298021227e-06,onehot
+make_Polestar,1.8956673780576357e-06,onehot
+generation_Hatchback (2011 - 2014) MK3,1.8925559681745494e-06,onehot
+trim_Cooper SD,1.8853293161680607e-06,onehot
+model_TTS,1.8834914254349834e-06,onehot
+trim_Flair XTR,1.8817172519812698e-06,onehot
+trim_Tech Line Nav,1.8793929130767206e-06,onehot
+model_S4,1.8762406938017256e-06,onehot
+generation_Hatchback (2012 - 2016),1.8718594577969106e-06,onehot
+generation_Estate (2015 - 2018),1.8675234878238057e-06,onehot
+trim_Trofeo,1.86168786007562e-06,onehot
+trim_Exclusive Luxury,1.859660991985223e-06,onehot
+model_EQE,1.8593739034769514e-06,onehot
+trim_Sport Nav+,1.8482360811214936e-06,onehot
+generation_SUV (2010 - 2014) MK3,1.8435287243242923e-06,onehot
+model_Galaxy,1.832776582627782e-06,onehot
+generation_SUV (1998 - 2013),1.8311979534699237e-06,onehot
+model_CC,1.8230167485193622e-06,onehot
+trim_Executive Edition,1.8218849976444409e-06,onehot
+trim_AMG Sport Edition,1.8174412938369417e-06,onehot
+trim_HSE Dynamic Lux,1.8122414442191278e-06,onehot
+generation_Estate (2014 - ),1.8050464261575347e-06,onehot
+generation_SUV (2018 - 2019),1.7989601978998507e-06,onehot
+trim_Play,1.7918132415019968e-06,onehot
+model_Phantom,1.7900437043161107e-06,onehot
+generation_Convertible (2009 - 2013),1.7871533478795549e-06,onehot
+model_e-up!,1.7847479493119845e-06,onehot
+trim_Dynamique S Nav,1.7812673962048612e-06,onehot
+trim_John Cooper Works GP,1.7801323190584992e-06,onehot
+model_MX-5,1.7761741917628795e-06,onehot
+model_2 Series Gran Tourer,1.7638463570679446e-06,onehot
+trim_Modena,1.7634034921417337e-06,onehot
+trim_S line Style Edition,1.762892574050458e-06,onehot
+model_Duster,1.759964792044955e-06,onehot
+model_Ignis,1.7451923096636651e-06,onehot
+generation_MPV (2015 - ),1.7280386141112037e-06,onehot
+generation_Saloon (2012 - 2017) MK2,1.719894831209967e-06,onehot
+trim_SR,1.7186865565341092e-06,onehot
+trim_Zetec Edition,1.7142478376053904e-06,onehot
+generation_Convertible (2019 - 2022),1.7097735311037958e-06,onehot
+generation_SUV (2009 - 2015) 4L Facelift,1.7073560348190077e-06,onehot
+trim_C,1.706420532219257e-06,onehot
+model_C3 Aircross,1.7014099834537638e-06,onehot
+trim_Sport Lux,1.6915597155954548e-06,onehot
+trim_992 Carrera 4,1.6908024803074284e-06,onehot
+trim_SE Business,1.6898063463843493e-06,onehot
+generation_Convertible (2010 - 2014),1.6883881876722806e-06,onehot
+model_RX 350h,1.6883047854906808e-06,onehot
+trim_Touring,1.6880398647813305e-06,onehot
+trim_Cupra K1,1.6853854922475715e-06,onehot
+trim_MC Stradale,1.6834785329428115e-06,onehot
+trim_Comfort,1.6751422195955256e-06,onehot
+trim_Longitude,1.668076310392895e-06,onehot
+model_M Class,1.6621791161673167e-06,onehot
+generation_Coupe (2008 - 2016) MK1 Facelift,1.6542722355136462e-06,onehot
+trim_SE Pro,1.6490475699319832e-06,onehot
+model_up!,1.6453134150322967e-06,onehot
+generation_MPV (2019 - ),1.64005808165766e-06,onehot
+model_3 Series Gran Turismo,1.639467074357904e-06,onehot
+generation_Coupe (2012 - 2018) MK 1,1.6169414859091378e-06,onehot
+trim_AMG PETRONAS 2015 World Champion Edition,1.6148828879069892e-06,onehot
+trim_R36,1.6135944749098228e-06,onehot
+model_C4,1.59970514421703e-06,onehot
+generation_Saloon (2015 - 2017),1.5923972625512516e-06,onehot
+trim_Championship Edition,1.591057229765477e-06,onehot
+model_i10,1.582015738828238e-06,onehot
+trim_Pop,1.5815984231094558e-06,onehot
+generation_Convertible (2018 - 2021),1.5773632214497284e-06,onehot
+generation_Coupe (2017 - 2021),1.5731175133662913e-06,onehot
+trim_S line Sport Edition,1.5686898727541298e-06,onehot
+generation_Hatchback (2011 - 2016),1.5645882811850208e-06,onehot
+generation_SUV (2007 - 2014),1.5549330784715975e-06,onehot
+trim_City,1.5540731738054784e-06,onehot
+generation_Hatchback (2016 - 2022),1.5516070960606097e-06,onehot
+trim_Landmark,1.5504414660774352e-06,onehot
+model_RX L 450h,1.5480333270790194e-06,onehot
+trim_ST-Line Design 2,1.543880406313383e-06,onehot
+model_Picanto,1.5407459389142532e-06,onehot
+trim_SV Autobiography,1.5398781734664907e-06,onehot
+trim_One,1.5397250621087522e-06,onehot
+trim_e-tron,1.5358446321625699e-06,onehot
+trim_Griffin,1.52431246140878e-06,onehot
+trim_80x SportLine Plus,1.5166098575250216e-06,onehot
+model_fortwo,1.514724263282828e-06,onehot
+generation_MPV (2015 - 2018),1.5138971333576363e-06,onehot
+trim_Titanium X Edition,1.5092089793987513e-06,onehot
+generation_Convertible (2006 - 2016),1.5045209676262122e-06,onehot
+model_A4 Allroad,1.499154880529943e-06,onehot
+generation_Estate (2013 - 2018),1.4925359296382384e-06,onehot
+trim_M Sport X,1.4868809884627159e-06,onehot
+trim_n-tec,1.4863685106380193e-06,onehot
+trim_XPERIENCE Lux,1.4808947369446514e-06,onehot
+trim_SE Lux Nav,1.4780465777509548e-06,onehot
+model_Touran,1.473371799353809e-06,onehot
+generation_SUV (2012 - 2018),1.4697987732919962e-06,onehot
+trim_Active X Edition,1.464535763941648e-06,onehot
+trim_United,1.4574998701446738e-06,onehot
+generation_Hatchback (2013 - 2017) MK1 Facelift,1.4420938060490764e-06,onehot
+model_Grecale,1.431757136068203e-06,onehot
+trim_Crosstar EX,1.4256924981162477e-06,onehot
+model_MG5,1.4240783483483284e-06,onehot
+model_forfour,1.4216495023570105e-06,onehot
+trim_e+ Tekna,1.4202781416261147e-06,onehot
+trim_Energy,1.420139306511643e-06,onehot
+trim_Ember Special Edition,1.4167999361158537e-06,onehot
+trim_Limited Edition 500,1.4165405962952094e-06,onehot
+trim_Trophy,1.4145350540259527e-06,onehot
+model_GT86,1.4111905022781637e-06,onehot
+trim_Cooper S Classic,1.4055874770534627e-06,onehot
+trim_HSE Silver,1.399256833713547e-06,onehot
+model_Across,1.3990643567190312e-06,onehot
+generation_Hatchback (2011 - 2015) MK 3,1.390727502161424e-06,onehot
+trim_T Spirit,1.383734511951861e-06,onehot
+generation_Estate (2012 - 2014) C7,1.3771581480125256e-06,onehot
+trim_1,1.3736077595010885e-06,onehot
+trim_R-Design Nav,1.3712746070613578e-06,onehot
+trim_GR Pro,1.3693522469063714e-06,onehot
+generation_Coupe (2010 - 2015) MK2 Facelift,1.3607112545560455e-06,onehot
+trim_SRi VX Line Nav Black,1.3606438739963186e-06,onehot
+generation_SUV (2012 - 2015),1.3595804487210022e-06,onehot
+generation_Hatchback (2011 - 2015) 8P Facelift,1.3589291264260985e-06,onehot
+trim_VTR+,1.356877890428935e-06,onehot
+trim_SRi Premium,1.3530257473252942e-06,onehot
+generation_MPV (2010 - 2015) MK2,1.352010630555078e-06,onehot
+trim_SE Navigation,1.3518821941465394e-06,onehot
+model_XK,1.346615521493649e-06,onehot
+trim_Rivoli +,1.336575467025646e-06,onehot
+trim_991 Carrera T,1.330354088178175e-06,onehot
+model_Vitara,1.3161236069070982e-06,onehot
+model_Rio,1.3054712398685086e-06,onehot
+trim_Premium Black,1.3050846395724186e-06,onehot
+model_Scirocco,1.3024970975007707e-06,onehot
+model_Giulietta,1.3003833826583472e-06,onehot
+trim_Air,1.2993534337506717e-06,onehot
+trim_Utility,1.2971121296263312e-06,onehot
+model_Korando,1.2936889283372683e-06,onehot
+trim_Executive,1.2915286455437705e-06,onehot
+trim_GT Sport,1.2901005393389412e-06,onehot
+trim_GTC Supersports,1.2874411376943097e-06,onehot
+make_INEOS,1.286996335399209e-06,onehot
+trim_R-Design Lux Nav,1.2824409086591695e-06,onehot
+model_Renegade,1.2808739592350535e-06,onehot
+trim_GX4h,1.2800957501499537e-06,onehot
+generation_Convertible (2011 - 2016) R172,1.278731347983078e-06,onehot
+generation_Estate (2020 - 2022),1.2772983473071639e-06,onehot
+trim_Fieldmaster Edition,1.2741590052382973e-06,onehot
+model_500e,1.2738878811741358e-06,onehot
+generation_Estate (2016 - 2021),1.2656697792903332e-06,onehot
+trim_SE L Executive,1.2638404911521808e-06,onehot
+trim_e-up!,1.2633119025041659e-06,onehot
+trim_SRi VX Line Nav,1.2629173155337545e-06,onehot
+generation_Hatchback (2010 - 2015),1.2581611347500446e-06,onehot
+trim_X-Line S,1.2546951949415152e-06,onehot
+trim_XS,1.2512317174572072e-06,onehot
+generation_MPV (2016 - 2018),1.2370080344289154e-06,onehot
+trim_Core,1.2321737263343654e-06,onehot
+generation_SUV (2006 - 2014),1.2312132708477576e-06,onehot
+trim_C-Series Edition,1.2309925053815036e-06,onehot
+trim_M Sport Plus Edition,1.2248634311774684e-06,onehot
+trim_SE Plus,1.2115846428832834e-06,onehot
+model_CT 200h,1.2108935863404667e-06,onehot
+model_Rapide,1.2091550222982148e-06,onehot
+trim_SE-L Nav,1.2060552809343847e-06,onehot
+model_ES 300h,1.20570450115107e-06,onehot
+model_V60 Cross Country,1.2042857537196343e-06,onehot
+generation_Saloon (2002 - 2009),1.2042065488704872e-06,onehot
+model_2 Series Gran Coupe,1.2039565712209339e-06,onehot
+generation_Convertible (2017 - ),1.2001399065878553e-06,onehot
+generation_Convertible (2014 - 2017),1.199051145315762e-06,onehot
+trim_Colour Edition,1.1927899126899758e-06,onehot
+trim_Legende,1.1925933600775119e-06,onehot
+trim_AMG Colour Edition,1.1873825380366723e-06,onehot
+trim_GT Speed,1.1830673851046091e-06,onehot
+model_Partner Tepee,1.1824739986694667e-06,onehot
+trim_ST,1.1823877612935518e-06,onehot
+generation_Saloon (2014 - 2019),1.1815641686230007e-06,onehot
+trim_AMG Touring,1.181435650666504e-06,onehot
+trim_GTE,1.1812896717057353e-06,onehot
+generation_Convertible (2012 - 2016) R231,1.1803712438116987e-06,onehot
+trim_X-Line,1.1774481759720386e-06,onehot
+trim_SE Business Edition,1.1773347915328367e-06,onehot
+model_Grandland,1.1729136510611358e-06,onehot
+model_Auris,1.1715709675005187e-06,onehot
+model_370 Z,1.1705711412457724e-06,onehot
+model_Q50,1.1690268157552062e-06,onehot
+model_SX4 S-Cross,1.1626297384657722e-06,onehot
+generation_Saloon (2008 - 2013),1.161379528647462e-06,onehot
+trim_Dark Shadow Edition,1.1612696460982253e-06,onehot
+model_Grand Cherokee,1.1464805098265024e-06,onehot
+generation_Estate (2018 - 2019),1.1455835698647077e-06,onehot
+generation_Estate (2016 - 2018),1.1447142452519196e-06,onehot
+trim_Titanium Design,1.1387549212671598e-06,onehot
+trim_Titanium X Sport,1.1335087113430415e-06,onehot
+trim_987 R,1.131305677051471e-06,onehot
+trim_Trailhawk,1.1290674705715523e-06,onehot
+generation_SUV (2013 - 2020),1.1268863392940774e-06,onehot
+generation_Hatchback (2014 - 2017),1.1214341719878907e-06,onehot
+trim_RS Edition,1.1198177807458025e-06,onehot
+trim_SE Navi,1.1125486636526424e-06,onehot
+model_S8,1.1114656658922765e-06,onehot
+generation_Hatchback (2020 - 2022),1.1113267913803578e-06,onehot
+generation_Coupe (2011 - 2018),1.1058382364898576e-06,onehot
+model_Meriva,1.1046881013288086e-06,onehot
+trim_Trend,1.1044175292629424e-06,onehot
+generation_Estate (2014  - 2019),1.1018942711716873e-06,onehot
+generation_Convertible (2015 - ),1.1001240094784464e-06,onehot
+model_Astra GTC,1.0998768372489633e-06,onehot
+model_Eclipse Cross,1.0992971643867428e-06,onehot
+generation_MPV (2014 - 2018),1.0986361348908277e-06,onehot
+trim_Speciale,1.0909342347417267e-06,onehot
+trim_SE Line,1.086619000860719e-06,onehot
+trim_Sprint,1.0813572247110344e-06,onehot
+trim_AMG Edition 463,1.075552812624064e-06,onehot
+trim_991 Carrera 4 GTS,1.0746242886276866e-06,onehot
+model_IS 300,1.071277665407327e-06,onehot
+model_EQB,1.0687310787145433e-06,onehot
+trim_Sense Plus,1.064703204412769e-06,onehot
+model_Sharan,1.0576700621144186e-06,onehot
+trim_Access,1.0511984778958052e-06,onehot
+trim_SVR Carbon Edition,1.049785095715982e-06,onehot
+make_Chevrolet,1.04372787461391e-06,onehot
+trim_Tech Edition,1.0403492686631065e-06,onehot
+generation_Saloon (2010 - 2014),1.0379212503068439e-06,onehot
+trim_997 Carrera GTS,1.0227598866238778e-06,onehot
+trim_FR Edition,1.0222106462072054e-06,onehot
+model_AYGO,1.0219500395789153e-06,onehot
+model_Honda E,1.0178067679883791e-06,onehot
+trim_Ultimate Nav,1.0093271694590019e-06,onehot
+generation_Saloon (2018 - 2019),1.0081392696551683e-06,onehot
+model_SLK,1.006848641029694e-06,onehot
+trim_Evolve,1.0043844239102004e-06,onehot
+trim_5h,1.0012458910350193e-06,onehot
+model_EQS,9.98680763839799e-07,onehot
+model_Mazda2,9.98370913382876e-07,onehot
+model_Ariya,9.972857152955458e-07,onehot
+generation_Saloon (2011 - 2016) B8 Facelift,9.971826998360217e-07,onehot
+model_MG HS,9.953265433003546e-07,onehot
+trim_GTI+,9.9356525990228e-07,onehot
+trim_Limited Edition,9.920210257302056e-07,onehot
+generation_Hatchback (2016 - 2018),9.910101335164306e-07,onehot
+generation_MPV (2008 - 2015) MK2,9.904119790718445e-07,onehot
+trim_HSE Dynamic Black,9.88933317501897e-07,onehot
+model_S1,9.8098962736144e-07,onehot
+trim_S Platinum Edition,9.760627953471417e-07,onehot
+generation_SUV (2011 - 2016) MK1 Facelift,9.757798232048255e-07,onehot
+generation_Hatchback (2012 - 2018),9.752863594082216e-07,onehot
+model_Beetle,9.70651637494317e-07,onehot
+generation_Hatchback (2005 - 2012) MK 8,9.682561109750903e-07,onehot
+generation_Saloon (2013 - 2016) F10 Facelift,9.607904453167075e-07,onehot
+model_Impreza,9.525581663987013e-07,onehot
+trim_Zetec S,9.497736847726831e-07,onehot
+model_NX 450h+,9.487597633070014e-07,onehot
+generation_MPV (2012 - 2017),9.452574673907497e-07,onehot
+trim_SE Connect,9.452350975091167e-07,onehot
+model_Grenadier,9.445636350725017e-07,onehot
+trim_SE L First Edition,9.437238826613612e-07,onehot
+trim_Elite Nav Premium,9.344578192282043e-07,onehot
+trim_GT Supersports,9.262045517791333e-07,onehot
+trim_Milano Edizione,9.244182162626085e-07,onehot
+generation_SUV (2007 - 2012),9.232586439446276e-07,onehot
+trim_SRi VX Line,9.224104084432815e-07,onehot
+generation_Hatchback (2014 - 2014) MK1,9.157845237843913e-07,onehot
+trim_Metropolitan Edition,9.128200584411361e-07,onehot
+trim_Exclusive Edition,9.122590513956395e-07,onehot
+trim_Edge,9.088045192273529e-07,onehot
+trim_Executive SE,9.063441539208926e-07,onehot
+trim_30,9.054674888864555e-07,onehot
+generation_Hatchback (2014 - 2017) MK3 Facelift,9.012031897059629e-07,onehot
+trim_WRX STi Type UK,9.005606503385755e-07,onehot
+generation_SUV (2014 - 2018) MK 3,8.964197148988458e-07,onehot
+trim_Maybach,8.934804227978857e-07,onehot
+trim_RX Prem Plus,8.92157834113702e-07,onehot
+model_RS e-tron GT,8.920326843828202e-07,onehot
+generation_SUV (2008 - 2013),8.919583274926002e-07,onehot
+trim_80 Loft,8.87950900527217e-07,onehot
+trim_SE Family,8.866417433605898e-07,onehot
+model_508 SW,8.843560862506859e-07,onehot
+model_XKR-S,8.838896012449691e-07,onehot
+generation_SUV (2016 - 2022),8.819893364234357e-07,onehot
+model_A6 Allroad,8.806248980482455e-07,onehot
+trim_Elite Edition,8.794454514491037e-07,onehot
+generation_Hatchback (2012 - 2015 ),8.778556012895133e-07,onehot
+generation_SUV (2009 - 2013) 150 Series,8.778128888456613e-07,onehot
+trim_Turismo,8.762334954900571e-07,onehot
+trim_Super,8.756547755797306e-07,onehot
+trim_Exclusiv,8.716554170332812e-07,onehot
+model_Zafira Tourer,8.701784594999465e-07,onehot
+generation_MPV (2015 - 2021),8.688612958380659e-07,onehot
+generation_Convertible (2006 - 2015) MK2,8.604576538793257e-07,onehot
+trim_Upland,8.596006032893386e-07,onehot
+trim_x-play,8.591081070093082e-07,onehot
+trim_GTI TCR,8.557230698451952e-07,onehot
+generation_Hatchback (2009 - 2013),8.548357648956357e-07,onehot
+generation_Convertible (2005 - 2014),8.525665795817343e-07,onehot
+generation_Convertible (2015 - 2017),8.513669334699558e-07,onehot
+trim_RS Line,8.510848075119417e-07,onehot
+generation_Convertible (2012 - 2016) MK2,8.498858615510363e-07,onehot
+model_Note,8.461803926508681e-07,onehot
+generation_SUV (2012 - 2017),8.455938955372878e-07,onehot
+trim_BlueGT,8.45410139401645e-07,onehot
+trim_Aero,8.40717975649216e-07,onehot
+model_Freelander 2,8.40500585470565e-07,onehot
+trim_997 Turbo,8.391953977297782e-07,onehot
+trim_GS,8.38757210705645e-07,onehot
+trim_80 Suite,8.368787202492335e-07,onehot
+trim_Business Edition Plus,8.3643900786311e-07,onehot
+generation_SUV (2014 - 2016),8.343099092539714e-07,onehot
+generation_SUV (2010 - 2017),8.293702537483889e-07,onehot
+trim_SE Lux,8.26938496111151e-07,onehot
+model_Emira,8.252672873025654e-07,onehot
+model_S6 Saloon,8.244271117684702e-07,onehot
+trim_Signature Nav,8.243877669479282e-07,onehot
+generation_Hatchback (2008 - 2014) MK 1,8.178432061669485e-07,onehot
+generation_Hatchback (2012 - ),8.161197125363934e-07,onehot
+generation_Coupe (2009 - 2013) C207,8.107314012347331e-07,onehot
+trim_Carpathian Edition,8.039718132991319e-07,onehot
+generation_Hatchback (2008 - 2014) MK7,7.936735953566674e-07,onehot
+trim_Level 3,7.887368562406154e-07,onehot
+model_Grand C-Max,7.842808168771926e-07,onehot
+trim_vRS Limited Edition,7.841325602372662e-07,onehot
+trim_Design Nav,7.829052812621069e-07,onehot
+generation_Hatchback (2008 - 2013),7.812712459542093e-07,onehot
+trim_GT Edition,7.779396950310767e-07,onehot
+generation_MPV (2011 - 2016) MK1,7.769014242953036e-07,onehot
+generation_SUV (2011 - 2014),7.748672801000472e-07,onehot
+generation_Convertible (2011 - 2014),7.736275850552136e-07,onehot
+model_SLC,7.722708493793594e-07,onehot
+trim_Active 1,7.689483927967916e-07,onehot
+model_Panda,7.641249727884126e-07,onehot
+trim_GT Sport Nav+,7.629232108210708e-07,onehot
+generation_SUV (2012 - 2017) W166,7.622358956954284e-07,onehot
+generation_SUV (2010 - 2013),7.570890547624322e-07,onehot
+model_A3 Cabriolet,7.546544570517723e-07,onehot
+trim_4+,7.526598562693731e-07,onehot
+generation_Hatchback (2009 - 2014) MK1,7.476332905251138e-07,onehot
+trim_R-Design Edition,7.464451085130298e-07,onehot
+generation_Hatchback (2012 - 2016) MK3,7.461639458326688e-07,onehot
+model_XV,7.459832124033572e-07,onehot
+model_Grand C4 Picasso,7.411046977043861e-07,onehot
+trim_Passion,7.404260388381742e-07,onehot
+trim_Sport Tech,7.380207567787925e-07,onehot
+trim_S GranSport,7.364360758167358e-07,onehot
+trim_Element,7.361125864378198e-07,onehot
+model_595,7.340957506921445e-07,onehot
+model_V40 Cross Country,7.316808938564461e-07,onehot
+generation_Coupe (2022 - ),7.300092116092722e-07,onehot
+model_B-Max,7.298500490600867e-07,onehot
+trim_FR Technology,7.273383539355897e-07,onehot
+model_Model Y,7.273266978733077e-07,onehot
+trim_Premier,7.270896298331188e-07,onehot
+trim_SE-L,7.216583098078149e-07,onehot
+model_Born,7.184259641794036e-07,onehot
+trim_Griffin Edition,7.179503872192273e-07,onehot
+model_Outback,7.178045063223449e-07,onehot
+trim_e+ 3.Zero,7.148429312162138e-07,onehot
+generation_Saloon (2019 - 2021),7.145513364034097e-07,onehot
+trim_5hs,7.139890435755123e-07,onehot
+generation_Hatchback (2011 - 2015) MK 9,7.131792868029945e-07,onehot
+trim_n-tec+,7.092758110770401e-07,onehot
+trim_Style Edition,7.090102524308173e-07,onehot
+trim_GranSport,7.03236333823138e-07,onehot
+trim_ST-Line First Edition,7.02513295590763e-07,onehot
+generation_Hatchback (2010 - 2016),6.984094368461844e-07,onehot
+generation_Hatchback (2008 - 2014) MK3,6.980824267980682e-07,onehot
+trim_Sport 350,6.959817483583733e-07,onehot
+trim_Cupra R ST,6.941703307328934e-07,onehot
+model_C4 Picasso,6.934126091657467e-07,onehot
+model_DBS,6.902634002860672e-07,onehot
+trim_Rivoli,6.900000192319e-07,onehot
+generation_Convertible (2012 -),6.894391070366176e-07,onehot
+model_Santa Fe,6.884736365754432e-07,onehot
+trim_Passion Advanced,6.836477433941678e-07,onehot
+generation_SUV (2010 - 2017) MK2,6.823653433422128e-07,onehot
+trim_ST-Line X First Edition,6.80504819806089e-07,onehot
+model_Q30,6.795150119453501e-07,onehot
+generation_Coupe (2011 - 2015) MK1,6.780458622548636e-07,onehot
+generation_Coupe (2008 - 2013),6.729624390023153e-07,onehot
+trim_Night Eagle,6.7124145116116e-07,onehot
+generation_SUV (2011 - 2016) MK 2,6.698151099972969e-07,onehot
+trim_Graphite,6.691692932229348e-07,onehot
+trim_Ti,6.679900415299154e-07,onehot
+model_RCZ,6.655851625863731e-07,onehot
+trim_4 Platinum Edition,6.6519566474646e-07,onehot
+trim_V2,6.645358645288399e-07,onehot
+model_207,6.632356174106722e-07,onehot
+trim_Moda,6.613487984284956e-07,onehot
+trim_Metropolis,6.573954363740542e-07,onehot
+trim_designo Line,6.57250896026639e-07,onehot
+model_Antara,6.559795355454642e-07,onehot
+generation_Coupe (2009 - 2012),6.547786674275438e-07,onehot
+generation_Hatchback (2013 - 2016) MK1,6.524632705249673e-07,onehot
+trim_M Sport Pro,6.524489689788791e-07,onehot
+trim_S Centenary,6.503194812966939e-07,onehot
+model_MX-5 RF,6.487099351035848e-07,onehot
+generation_Coupe (2006 - 2012),6.486706585677461e-07,onehot
+generation_Estate (2010 - 2015),6.477959052570891e-07,onehot
+generation_Saloon  (2011 - 2014) C218,6.456934209035981e-07,onehot
+trim_VXR,6.423119470073141e-07,onehot
+generation_Estate (2013 - 2016) S212 Facelift,6.383214326605411e-07,onehot
+generation_Saloon (2005 - 2011),6.338359634034073e-07,onehot
+generation_Hatchback (2008 -2016),6.288480733054599e-07,onehot
+trim_Edizione Maserati,6.285252250582016e-07,onehot
+model_Doblo,6.262369487632126e-07,onehot
+generation_Coupe (2006 - 2016),6.244118064701631e-07,onehot
+generation_MPV (2013 - 2017) MK 3,6.235802355304479e-07,onehot
+generation_Hatchback (2011 - 2014),6.210549823173902e-07,onehot
+generation_SUV (2008 - 2012) W164 Facelift,6.168867068122921e-07,onehot
+generation_Hatchback (2010 - 2017) MK3,6.152524440495017e-07,onehot
+trim_991 Carrera Black Edition,6.144768364404038e-07,onehot
+trim_High up!,6.134392841675045e-07,onehot
+trim_Business Edition,6.134186553483348e-07,onehot
+trim_GranSport Nerissimo,6.117077895462919e-07,onehot
+trim_SE Dynamic,6.111899722339738e-07,onehot
+model_DS 4 CROSSBACK,6.106448206082459e-07,onehot
+generation_Estate (2011 - 2014) C7,6.084360995184219e-07,onehot
+generation_Coupe (2018 - 2021),6.078195921300592e-07,onehot
+model_RC 300h,6.073151816823801e-07,onehot
+trim_AMG Edition 125,6.064716856693741e-07,onehot
+trim_SE-L Nav+,6.061605872107119e-07,onehot
+generation_Hatchback (2008 - 2013) 8P Facelift,6.058051013626485e-07,onehot
+model_ORA Funky Cat,6.044225607342943e-07,onehot
+trim_M Sport Pro Edition,6.043022867839985e-07,onehot
+trim_M Mesh Edition,5.999381534575233e-07,onehot
+generation_Hatchback (2008 - 2016) MK2,5.976684944635599e-07,onehot
+generation_Hatchback (2008 - 2015) MK 2,5.97187599377045e-07,onehot
+model_Combo Life,5.926512171059915e-07,onehot
+generation_Estate (2010 - 2013) S212,5.845345947810498e-07,onehot
+generation_Coupe (2011 - 2016),5.823036167251019e-07,onehot
+generation_Hatchback (2012 - 2016) MK 4,5.763157456676739e-07,onehot
+trim_Cooper S Shadow Edition,5.72620633642764e-07,onehot
+generation_SUV (2021  - ),5.712226043894728e-07,onehot
+trim_Visia,5.710253046012518e-07,onehot
+trim_R-Line Edition,5.702520921892982e-07,onehot
+trim_LC4,5.688095196349344e-07,onehot
+trim_V1,5.667063006654582e-07,onehot
+model_CX-60,5.662789556148365e-07,onehot
+model_CX-3,5.634939929451251e-07,onehot
+generation_Estate (2013 - 2017) MK 1 Facelift,5.624815712696449e-07,onehot
+trim_S line Edition,5.617419370726531e-07,onehot
+generation_Convertible (2011 - 2017),5.584557737783211e-07,onehot
+trim_Westminster,5.555774925832388e-07,onehot
+trim_997 Black Edition,5.536298691701031e-07,onehot
+trim_Sport 390 Final Edition,5.531031677477325e-07,onehot
+model_DS 9,5.524378367813715e-07,onehot
+generation_Coupe (2006 - 2015) MK1 Facelift,5.499587948983502e-07,onehot
+model_Ka,5.484800787110463e-07,onehot
+generation_Hatchback (2018 - 2020),5.470781711491917e-07,onehot
+model_Grand C4 SpaceTourer,5.462187019437652e-07,onehot
+model_C1,5.43406799939473e-07,onehot
+trim_e+ n-tec,5.430959392928677e-07,onehot
+trim_GT4,5.418006092154029e-07,onehot
+trim_Cross,5.370935143280566e-07,onehot
+model_Tivoli XLV,5.367089029468495e-07,onehot
+model_Verso,5.325115611632037e-07,onehot
+model_DS 5,5.320297346305114e-07,onehot
+trim_Sport 410,5.313688551933615e-07,onehot
+trim_Cooper SE Classic,5.306077459311123e-07,onehot
+generation_Convertible (2021 - ),5.302588381827387e-07,onehot
+generation_Hatchback (2015 - 2021),5.286493623650898e-07,onehot
+model_i40,5.258082868591236e-07,onehot
+generation_MPV (2017 - 2021),5.238961686920927e-07,onehot
+generation_Convertible (2013 - 2017) MK1,5.233442279939096e-07,onehot
+trim_GranLusso,5.23034848498006e-07,onehot
+trim_Signature,5.221641848327018e-07,onehot
+trim_Elite Premium,5.19590413310173e-07,onehot
+trim_Titanium First Edition,5.172753574417289e-07,onehot
+model_Alhambra,5.16119540887566e-07,onehot
+generation_Hatchback (2014 - 2020),5.124703884495907e-07,onehot
+trim_Cooper SE Sport,5.11256838887085e-07,onehot
+trim_Tech,5.105333622958738e-07,onehot
+generation_Estate (2008 - 2012),5.091573147607471e-07,onehot
+trim_e-Golf,5.077167877541672e-07,onehot
+trim_SZ3,5.076000122872627e-07,onehot
+trim_ST-Line Black,5.062147139640506e-07,onehot
+trim_ELX,5.055907852435608e-07,onehot
+generation_Saloon (2009 - 2012) W212,5.045538086186053e-07,onehot
+generation_MPV (2012 - 2015) MK 2,5.020162332631538e-07,onehot
+trim_x-cite,4.997247872282233e-07,onehot
+generation_SUV (2018 -2022 ),4.992228699337009e-07,onehot
+model_Optima,4.982711592409216e-07,onehot
+trim_DStyle,4.982251684928385e-07,onehot
+trim_SVR Edition 1988,4.968172970958898e-07,onehot
+trim_Connected Chic,4.960854027627487e-07,onehot
+generation_Estate (2012 - 2016) X250,4.949499002705897e-07,onehot
+generation_Saloon (2014 - ),4.941395867733905e-07,onehot
+model_ix35,4.936708196112083e-07,onehot
+model_695C,4.928476403502067e-07,onehot
+generation_Hatchback (2013 - 2017) MK2 Facelift,4.913673686287352e-07,onehot
+trim_Autobiography Sport,4.903433110790671e-07,onehot
+trim_N-Motion,4.893259273413752e-07,onehot
+model_XC70,4.888305509900111e-07,onehot
+trim_SE-L Lux,4.864407765876606e-07,onehot
+generation_Coupe (2012 - 2015) MK2,4.83334458606265e-07,onehot
+generation_Convertible (2010 - 2013) C207,4.826248368255156e-07,onehot
+trim_ES,4.820808223268226e-07,onehot
+model_DS3,4.819673681233418e-07,onehot
+trim_Cooper SE,4.813426041256616e-07,onehot
+trim_Premiere Edition,4.785342315584664e-07,onehot
+generation_Estate (2005 - 2011),4.774708266921288e-07,onehot
+generation_Convertible (2010 - 2017),4.7583681241935106e-07,onehot
+model_Qashqai+2,4.7292927328186604e-07,onehot
+model_Taigo,4.7106894587980066e-07,onehot
+trim_Prime,4.710688962718113e-07,onehot
+trim_R-Line Plus,4.707886768167148e-07,onehot
+model_e-Golf,4.691466601423893e-07,onehot
+generation_Coupe (2013 - 2018),4.686748348205895e-07,onehot
+model_RC F,4.6777480393935056e-07,onehot
+generation_Convertible (2014 - 2018) MK 1,4.67610212514132e-07,onehot
+trim_Sport Plus Edition,4.675754464203335e-07,onehot
+generation_SUV (2015 - 2017),4.636814043074535e-07,onehot
+model_M6 Gran Coupe,4.635035440870727e-07,onehot
+trim_VZ1,4.5905074158787206e-07,onehot
+model_Scala,4.572547143403019e-07,onehot
+model_ADAM,4.565631868027466e-07,onehot
+generation_Convertible (2003 - 2011),4.565507913354298e-07,onehot
+trim_Active Edition,4.559512418217511e-07,onehot
+trim_RX,4.5509532663829447e-07,onehot
+trim_GTE Advance,4.5456362737562935e-07,onehot
+model_Rexton,4.5450126357377655e-07,onehot
+generation_Coupe (2013 - 2020),4.524267365760009e-07,onehot
+generation_Hatchback (2010 - 2014) MK 1,4.523513291790959e-07,onehot
+generation_Convertible (2011 - 2016) MK6,4.5206292427353564e-07,onehot
+trim_Adventure,4.5187810533624355e-07,onehot
+trim_Avantgarde,4.507888361047538e-07,onehot
+generation_Hatchback (2009 - 2016) MK1,4.466842246400655e-07,onehot
+trim_XE,4.461923583511579e-07,onehot
+trim_Platinum,4.460058133138404e-07,onehot
+model_Captiva,4.450196943394726e-07,onehot
+generation_Convertible (2011 - 2015),4.445367474167295e-07,onehot
+model_QX50,4.406011724607909e-07,onehot
+model_V90 Cross Country,4.367997909233346e-07,onehot
+trim_991 4S,4.3588028037599604e-07,onehot
+trim_Cooper S Boardwalk Edition,4.3573837695589314e-07,onehot
+trim_City Cross,4.310339599594998e-07,onehot
+trim_991 Carrera 4,4.2954767146581465e-07,onehot
+generation_Estate (2019 - 2021),4.284407745322632e-07,onehot
+trim_Cross Plus,4.282644755770367e-07,onehot
+trim_Move up!,4.2694789862544335e-07,onehot
+model_595C,4.263447143766806e-07,onehot
+generation_SUV (2009 - 2013) MK1,4.260130412662246e-07,onehot
+generation_SUV (2012 - 2016) MK 4,4.259664406672302e-07,onehot
+generation_Convertible (2010 - 2017)  R57 Facelift,4.256837016926725e-07,onehot
+trim_Black Edition Plus,4.249327838658225e-07,onehot
+model_500L,4.2371687608247934e-07,onehot
+trim_Business Edition Nav,4.2222825736986114e-07,onehot
+trim_1st Edition,4.2154001481753026e-07,onehot
+trim_KX-2,4.214858883511341e-07,onehot
+trim_Competizione,4.213305483688783e-07,onehot
+trim_T4,4.2058700569378676e-07,onehot
+generation_Saloon (2012 - 2016),4.2048174139799403e-07,onehot
+generation_MPV (2013 - 2019) MK2,4.1842488195405263e-07,onehot
+model_Maybach S Class,4.184075243474447e-07,onehot
+make_GWM ORA,4.17515518853541e-07,onehot
+model_GV70,4.1717005443902417e-07,onehot
+model_Punto Evo,4.1664975994175917e-07,onehot
+generation_MPV (2010 - 2014) MK1 Facelift,4.1566560373033335e-07,onehot
+model_ProCeed,4.117544603119603e-07,onehot
+generation_Saloon (2016 - 2018 ),4.1005767888277816e-07,onehot
+generation_Hatchback (2005 - 2012) MK2,4.0949073021775316e-07,onehot
+generation_Estate (2007 - 2012),4.0770864183194876e-07,onehot
+trim_DSport,4.069873113416823e-07,onehot
+trim_987 RS 60,4.0662644454310937e-07,onehot
+trim_Titanium Sport,4.0658197935358306e-07,onehot
+model_DS5,4.0473425753812663e-07,onehot
+generation_MPV (2015 - 2018) MK2 Facelift 2,4.0074370994564493e-07,onehot
+trim_Opera,4.0069646533876635e-07,onehot
+trim_Cooper SE Exclusive,4.003932877000173e-07,onehot
+trim_GT Line +,3.9916884257273443e-07,onehot
+trim_Dolcevita,3.9692331970423823e-07,onehot
+model_Pulsar,3.9467722977585237e-07,onehot
+generation_Saloon (2013 - 2020) D4 Facelift,3.946468754023884e-07,onehot
+trim_Tech Line,3.928182785724208e-07,onehot
+trim_Pure Tech,3.9176132710030247e-07,onehot
+trim_S line Special Edition,3.907747815036467e-07,onehot
+generation_Hatchback (2007 -  2012),3.8849366170394955e-07,onehot
+model_500C,3.874568420549516e-07,onehot
+trim_TR,3.8703871565097097e-07,onehot
+generation_Hatchback (2011 - 2016) B8 Facelift,3.867999394950906e-07,onehot
+generation_Estate (2010 - 2015) 5J Facelift,3.8357130331110615e-07,onehot
+trim_Dynamic Safety,3.8233706896471465e-07,onehot
+generation_Coupe (2006 - 2011),3.786122088377021e-07,onehot
+generation_Hatchback (2009 - 2013) MK1 Facelift,3.777336649026213e-07,onehot
+model_Tivoli,3.7611443838565786e-07,onehot
+trim_FR Black Edition,3.758612005195839e-07,onehot
+model_Punto,3.7582348666269495e-07,onehot
+generation_Saloon (2011 - 2014),3.756944657734145e-07,onehot
+trim_KX-4,3.752356324939933e-07,onehot
+generation_Convertible (2012 - 2015) B8 Facelift,3.752321891416408e-07,onehot
+model_Scenic,3.735685986228329e-07,onehot
+model_500X Dolcevita,3.7179647025453243e-07,onehot
+generation_Estate (2010 - 2014),3.7018116637417923e-07,onehot
+generation_Hatchback (2014 - 2017) MK1,3.672071091510118e-07,onehot
+trim_x-trend,3.669302784170979e-07,onehot
+generation_Hatchback (2009 - 2017) MK 3,3.6504766335692475e-07,onehot
+generation_SUV (2009 - 2013) MK 3 Facelift,3.6477010865578887e-07,onehot
+trim_SXi,3.6434492234991943e-07,onehot
+model_BAYON,3.634228343507458e-07,onehot
+model_695,3.6319353006455096e-07,onehot
+trim_beats,3.628040642650763e-07,onehot
+model_650S,3.599589359167006e-07,onehot
+trim_Techroad,3.592575284138534e-07,onehot
+trim_AMG Sport Plus,3.5877396338606936e-07,onehot
+model_Tonale,3.5643331551245533e-07,onehot
+trim_Bastille,3.560057668583517e-07,onehot
+generation_Estate (2011 - 2014) MK3,3.5552062557951346e-07,onehot
+trim_Reims Edition,3.553661077676275e-07,onehot
+trim_KX-3,3.55302699126383e-07,onehot
+model_C5 X,3.547494537906174e-07,onehot
+trim_Standard Range Plus,3.536521510338169e-07,onehot
+trim_Vignale Edition,3.526982038557905e-07,onehot
+generation_Hatchback (2011 - 2017) MK1,3.512751942987631e-07,onehot
+generation_Saloon (2010 - 2013),3.4917545763883166e-07,onehot
+model_Mii,3.4876274780598e-07,onehot
+trim_Acenta+,3.4609201186092184e-07,onehot
+generation_Hatchback (2012 - 2016) MK 2,3.4609012501117806e-07,onehot
+generation_Estate (2011 - 2016) B8 Facelift,3.4466797275980796e-07,onehot
+generation_Estate (2016 - 2019),3.4360967177502336e-07,onehot
+trim_100th Anniversary Edition,3.435001408999948e-07,onehot
+trim_up! beats,3.4337470662372204e-07,onehot
+model_FX,3.41074992325617e-07,onehot
+generation_Hatchback (2004 - 2012),3.407182029630696e-07,onehot
+trim_Dynamique,3.3669011298934016e-07,onehot
+trim_Orange Edition,3.36572369827105e-07,onehot
+trim_Trocadero,3.3566003616386403e-07,onehot
+trim_Sport Navi,3.349351128763423e-07,onehot
+model_MiTo,3.343459004800912e-07,onehot
+generation_Estate (2015 - 2020),3.3397575011955115e-07,onehot
+trim_Sport Engineered,3.3283609000586815e-07,onehot
+trim_Wild,3.3262969199082476e-07,onehot
+generation_Hatchback (2011 - 2013),3.322420413156188e-07,onehot
+trim_Bullitt,3.317378983209492e-07,onehot
+trim_LT,3.315593975253404e-07,onehot
+trim_Essential,3.2936897995656404e-07,onehot
+trim_Turbo GT,3.2920669957466967e-07,onehot
+generation_SUV (2009 - 2013) MK 1,3.2804104718987154e-07,onehot
+model_Solterra,3.2773171479833867e-07,onehot
+generation_Coupe (2009 - 2013) MK 1,3.275202344395715e-07,onehot
+trim_75th Anniversary,3.264929095332333e-07,onehot
+trim_SE L Drive,3.2601065883862477e-07,onehot
+trim_EfficientDynamics,3.254620154848233e-07,onehot
+generation_Convertible (2014 - 2018),3.244227973030802e-07,onehot
+generation_SUV (2012 - 2015) RV9,3.237763597158262e-07,onehot
+generation_MPV (2009 - 2013) MK 3,3.2377455369756836e-07,onehot
+trim_25 Years,3.226834190141667e-07,onehot
+trim_ST-1,3.2227278631071337e-07,onehot
+model_ix20,3.213492827339137e-07,onehot
+generation_MPV (2020 - ),3.210767943846242e-07,onehot
+trim_300 Sport,3.2089258969321735e-07,onehot
+generation_Hatchback (2012 - 2014),3.206120601726061e-07,onehot
+generation_Hatchback (2015 - 2017) MK2 Facelift,3.2030297685526285e-07,onehot
+generation_Convertible (2010 - 2014 ) MK1 Facelift,3.1899928059233646e-07,onehot
+generation_Estate (2008 - 2013),3.187979259670544e-07,onehot
+model_Golf SV,3.186049325051062e-07,onehot
+trim_Maxx,3.1767374622146094e-07,onehot
+model_Swace,3.1690225320852676e-07,onehot
+model_Megane E-Tech,3.168972358301901e-07,onehot
+generation_Roadster (2017 - 2019),3.1603390580384754e-07,onehot
+trim_GO! SE,3.1534634123740824e-07,onehot
+trim_ED Sport,3.120062325878069e-07,onehot
+make_Saab,3.105783821340824e-07,onehot
+trim_Nismo,3.101127957800385e-07,onehot
+model_Venga,3.094900775163142e-07,onehot
+generation_Estate (2011 - 2015) B8 Facelift,3.086924332842304e-07,onehot
+generation_Hatchback (2006 - 2011) D,3.07089440830381e-07,onehot
+trim_Techno,3.0654197585950726e-07,onehot
+model_S80,3.0513210808235913e-07,onehot
+trim_Pop Star,3.0143996617462936e-07,onehot
+generation_Hatchback (2012 - 2016) MK4 Facelift,2.9958244985723215e-07,onehot
+generation_Coupe (2011 - 2017) B8 Facelift,2.9918980860207537e-07,onehot
+generation_MPV (2010 - 2014) MK 2,2.9909483616691825e-07,onehot
+trim_Advance Style,2.969817694145862e-07,onehot
+trim_Inscription Plus,2.965027305060853e-07,onehot
+trim_Easy,2.958709946147137e-07,onehot
+model_Ka+,2.947511853257324e-07,onehot
+generation_MPV (2021 - ),2.938426252026716e-07,onehot
+trim_GTI Launch,2.935632079312421e-07,onehot
+model_e-Berlingo,2.9261813246523426e-07,onehot
+trim_CT,2.9231521710105736e-07,onehot
+trim_GTI Clubsport 45,2.9193599632659434e-07,onehot
+model_ASX,2.9127332738249926e-07,onehot
+model_C3 Picasso,2.9043858781861394e-07,onehot
+model_STS,2.895629013348702e-07,onehot
+trim_Cooper Shadow Edition,2.8724887324852605e-07,onehot
+generation_Estate (2015 - 2016) X117,2.853442603040169e-07,onehot
+model_DS4,2.8444541952542945e-07,onehot
+generation_Hatchback (2015 - 2017) MK4 Facelift 2,2.841251336813487e-07,onehot
+model_DS 3 CABRIO,2.8335149234167966e-07,onehot
+trim_DStyle Plus,2.816990434929274e-07,onehot
+trim_N-Vision,2.815765285938658e-07,onehot
+trim_MC,2.813949673399027e-07,onehot
+model_S6 Avant,2.812282516398256e-07,onehot
+generation_SUV (2009 - 2012),2.809612005333322e-07,onehot
+trim_AMG Yellow Night Edition,2.808934804900484e-07,onehot
+generation_MPV (2016 - 2020),2.806467241248263e-07,onehot
+generation_Estate (2013 - 2016),2.7842565244761455e-07,onehot
+model_Eos,2.7827375254465534e-07,onehot
+generation_Estate (2012 - 2016),2.780348740967659e-07,onehot
+trim_Connect,2.778799640851494e-07,onehot
+generation_Estate (2013 - 2016) MK 2,2.773261991384026e-07,onehot
+trim_Nogaro Edition,2.769412586136014e-07,onehot
+model_SQ2,2.7552088107092274e-07,onehot
+model_iQ,2.746519166211033e-07,onehot
+generation_SUV (2011 - 2015),2.7437296713561194e-07,onehot
+generation_Saloon (2006 - 2010) W211 Facelift,2.739403312214229e-07,onehot
+trim_80x vRS,2.730096834714309e-07,onehot
+generation_MPV (2011 - 2015) W246 & W242,2.728266819665722e-07,onehot
+trim_Momentum Nav Plus,2.7213383780358215e-07,onehot
+generation_MPV (2010 - 2015) MK4,2.715023668093769e-07,onehot
+model_Avensis,2.711193108039033e-07,onehot
+trim_GTX,2.704869948010849e-07,onehot
+generation_Estate (2009 - 2014),2.69900004368706e-07,onehot
+trim_Summit,2.6961952711129344e-07,onehot
+generation_Hatchback (2005 - 2012) MK1 Facelift,2.6882399967010237e-07,onehot
+model_Levorg,2.681420049743726e-07,onehot
+trim_V3,2.673832634497401e-07,onehot
+generation_Hatchback (2013 - 2015) MK2 Facelift,2.667990149956681e-07,onehot
+trim_3.Zero,2.66633572888516e-07,onehot
+trim_Laureate,2.6513360255037515e-07,onehot
+model_Baleno,2.648993855818661e-07,onehot
+model_MG3,2.637645266489948e-07,onehot
+generation_Coupe (2007 - 2011),2.636429166690709e-07,onehot
+trim_Business,2.6358466451221037e-07,onehot
+generation_Hatchback (2010 - 2013) MK2,2.631248634470095e-07,onehot
+trim_SE Plus Navi,2.6226238278972225e-07,onehot
+trim_Cooper S Resolute Edition,2.6210126085629913e-07,onehot
+model_Citigo,2.620614462400749e-07,onehot
+trim_N,2.6204304227134415e-07,onehot
+trim_007 Edition,2.592208857524084e-07,onehot
+trim_R-Design Nav Plus,2.584783571440364e-07,onehot
+trim_LTZ,2.5721868791175164e-07,onehot
+model_Grand Scenic,2.572118564030693e-07,onehot
+generation_MPV (2005 - 2015),2.5717029417791474e-07,onehot
+generation_Hatchback (2010 - 2013) MK 1 Facelift,2.571639113233368e-07,onehot
+generation_Hatchback (2006 - 2011),2.5683299440818736e-07,onehot
+trim_Bose Personal Edition,2.5631758289641626e-07,onehot
+generation_Estate (2010 - 2016) J,2.556198574775861e-07,onehot
+generation_Estate (2007 - 2013) MK 2,2.5414647350813724e-07,onehot
+trim_SE Nav Premium,2.540188902323147e-07,onehot
+trim_GTI Edition 35,2.539871761528468e-07,onehot
+trim_Ultimate Dark,2.5376213804369927e-07,onehot
+trim_Chic,2.528581490234617e-07,onehot
+generation_Coupe (2014 - 2019),2.5249066226279666e-07,onehot
+trim_Titanium Navigator,2.5192851534356765e-07,onehot
+model_Paceman,2.51306809338622e-07,onehot
+trim_Saint James,2.509062673361452e-07,onehot
+model_Zafira,2.505882361839206e-07,onehot
+generation_Hatchback (2010 - 2013),2.4868705824941436e-07,onehot
+trim_Lux Nav,2.483971044112286e-07,onehot
+model_Spark,2.47865124424512e-07,onehot
+generation_Estate (2012 - 2017) MK7,2.471222219945051e-07,onehot
+trim_GT Sport Edition,2.469964630832958e-07,onehot
+generation_Hatchback (2008 - 2012) W169 Facelift,2.464933121265404e-07,onehot
+model_QX70,2.4617199784230177e-07,onehot
+trim_XTR,2.4564638447608e-07,onehot
+generation_MPV (2013 - 2017),2.4515802120590844e-07,onehot
+generation_SUV (2006 - 2012) X164,2.450941464766849e-07,onehot
+model_Edge,2.450065217045589e-07,onehot
+trim_FR Black,2.446902734375987e-07,onehot
+trim_SRi Edition,2.4371299749173023e-07,onehot
+trim_Landmark LE,2.430997881721439e-07,onehot
+generation_SUV (2005 - 2013),2.430661082559271e-07,onehot
+trim_EV,2.4305763017832414e-07,onehot
+generation_Saloon (2007 - 2011) MK2 Facelift,2.414989962181363e-07,onehot
+trim_S line Competition,2.4084090747261647e-07,onehot
+trim_1955,2.407489845776575e-07,onehot
+model_V70,2.4039717210013366e-07,onehot
+model_MG4,2.399526480302802e-07,onehot
+model_Supra,2.395832690282149e-07,onehot
+generation_Estate (2008 - 2014) MK 1,2.3947823777918723e-07,onehot
+trim_SE-L Premier,2.3868551353391097e-07,onehot
+trim_Star,2.385041600515699e-07,onehot
+trim_Protonic Red Edition,2.3753068589113502e-07,onehot
+generation_SUV (2006 - 2011),2.373301215768738e-07,onehot
+trim_SE Dynamic Technology,2.3523737616435726e-07,onehot
+trim_Titanium X Business Edition,2.3380637591955086e-07,onehot
+trim_GTi Prestige,2.327922232038831e-07,onehot
+generation_Hatchback (2018 - 2019),2.3214975110531446e-07,onehot
+generation_MPV (2010 - 2015) MK1,2.3148658018731316e-07,onehot
+trim_Prime Exclusive,2.313918255919554e-07,onehot
+generation_Convertible (2013 - 2016),2.3116935388655522e-07,onehot
+trim_GX5hs,2.2965510456686985e-07,onehot
+generation_Convertible (2013 - 2016) 8V,2.2957509857922014e-07,onehot
+generation_Coupe (2012 - 2015),2.2859634152374015e-07,onehot
+trim_Ines de la Fressange,2.281565019555377e-07,onehot
+trim_Cooper Seven,2.2812924747120876e-07,onehot
+trim_Exclusive Edition Plus,2.2704308970552702e-07,onehot
+trim_Metal,2.2620977704459056e-07,onehot
+model_Fusion,2.2598570884496277e-07,onehot
+trim_SE Twenty,2.235125489848384e-07,onehot
+trim_Autobiography Black,2.2334097607736418e-07,onehot
+trim_Lusso Ti,2.232565619976232e-07,onehot
+trim_R.S.300 Trophy,2.226562644057569e-07,onehot
+trim_Collection,2.226394700128116e-07,onehot
+trim_Nero Edizione,2.2241717201465077e-07,onehot
+generation_Saloon (2011 - 2015) MK1,2.2157832118213956e-07,onehot
+trim_Active Premium,2.2040668353255157e-07,onehot
+trim_Carbon Edition Black,2.1795105073286573e-07,onehot
+generation_Convertible (2013 - 2018),2.1656960630409085e-07,onehot
+trim_Dynamique MediaNav,2.1614639857652516e-07,onehot
+trim_Access+,2.1561855499465665e-07,onehot
+trim_Cooper D Classic,2.1374769738360023e-07,onehot
+generation_SUV (2017 - 2018),2.1350805412391792e-07,onehot
+trim_SE Sport,2.1345295999598936e-07,onehot
+generation_MPV (2006 - 2015),2.1342491656565242e-07,onehot
+generation_SUV (2006 - 2012) MK 1 Facelift,2.1242647849633774e-07,onehot
+trim_SE Technology Lux,2.1174695558637012e-07,onehot
+trim_SE Comfort,2.1165391586150944e-07,onehot
+trim_XPERIENCE,2.0964461597270177e-07,onehot
+trim_SRT,2.0518161175326127e-07,onehot
+model_308 CC,2.0477292801046253e-07,onehot
+trim_Ultimate Edition,2.0467979390085225e-07,onehot
+trim_Origins,2.0346770082135636e-07,onehot
+trim_Plus Bright,2.0337149338827523e-07,onehot
+model_207 CC,2.0306436550548703e-07,onehot
+trim_997 Turbo S,2.0188424579027732e-07,onehot
+trim_Cooper D Sport,2.0135927293450583e-07,onehot
+trim_SE First Edition,2.0126343908893451e-07,onehot
+generation_Hatchback (2008 - 2011),2.0122681702937294e-07,onehot
+trim_Carbon Vorsprung,2.0081647690852656e-07,onehot
+model_GS 300,2.0016170086631818e-07,onehot
+generation_MPV (2011 - 2017) MK1 Facelift,1.991485283375024e-07,onehot
+model_Arkana,1.989786270655915e-07,onehot
+trim_x-press,1.9854502077801827e-07,onehot
+trim_One Classic,1.9821191915084847e-07,onehot
+trim_SE Executive Edition,1.9752036878177737e-07,onehot
+trim_Inscription Expression,1.9742388555024185e-07,onehot
+trim_GT Sport Nav,1.969675204213551e-07,onehot
+generation_Hatchback (2011 - 2016) MK2,1.9594419771261345e-07,onehot
+model_CUPRA Ateca,1.946002149834577e-07,onehot
+trim_N-Sport,1.9438032730703692e-07,onehot
+trim_Expression +,1.9332617295755008e-07,onehot
+generation_Saloon (2010 - 2014) 4H,1.9320083902481114e-07,onehot
+trim_XTR Multispace,1.92732749339329e-07,onehot
+model_C4 SpaceTourer,1.9267781928810797e-07,onehot
+trim_Selection,1.9226005017583427e-07,onehot
+generation_Saloon (2013 - 2015),1.9214289886414127e-07,onehot
+trim_981 Black Edition,1.921011407157394e-07,onehot
+trim_Competizione 70th,1.9157035749018108e-07,onehot
+trim_Exclusive-Line,1.900811013149702e-07,onehot
+generation_Hatchback (2012 - 2016) MK1,1.8978477074998813e-07,onehot
+generation_SUV (2007 - 2012) MK1,1.8950856206090186e-07,onehot
+trim_JBL Black Edition,1.893670656347844e-07,onehot
+trim_S line Special Edition Plus,1.8878695383510185e-07,onehot
+trim_EXL,1.88644711098834e-07,onehot
+trim_SZ-L,1.8862712049227495e-07,onehot
+generation_Saloon (2006 - 2009) W221,1.8822081531060213e-07,onehot
+generation_Hatchback (2008 - 2014),1.881987429851048e-07,onehot
+generation_Hatchback (2011 - 2014) MK1 Facelift,1.878956405093531e-07,onehot
+model_Sandero,1.8634399751704843e-07,onehot
+trim_Homura,1.8548650179953143e-07,onehot
+trim_One D,1.847513096128823e-07,onehot
+generation_Coupe (2018 - 2020),1.844674282693453e-07,onehot
+trim_SZ2,1.8407049092923647e-07,onehot
+trim_Engineered by AMG,1.8378503235666219e-07,onehot
+trim_N Line S,1.8333920458961884e-07,onehot
+trim_JAM,1.8205935584589831e-07,onehot
+generation_Hatchback (2015 - 2016),1.8153425420480128e-07,onehot
+trim_360,1.8149048237190834e-07,onehot
+trim_60s,1.8131862893487025e-07,onehot
+model_Cruze,1.8117005426810839e-07,onehot
+trim_Sport Executive,1.7995611739233034e-07,onehot
+trim_60 Nav Lounge,1.7979271499360837e-07,onehot
+trim_ST-Line X First Edition Plus,1.794468432768272e-07,onehot
+trim_Cupra,1.792393182127531e-07,onehot
+trim_VXR Nurburgring,1.7852607969950523e-07,onehot
+trim_Y20,1.7804391714030174e-07,onehot
+model_Viva,1.7752883312085144e-07,onehot
+trim_Active Vignale,1.7742399365626926e-07,onehot
+generation_MPV (2012 - 2015),1.7633181806777467e-07,onehot
+trim_Rivale,1.7546796734102188e-07,onehot
+trim_Inscription Edition,1.7434052705404673e-07,onehot
+trim_JCC+,1.7392700084373925e-07,onehot
+trim_Giulia,1.727767230133094e-07,onehot
+trim_Expression,1.7264519892292196e-07,onehot
+model_107,1.7165007264820774e-07,onehot
+trim_Tepee Outdoor,1.7091135160584343e-07,onehot
+trim_Quadrifoglio Verde,1.7085352544921095e-07,onehot
+trim_Turbo X,1.7020011144067332e-07,onehot
+trim_Easy Plus,1.6994741433165583e-07,onehot
+trim_GT-Line Edition,1.6965463960728327e-07,onehot
+model_9-3,1.6749593658500724e-07,onehot
+model_Koleos,1.674530924779177e-07,onehot
+trim_Premium SE Nav,1.6658555433982573e-07,onehot
+trim_Ambiance,1.6612500176940774e-07,onehot
+generation_Convertible (2012 - 2015),1.6550322619271005e-07,onehot
+trim_Drive-N Limited Edition,1.6517237548661725e-07,onehot
+trim_Polestar,1.648591714364347e-07,onehot
+trim_Trek,1.646503238614577e-07,onehot
+generation_MPV (2010 - 2013) W251 Facelift,1.645969412976521e-07,onehot
+trim_QV Line,1.638905448443651e-07,onehot
+trim_Active B&O Play,1.625915571624158e-07,onehot
+trim_Zetec Business Edition,1.622185806188869e-07,onehot
+trim_FR+,1.6116293692015013e-07,onehot
+trim_Highline,1.607964708096841e-07,onehot
+trim_techno,1.602466006397687e-07,onehot
+generation_Convertible (2009 - 2012),1.6011658408870958e-07,onehot
+generation_Hatchback (2008 - 2012) MK4,1.6003133488358462e-07,onehot
+generation_Convertible (2009 - 2014) MK1,1.5881878337034442e-07,onehot
+trim_Premium InTouch,1.5857893808588823e-07,onehot
+trim_Cupra 300,1.5753704943797727e-07,onehot
+trim_T3,1.5714898539576876e-07,onehot
+model_Celerio,1.5698029721248402e-07,onehot
+generation_Estate (2012 - 2014),1.568382438199496e-07,onehot
+model_Altea XL,1.567608116974268e-07,onehot
+model_Shogun Sport,1.5481915735514876e-07,onehot
+trim_Distinctive,1.5392943117289277e-07,onehot
+model_Golf Plus,1.5390148077046203e-07,onehot
+model_Ampera,1.5379391498954403e-07,onehot
+trim_ES Plus,1.5374637716475616e-07,onehot
+generation_Hatchback (2008 - 2012) MK 8 Facelift,1.5319178887863052e-07,onehot
+generation_Hatchback (2011 - 2015) MK 2,1.5305655999751198e-07,onehot
+trim_Tepee S,1.5301938159455837e-07,onehot
+trim_Premium Nav,1.523432563809968e-07,onehot
+generation_Hatchback (2012 - 2015),1.519069336940152e-07,onehot
+trim_ST Performance Edition,1.5170424716261462e-07,onehot
+trim_Sport Edition 125,1.509780204232377e-07,onehot
+trim_Feline,1.5067965833808709e-07,onehot
+generation_Coupe (2014 - 2020),1.5011931064374907e-07,onehot
+trim_Icon Plus,1.5010784247631187e-07,onehot
+trim_R-Line Black Edition,1.4814598813828418e-07,onehot
+trim_Waze,1.4767189570019898e-07,onehot
+model_5 Series Gran Turismo,1.4758844768042325e-07,onehot
+generation_Convertible (2007 - 2011),1.4701426256983662e-07,onehot
+generation_Coupe (2007 - 2012),1.4625276778266568e-07,onehot
+trim_Extreme SE,1.4617982811377374e-07,onehot
+trim_2 NAV,1.45664312552025e-07,onehot
+trim_GLAM,1.4561102584015835e-07,onehot
+generation_Hatchback (2008 - 2015) MK 1,1.4559313928602826e-07,onehot
+generation_SUV (2004 - 2011),1.4500608289980202e-07,onehot
+trim_GX3,1.4435255160648346e-07,onehot
+generation_Hatchback (2012 - 2017) MK1,1.4418787053203042e-07,onehot
+generation_Hatchback (2007 - 2011) MK1,1.4414744403866538e-07,onehot
+generation_Convertible (2013 - 2015),1.4318479268466624e-07,onehot
+generation_SUV (2005 - 2010) L320,1.4191358894379926e-07,onehot
+trim_DSport Plus,1.4178036996235328e-07,onehot
+model_GS,1.414958952279495e-07,onehot
+trim_R-Sport Black,1.411802676107904e-07,onehot
+trim_IS,1.4054045698154683e-07,onehot
+generation_Hatchback (2007 - 2012) MK 1 Facelift,1.387402691037835e-07,onehot
+trim_SZ,1.3825273991871387e-07,onehot
+trim_Studio,1.3808281272997293e-07,onehot
+trim_Classic SE,1.3806696489203167e-07,onehot
+trim_L2H2 F3500,1.3784500843896194e-07,onehot
+trim_GX4hs,1.3734991464499788e-07,onehot
+trim_Zetec B&O Play Series,1.369969032321348e-07,onehot
+trim_Outdoor,1.3695893878421523e-07,onehot
+model_CX-7,1.3691402520604112e-07,onehot
+generation_Hatchback (2012 - 2016) MK 1,1.368882446371815e-07,onehot
+trim_x-plore,1.3649990409874986e-07,onehot
+trim_80x SportLine,1.3629305135155297e-07,onehot
+generation_Estate (2010 - 2016) MK2 Facelift,1.3583384960891897e-07,onehot
+generation_Convertible (2020 - 2021),1.3538990197501034e-07,onehot
+trim_Cupra 290,1.350654270371524e-07,onehot
+generation_Hatchback (2010 - 2015) 5J Facelift,1.3418173855670635e-07,onehot
+trim_DStyle Nav,1.3391121842346217e-07,onehot
+trim_ST-Line Design,1.337820278507466e-07,onehot
+trim_Cooper D Exclusive,1.3357323188413084e-07,onehot
+model_CLC Class,1.331560482477786e-07,onehot
+generation_Hatchback (2011 - 2012),1.3228605366220997e-07,onehot
+generation_SUV (2017 - 2019),1.3205740994101245e-07,onehot
+generation_Hatchback (2006 - 2009) 8P,1.3173116632243571e-07,onehot
+generation_Convertible (2006 - 2012) R230 Facelift,1.3169097011815613e-07,onehot
+trim_Lux,1.3059141950467064e-07,onehot
+trim_Scout,1.298277519384014e-07,onehot
+trim_KX-5,1.2952611675048187e-07,onehot
+model_Alto,1.2904008167272402e-07,onehot
+trim_Touch Edition,1.2893986938659192e-07,onehot
+trim_GT Shadow Edition,1.2888004157775415e-07,onehot
+trim_BlueMotion,1.287574809171583e-07,onehot
+generation_Estate (2010 - 2013),1.284602621739668e-07,onehot
+trim_XCELLENCE Technology,1.2788023025000875e-07,onehot
+generation_Saloon (2005 - 2011) C219,1.2632779774973543e-07,onehot
+generation_MPV (2010 - 2016) MK2,1.2558965638107242e-07,onehot
+model_Cascada,1.255660615332786e-07,onehot
+model_R Class,1.2538181953197802e-07,onehot
+model_Toledo,1.2516710567980885e-07,onehot
+generation_SUV (2010 - 2014),1.246799723768463e-07,onehot
+trim_TS2,1.2459616535320409e-07,onehot
+trim_Ultimate Nav Premium,1.2447174626172107e-07,onehot
+trim_Flair Nav Edition,1.2346092713703698e-07,onehot
+generation_SUV (2013 - 2018) MK1,1.234343898648417e-07,onehot
+trim_Premier Edition,1.2277014236658354e-07,onehot
+model_Rapid Spaceback,1.2159746445161657e-07,onehot
+generation_Estate (2011 - 2014),1.2100849625428987e-07,onehot
+trim_3Style,1.208929138520559e-07,onehot
+generation_Hatchback (2009 - 2015) MK 6,1.207814630983625e-07,onehot
+model_A4 Cabriolet,1.207511410465018e-07,onehot
+trim_Y20 Bi-tone,1.2063007775821625e-07,onehot
+generation_MPV (2013 - 2016) MK3 Facelift,1.2058690257662444e-07,onehot
+generation_Convertible (2008 - 2011),1.196327150389118e-07,onehot
+trim_Sense,1.1918414616924068e-07,onehot
+generation_Convertible (2008 - 2014),1.1841458746173016e-07,onehot
+trim_vRS Challenge,1.183880063905369e-07,onehot
+trim_Plus Dark,1.1833942554848424e-07,onehot
+trim_ES Premium Edition,1.182764617466948e-07,onehot
+trim_2.Zero,1.1788218062673995e-07,onehot
+trim_Executive Style,1.1755981657943683e-07,onehot
+generation_Coupe (2014 - 2018) MK 1,1.1733768185160483e-07,onehot
+trim_Collezione,1.170722698228378e-07,onehot
+generation_SUV (2008 - 2012) MK1,1.1692679008961825e-07,onehot
+trim_equilibre,1.1625595403562103e-07,onehot
+trim_SVAutobiography Dynamic Edition,1.1624292889127934e-07,onehot
+trim_Dynamique S MediaNav,1.1599755668025082e-07,onehot
+trim_Urban,1.1598341304838827e-07,onehot
+model_Laguna,1.1591664129437905e-07,onehot
+trim_SE Nav Business,1.1498962336737293e-07,onehot
+trim_Cupra 290 Lux,1.1413533647132762e-07,onehot
+trim_Pulse Premium,1.1374409458065476e-07,onehot
+generation_SUV (2002 - 2009) L322,1.134147299231235e-07,onehot
+trim_Level 1,1.1181466177404183e-07,onehot
+generation_SUV (2016 - 2017),1.1133021254603197e-07,onehot
+generation_Hatchback (2012 -  2014) Mk1 Facelift 2,1.1048362005932089e-07,onehot
+trim_SLAM,1.0878172796376081e-07,onehot
+trim_Cooper D Business Edition,1.0855704211672253e-07,onehot
+trim_Monster Yamaha,1.0836541880982333e-07,onehot
+generation_Hatchback (2012 - 2015) MK 1 Facelift 2,1.0823556282206208e-07,onehot
+generation_Estate (2012 - 2016) MK2,1.0802013481015794e-07,onehot
+generation_SUV (2006 - 2013) MK 2,1.0798987494509981e-07,onehot
+trim_MPS,1.0776071546380348e-07,onehot
+model_Stinger,1.0765451672277757e-07,onehot
+model_Jetta,1.07627598125537e-07,onehot
+trim_ST-200,1.0748032701633393e-07,onehot
+trim_Exclusive+,1.0735744118469147e-07,onehot
+generation_Convertible (2010 - 2016) MK1,1.0692719451428585e-07,onehot
+trim_Signature S Nav,1.0667299805171677e-07,onehot
+trim_LS,1.0666205930278038e-07,onehot
+model_CLK,1.0644687405642651e-07,onehot
+generation_SUV (2014 - 2017) MK2,1.0620050193214323e-07,onehot
+generation_MPV (2014 - 2017),1.0586501827342635e-07,onehot
+model_DS3 Cabrio,1.0576072034501352e-07,onehot
+trim_Lutecia,1.0461066619056328e-07,onehot
+trim_Action,1.0416634227072481e-07,onehot
+generation_Convertible (2005 - 2010) B7,1.0416491114719195e-07,onehot
+trim_Dolcevita Plus,1.0414821557127908e-07,onehot
+generation_Hatchback (2012 - 2016) MK2,1.0370037241814235e-07,onehot
+trim_Fifty,1.0336970348799102e-07,onehot
+model_500e C,1.0320875854702706e-07,onehot
+model_Twingo,1.0308480647664862e-07,onehot
+trim_Pro Edition,1.0250540625285837e-07,onehot
+generation_Saloon (2007 - 2012) B8,1.0217793049571646e-07,onehot
+trim_Cooper S Seven,1.0207821400575186e-07,onehot
+trim_Altitude,1.0163545998098717e-07,onehot
+trim_80 ecoSuite,1.0163206592895971e-07,onehot
+trim_Attitude,1.0107827417467339e-07,onehot
+generation_Coupe (2013 - 2016),1.0062503043597005e-07,onehot
+trim_Sport Venture,1.0050580747385177e-07,onehot
+trim_Style +,1.0039100900147164e-07,onehot
+trim_ES-T,9.994057887617402e-08,onehot
+trim_Toca,9.97936863443377e-08,onehot
+trim_Rip Curl,9.943094641086354e-08,onehot
+model_Rapid,9.941281255536397e-08,onehot
+model_bZ4X,9.894966616209293e-08,onehot
+trim_x-clusiv,9.838915623042453e-08,onehot
+trim_VT,9.8202603053616e-08,onehot
+trim_70th,9.805440414409312e-08,onehot
+trim_SR7,9.761910249326468e-08,onehot
+trim_Sport LE,9.753800192570072e-08,onehot
+generation_Saloon (2007 - 2013),9.707982738914512e-08,onehot
+trim_JBL Edition,9.698387991726897e-08,onehot
+generation_Saloon (2010 - 2016) MK1 Facelift 2,9.691483207245662e-08,onehot
+generation_Saloon (2008 - 2012) MK1,9.664213110618299e-08,onehot
+generation_SUV (2004 - 2010),9.659433558191989e-08,onehot
+generation_SUV (2013 - 2016) MK1,9.650777116595211e-08,onehot
+trim_x-pression,9.558383916177935e-08,onehot
+trim_Journey,9.548604216138461e-08,onehot
+trim_VZ3,9.539544732621163e-08,onehot
+generation_Convertible (2006 - 2013),9.492564969145246e-08,onehot
+generation_SUV (2007 - 2015),9.482106264336725e-08,onehot
+generation_Estate (2008 - 2012) B8,9.408854322599301e-08,onehot
+trim_Dynamique Intens,9.358355455788845e-08,onehot
+generation_Convertible (2008 - 2011) R57,9.340133563859066e-08,onehot
+model_Discovery 3,9.336606458946506e-08,onehot
+generation_Convertible (2014 - 2021),9.318375109568217e-08,onehot
+trim_SE Design,9.317078795415968e-08,onehot
+trim_Nismo RS,9.270389741645209e-08,onehot
+model_GS 450h,9.262796058944517e-08,onehot
+trim_GR Jarama Race Track Edition,9.255665927594575e-08,onehot
+trim_Iconic Edition,9.230244674411104e-08,onehot
+generation_Convertible (2008 - 2014) 8P,9.203363788423683e-08,onehot
+generation_MPV (2011 - 2016),9.198342063523528e-08,onehot
+model_Coupe,9.179168576328437e-08,onehot
+generation_Saloon (2006 - 2010),9.046842954534039e-08,onehot
+generation_Hatchback (2008 - 2013) MK2,9.023480954317609e-08,onehot
+generation_Estate (2015 - 2021),9.019944820047196e-08,onehot
+trim_WhiteArt,9.001046665725586e-08,onehot
+trim_N420,8.970859549588989e-08,onehot
+generation_SUV (2009 - 2013) MK 4,8.948660469250524e-08,onehot
+trim_VR7,8.94710770930514e-08,onehot
+generation_Saloon (2005 - 2009),8.938153752046069e-08,onehot
+generation_MPV (2008 - 2012) W245 Facelift,8.928234439173009e-08,onehot
+model_Aygo X,8.896894169170082e-08,onehot
+trim_Turismo 70th,8.872280225826846e-08,onehot
+trim_XSR,8.854250465920875e-08,onehot
+generation_Coupe (2007 - 2012) B8,8.800541859732061e-08,onehot
+trim_Miyako,8.793884229213572e-08,onehot
+trim_Makoto,8.791231749006499e-08,onehot
+trim_SE Launch Edition,8.787719283009738e-08,onehot
+trim_XT-R,8.748171714782107e-08,onehot
+trim_R-Design Lux,8.739604945199263e-08,onehot
+trim_4x4,8.597462964311234e-08,onehot
+trim_RX L,8.563741569467182e-08,onehot
+generation_Hatchback (2007 - 2011),8.542364404730126e-08,onehot
+generation_MPV (2013 - 2019) MK1 Facelift,8.534500347429262e-08,onehot
+trim_Momentum Edition,8.521519286719316e-08,onehot
+trim_I TECH,8.487052051372945e-08,onehot
+model_C30,8.421043130001596e-08,onehot
+trim_Pioneer,8.356695830822531e-08,onehot
+trim_Feel Multispace,8.303277633502592e-08,onehot
+trim_80 SportLine,8.266679493730373e-08,onehot
+generation_Saloon (2014 - 2017),8.262116291332247e-08,onehot
+generation_Hatchback (2012 - 2015) MK 1,8.24715135396751e-08,onehot
+trim_Blue Edition,8.238306203404289e-08,onehot
+model_TX4,8.193846951079259e-08,onehot
+generation_MPV (2009 -  2014) MK1,8.186100204006195e-08,onehot
+trim_GX4,8.17960755171869e-08,onehot
+model_Tigra,8.122882834799031e-08,onehot
+generation_Hatchback (2007 - 2012),8.119938286565924e-08,onehot
+model_124 Spider,8.11481178150055e-08,onehot
+trim_Urban Ride,8.087594834186455e-08,onehot
+trim_Flair Multispace,7.995977587776361e-08,onehot
+trim_F595 Pista,7.986776602794008e-08,onehot
+model_C5,7.9594566791694e-08,onehot
+generation_Coupe (2010 - 2012),7.953727104295558e-08,onehot
+generation_MPV (2009 - 2013),7.872706760173925e-08,onehot
+generation_Convertible (2005 - 2009) A209 Facelift,7.809683377108245e-08,onehot
+trim_ENERGISED,7.799548751343902e-08,onehot
+generation_Hatchback (2007 - 2015),7.79455706979592e-08,onehot
+model_EQV,7.7760561937059e-08,onehot
+trim_La Premiere,7.750155876604483e-08,onehot
+model_Combo-e Life,7.732378277204549e-08,onehot
+generation_SUV (2007 - 2011) MK1 Facelift,7.70086034746199e-08,onehot
+generation_Convertible (2014 - 2016),7.697609398801128e-08,onehot
+trim_Active Premium +,7.695302544426195e-08,onehot
+trim_Venture,7.67458569785837e-08,onehot
+trim_Kuro,7.622524643182415e-08,onehot
+trim_r.s. line,7.58272131334788e-08,onehot
+trim_Longitude Plus,7.562497112047395e-08,onehot
+trim_Edition21,7.551748052596955e-08,onehot
+trim_Polestar Engineered,7.518638719386779e-08,onehot
+trim_Rock Star,7.512129974987466e-08,onehot
+trim_EX GT,7.511691547279962e-08,onehot
+trim_Luxe Tech,7.508556829457454e-08,onehot
+trim_Highline Edition,7.497925908215006e-08,onehot
+trim_Feel Edition Multispace,7.496211006073156e-08,onehot
+generation_MPV (2007 - 2012) MK1,7.49593073957804e-08,onehot
+trim_Cupra Bocanegra,7.463040652438562e-08,onehot
+trim_Fire,7.461264857224147e-08,onehot
+generation_Hatchback (2009 - 2012) MK 2,7.401327129766106e-08,onehot
+trim_Tamura,7.382745743539338e-08,onehot
+generation_SUV (2013 - 2021),7.382346454857689e-08,onehot
+generation_Hatchback (2011 - 2015) MK3,7.380305402893671e-08,onehot
+trim_Cupra Black,7.373298270501885e-08,onehot
+generation_Hatchback (2009 - 2012) MK1,7.370342767793717e-08,onehot
+trim_Zetec Navigator,7.35242009129499e-08,onehot
+trim_Kiiro,7.339894801301002e-08,onehot
+generation_SUV (2013 - 2015),7.334442871219212e-08,onehot
+trim_S Connect,7.320377473412438e-08,onehot
+generation_MPV (2006 - 2011) MK1,7.312897479627452e-08,onehot
+generation_Hatchback (2013 - 2015),7.294862507412196e-08,onehot
+generation_Estate (2010 - 2013) MK2,7.256390087814163e-08,onehot
+generation_Hatchback (2007 - 2011) MK4,7.226065067338216e-08,onehot
+trim_KX-1,7.205459878869463e-08,onehot
+trim_Classic,7.179336067707628e-08,onehot
+generation_Estate (2009 - 2013) MK6,7.140216642469327e-08,onehot
+generation_Coupe (2009 - 2013),7.102849704744152e-08,onehot
+trim_Sport Black,7.078080610899707e-08,onehot
+trim_Colour Therapy,7.057806964705106e-08,onehot
+model_GS 250,7.001825625347423e-08,onehot
+generation_SUV (2012 - 2016),6.96312302418854e-08,onehot
+generation_Saloon (2000 - 2008),6.953188246613719e-08,onehot
+model_Jogger,6.927743669152666e-08,onehot
+trim_Easy +,6.917476584960855e-08,onehot
+make_Chrysler,6.909429002438997e-08,onehot
+trim_Special Edition,6.88956182091696e-08,onehot
+trim_60 Nav Loft,6.873890745934767e-08,onehot
+make_Genesis Motor,6.861189215233885e-08,onehot
+model_Agila,6.858983220156657e-08,onehot
+trim_x-style,6.853978087379164e-08,onehot
+trim_up!,6.851405587204717e-08,onehot
+trim_Electron,6.851026204230777e-08,onehot
+trim_XC,6.829137598741951e-08,onehot
+trim_Wave,6.813085570506118e-08,onehot
+generation_Convertible (2009 - 2017),6.793816009847823e-08,onehot
+trim_GRAND SLAM,6.78455330532912e-08,onehot
+trim_Cross Rivoli,6.783829531682798e-08,onehot
+generation_Saloon (2016 - 2017),6.779448628665868e-08,onehot
+generation_MPV (2007 - 2015),6.77629676902472e-08,onehot
+trim_Cooper London 2012,6.767524646403011e-08,onehot
+generation_SUV (2010 - 2016) MK 1,6.746537050137186e-08,onehot
+trim_Trophy Connect,6.724380389956337e-08,onehot
+trim_Parthenon Cream,6.692912732939256e-08,onehot
+trim_Ribelle,6.682535790893952e-08,onehot
+trim_Z-Sport,6.674222660056631e-08,onehot
+trim_Pulse,6.613668329433968e-08,onehot
+model_Carens,6.591025742029648e-08,onehot
+trim_Sport 420 Final Edition,6.575142216618796e-08,onehot
+generation_Estate (2011 - 2015),6.564321716580984e-08,onehot
+model_Trax,6.55850969566552e-08,onehot
+generation_Coupe (2010 - 2015) MK1,6.557919409888514e-08,onehot
+trim_XT,6.551585409755955e-08,onehot
+trim_Cooper Graphite,6.545852264531936e-08,onehot
+trim_Iconic Nav,6.514225373447845e-08,onehot
+generation_Saloon (2003 - 2011),6.464847857392837e-08,onehot
+trim_Business Executive,6.449895700873164e-08,onehot
+trim_Active X Vignale,6.419180505960713e-08,onehot
+trim_Si,6.411193865414205e-08,onehot
+trim_GTD BlueLine,6.393777365670452e-08,onehot
+model_M,6.358457340072055e-08,onehot
+generation_Estate (2015 - 2017) MK2 Facelift,6.329491327531166e-08,onehot
+trim_Air Edition,6.31765623535462e-08,onehot
+generation_SUV (2005 - 2011) R51,6.311643875863043e-08,onehot
+trim_GBT,6.269531860011406e-08,onehot
+trim_M Sport Highline,6.262767234782792e-08,onehot
+model_Brera,6.242043169716949e-08,onehot
+trim_GT Line TomTom,6.24136671859335e-08,onehot
+generation_SUV (2009 - 2013),6.228887808754181e-08,onehot
+trim_SE-L Lux Nav+,6.223450366886649e-08,onehot
+trim_AMG Sport Edition 125,6.206600258462369e-08,onehot
+trim_Top,6.194559679930935e-08,onehot
+trim_3h,6.183884025914384e-08,onehot
+trim_Design Mii,6.155675924756392e-08,onehot
+trim_Pop +,6.141857560228453e-08,onehot
+trim_Monte Carlo TECH,6.113514173754334e-08,onehot
+model_C-Zero,6.109506919770848e-08,onehot
+trim_F Sport Design,6.074631970647847e-08,onehot
+trim_Take up!,6.074372653829365e-08,onehot
+trim_Namsan Edition,6.062158170472712e-08,onehot
+trim_Avantgarde SE,5.963496432729869e-08,onehot
+trim_HS,5.942985606361156e-08,onehot
+model_Tribeca,5.930758025191056e-08,onehot
+generation_Hatchback (2004 - 2012) H,5.922145095561989e-08,onehot
+model_S40,5.9041409064859676e-08,onehot
+trim_Cooper S 25th Anniversary,5.879606592299418e-08,onehot
+trim_Business Edition Lux,5.8607969384360514e-08,onehot
+generation_Hatchback (2009 - 2012),5.854778634808744e-08,onehot
+generation_MPV (2010 - 2015) MK1 Facelift,5.851558960830731e-08,onehot
+trim_Sport Nerissimo,5.842829978647382e-08,onehot
+generation_Hatchback (2008 - 2012) MK1,5.823710219676505e-08,onehot
+trim_Trekking,5.8138462368392723e-08,onehot
+model_Bravo,5.786792544402751e-08,onehot
+model_V50,5.7782582454494184e-08,onehot
+trim_Renaultsport Nav Trophy,5.737379324141049e-08,onehot
+generation_Estate (2008 - 2011) MK2,5.7267909776952374e-08,onehot
+trim_Black Lezard,5.7173337044046306e-08,onehot
+trim_Tekna Pulse,5.67752926820395e-08,onehot
+trim_SE Tech Edition,5.660921333579129e-08,onehot
+trim_Titanium Style,5.657058887971474e-08,onehot
+generation_Saloon (2011 - 2016),5.641351950135846e-08,onehot
+model_X-Type,5.636146756961283e-08,onehot
+generation_MPV (2010 - 2017),5.5483635292241106e-08,onehot
+trim_Premium GT,5.534729254519515e-08,onehot
+generation_Estate (2009 - 2012),5.5182427393209765e-08,onehot
+generation_MPV (2008 - 2015) B,5.505689200276255e-08,onehot
+trim_XPERIENCE Edition,5.485370201653007e-08,onehot
+generation_Estate (2007 - 2013 ),5.4685957445650993e-08,onehot
+trim_Initiale TomTom,5.4575154282092346e-08,onehot
+generation_Estate (2011 -2015) MK1,5.4422872112788574e-08,onehot
+trim_Alpine,5.4185023627784745e-08,onehot
+trim_Type R,5.381668998381663e-08,onehot
+trim_Mixx,5.377155067912476e-08,onehot
+trim_Scorpioneoro,5.37662123166151e-08,onehot
+trim_Highline Plus,5.360493630606587e-08,onehot
+trim_400 Sport,5.343654097831357e-08,onehot
+trim_One D Baker Street,5.326332515821859e-08,onehot
+generation_Coupe (2008 - 2011),5.315737485288935e-08,onehot
+trim_C-Series,5.296040493078776e-08,onehot
+trim_SE Copa,5.277070572404548e-08,onehot
+generation_Estate (2007 - 2011) MK2 Facelift,5.2481554525877067e-08,onehot
+trim_Zetec Black Edition,5.2431316430408095e-08,onehot
+trim_Sportium,5.2428339890026616e-08,onehot
+trim_Zetec Climate,5.216771318422921e-08,onehot
+model_Legacy,5.149275692490992e-08,onehot
+trim_Club,5.142710116811582e-08,onehot
+trim_Anniversary Edition,5.116651871285013e-08,onehot
+model_C70,5.1110380066742736e-08,onehot
+trim_Dynamique S,5.0809296670043544e-08,onehot
+model_IS 250,5.070216818079178e-08,onehot
+generation_MPV (2013 - 2016),5.051425867317786e-08,onehot
+generation_Hatchback (2010 - 2012),5.050387923524199e-08,onehot
+trim_Nav Plus,5.0208585535031154e-08,onehot
+trim_Sport Line,5.014083713004269e-08,onehot
+generation_Saloon (2012 - 2014) C7,5.01125957708558e-08,onehot
+trim_GX3h,4.9930080827645875e-08,onehot
+trim_S line Contrast Edition,4.980905792059254e-08,onehot
+trim_Progression,4.9781829739840124e-08,onehot
+generation_Hatchback (2008 - 2012),4.957320213168274e-08,onehot
+model_Phaeton,4.9477380758160095e-08,onehot
+trim_FR+ Supercopa,4.944509061678884e-08,onehot
+generation_Hatchback (2004 - 2009) MK5,4.932779700209238e-08,onehot
+trim_Ice,4.9038485138269444e-08,onehot
+trim_Sport Pro,4.8843889115499876e-08,onehot
+model_Wind,4.8781247670181886e-08,onehot
+trim_Lime Edition,4.843444320522329e-08,onehot
+trim_Trussardi,4.8195660735593674e-08,onehot
+trim_GB25,4.802991630660086e-08,onehot
+trim_Sport Edition Plus,4.7896309182626924e-08,onehot
+generation_SUV (2021 - 2022),4.784268738700269e-08,onehot
+generation_MPV (2009 - 2014) MK1,4.771255053329468e-08,onehot
+trim_Amplified Edition,4.768308254681094e-08,onehot
+trim_Exclusive Nav,4.7529821802557095e-08,onehot
+trim_launch edition,4.7358340371287584e-08,onehot
+model_Mirage,4.7332827019390826e-08,onehot
+trim_Zest,4.7325196514735237e-08,onehot
+trim_SIII,4.6957481370409214e-08,onehot
+trim_EfficientDynamics Business,4.6850417926426116e-08,onehot
+generation_MPV (2013 - 2018),4.68448671005675e-08,onehot
+trim_Sting,4.6649554751524696e-08,onehot
+trim_Motion,4.658153223380086e-08,onehot
+trim_Enigma,4.644251775629085e-08,onehot
+trim_SE-I,4.631931435639447e-08,onehot
+trim_Life Edition,4.6240743646301866e-08,onehot
+trim_GT 50th Anniversary,4.6233864807434566e-08,onehot
+trim_Style Nav,4.617897870098012e-08,onehot
+trim_Prime Sport,4.609566077022055e-08,onehot
+trim_Lusso,4.601759836033921e-08,onehot
+trim_ST Edition,4.571754282331085e-08,onehot
+trim_ROCKS AIR,4.552753205129301e-08,onehot
+generation_Saloon (2009 - 2013) W221 Facelift,4.536367294157863e-08,onehot
+generation_Convertible (2014 - ),4.518464452421599e-08,onehot
+trim_Design Line,4.4991275399190085e-08,onehot
+trim_Mode,4.4876155726700506e-08,onehot
+generation_Hatchback (2005 - 2012) MK 1,4.4611178084436915e-08,onehot
+model_Roomster,4.441415132496809e-08,onehot
+trim_Performance Edition,4.437909109064777e-08,onehot
+trim_1 Air,4.43292581804285e-08,onehot
+trim_GTE Nav,4.4324606052440606e-08,onehot
+generation_Saloon (2008 - 2011),4.426182395989127e-08,onehot
+trim_GTi,4.424238602627654e-08,onehot
+trim_SX,4.416902249074113e-08,onehot
+trim_Elle,4.4070041430697487e-08,onehot
+model_Highlander,4.377490488926187e-08,onehot
+generation_Hatchback (2009 - 2011) MK 2 Facelift,4.376128101887735e-08,onehot
+trim_ST-Line X Vignale,4.371013191524944e-08,onehot
+trim_Vector Sport,4.366596872865207e-08,onehot
+model_QX30,4.3619055361069905e-08,onehot
+trim_Envy,4.3185999542834435e-08,onehot
+model_Scenic Xmod,4.3125508953357255e-08,onehot
+trim_RS Line Bose Edition,4.312450383050174e-08,onehot
+generation_Coupe (1989 - 1996),4.286431978824083e-08,onehot
+trim_One Baker Street,4.283008258455544e-08,onehot
+trim_Performance Ludicrous,4.237596206306331e-08,onehot
+trim_Volvo Ocean Race,4.211084318505398e-08,onehot
+trim_SE-T,4.183508729558039e-08,onehot
+generation_Convertible (2009 - 2016),4.179686863314691e-08,onehot
+generation_Saloon (2006 - 2011) C6,4.174554755897968e-08,onehot
+trim_WRX,4.128759839582795e-08,onehot
+generation_MPV (2013 - 2016) MK 4,4.125747256713099e-08,onehot
+trim_Evolution,4.102440878807251e-08,onehot
+trim_Urbanshadow,4.095582482115958e-08,onehot
+trim_JLX+,4.088157141432721e-08,onehot
+trim_Titanium Vignale,4.0768549931481455e-08,onehot
+trim_Cooper S Works,4.0748881484628685e-08,onehot
+trim_Equilibre,4.0562113465351586e-08,onehot
+model_207 SW,4.026925787935316e-08,onehot
+generation_Convertible (2015 - 2020),4.016450755705775e-08,onehot
+generation_Convertible (2012 - 2016) MK1,3.995865769301638e-08,onehot
+trim_Cupra 290 Black,3.987076633526905e-08,onehot
+trim_R-Design SE,3.977228629735418e-08,onehot
+make_Cadillac,3.9757682397310196e-08,onehot
+generation_Saloon (2012 - 2015) MK 4,3.971174594531681e-08,onehot
+generation_Convertible (2004 - 2017) MK 2,3.947303074313249e-08,onehot
+trim_Eleganza,3.9384317014776327e-08,onehot
+trim_Ventura,3.9149807525223635e-08,onehot
+generation_Saloon (2007 - 2009) X358,3.8977418176750424e-08,onehot
+trim_Hey Google,3.88179172700086e-08,onehot
+trim_Plus Special Edition,3.8794406082934525e-08,onehot
+model_Veloster,3.862509459660228e-08,onehot
+generation_Estate (2013 - 2016) MK3,3.813155082862101e-08,onehot
+trim_SE Nav Plus,3.812589077231302e-08,onehot
+model_Roadster,3.811876364298926e-08,onehot
+trim_GRMN,3.7460864748755966e-08,onehot
+generation_Estate (2016 - 2017),3.7225396541675305e-08,onehot
+trim_RedLine,3.7221105498201145e-08,onehot
+trim_I-TECH,3.7207373075677557e-08,onehot
+trim_Mirror,3.6609519334420304e-08,onehot
+trim_Takuya,3.6439521430195755e-08,onehot
+model_MG6,3.643022442059736e-08,onehot
+trim_Collezione Fall,3.630063850834857e-08,onehot
+generation_Coupe (2012 - 2014),3.625361996027071e-08,onehot
+generation_Coupe (2005 - 2009) C209 Facelift,3.60393835663241e-08,onehot
+trim_Modern,3.591883034345983e-08,onehot
+trim_Prime Night Sky,3.590432897274287e-08,onehot
+trim_GreenLine II,3.5690823890996424e-08,onehot
+trim_HSE Red,3.550600169957289e-08,onehot
+generation_Saloon (2012 - 2014) MK 4,3.54439243905363e-08,onehot
+model_Qubo,3.482478185542397e-08,onehot
+model_Movano,3.461649305468048e-08,onehot
+trim_Cooper S Special Edition,3.453025251082891e-08,onehot
+trim_GT-Line Lunar Edition,3.448550047409501e-08,onehot
+generation_SUV (2006 - 2010) MK 3,3.4393952927679465e-08,onehot
+trim_Desire,3.438853393118337e-08,onehot
+trim_Trek Special Edition,3.4048529257666994e-08,onehot
+generation_SUV (2006 - 2011) MK 1,3.396404267026652e-08,onehot
+generation_Hatchback (2017 - 2018),3.3963072543210965e-08,onehot
+trim_La Prima by Bocelli,3.386892076100049e-08,onehot
+trim_GT Line Nav,3.3804309612673475e-08,onehot
+trim_30th Anniversary Edition,3.3783008975928844e-08,onehot
+trim_Groove up!,3.377762175694973e-08,onehot
+trim_Diamond,3.3575058483454384e-08,onehot
+trim_Excel Plus,3.3311989897354315e-08,onehot
+trim_SL,3.32024089669192e-08,onehot
+trim_Premier Pan Roof,3.313074610360301e-08,onehot
+trim_TS,3.23469654430407e-08,onehot
+make_London Taxis International,3.226988862056429e-08,onehot
+trim_GX3h+,3.2205664265463053e-08,onehot
+generation_Estate (2009 - 2013) MK1 Facelift,3.2160522462595966e-08,onehot
+generation_MPV (2005 - 2010) MK1 Facelift,3.1843475690384446e-08,onehot
+generation_Estate (2009 - 2012) B8,3.178545431171964e-08,onehot
+model_TF,3.1766494462182495e-08,onehot
+generation_Hatchback (2000 - 2010) MK4,3.171130155865642e-08,onehot
+model_Ypsilon,3.1491364703163313e-08,onehot
+trim_Disturbing London Edition,3.1296398953951705e-08,onehot
+trim_vRS S2000,3.114331142581582e-08,onehot
+trim_Millesim,3.111802019601656e-08,onehot
+generation_Saloon (2003 - 2010),3.108879408554803e-08,onehot
+trim_Artisan Special Edition,3.107274850359588e-08,onehot
+trim_Furio,3.091776582615406e-08,onehot
+trim_x,3.055186142820226e-08,onehot
+model_G80,3.054398273998309e-08,onehot
+model_FR-V,3.048385658577592e-08,onehot
+trim_Select,3.030503988844373e-08,onehot
+generation_Coupe (2007 - 2013) MK2,3.016946731072103e-08,onehot
+trim_XY,3.0103139775745625e-08,onehot
+trim_Dynamik,3.007907340673879e-08,onehot
+generation_Hatchback (2007 - 2010) MK 1,3.0023799515783683e-08,onehot
+trim_Street,2.9895990424824506e-08,onehot
+generation_Saloon (2011 - 2013) F10,2.9409904837074896e-08,onehot
+trim_GT Black Edition,2.93208658338586e-08,onehot
+trim_Premier Edition Pro,2.9242153772376926e-08,onehot
+trim_LE,2.921617505425078e-08,onehot
+generation_SUV (2013 - 2017) MK1,2.912707530658883e-08,onehot
+model_Xsara Picasso,2.9110472925973952e-08,onehot
+generation_Hatchback (2004 - 2010),2.9087129474947708e-08,onehot
+trim_Cross Trocadero,2.9054411598728056e-08,onehot
+generation_Estate (2013 - 2015) MK2 Facelift,2.8982467749105765e-08,onehot
+trim_FR Red Edition,2.8947353953996074e-08,onehot
+trim_Ultimate Plus,2.8931530487423134e-08,onehot
+model_Murano,2.8887078813981392e-08,onehot
+model_RX 500h,2.88468831312689e-08,onehot
+trim_2 Tech,2.8777209920590477e-08,onehot
+trim_City Sport,2.8469806784947537e-08,onehot
+generation_Convertible (2006 - 2011) MK1,2.8206720167367287e-08,onehot
+trim_Sport Black+,2.8013414429255516e-08,onehot
+trim_HSE Lux,2.777852068798868e-08,onehot
+trim_Signature X Nav,2.773076725090408e-08,onehot
+generation_Saloon (2008 - 2011) MK2,2.760336546208567e-08,onehot
+generation_Estate (2007 - 2011) MK4,2.7473016083367364e-08,onehot
+trim_Collection Edition,2.7455175551455e-08,onehot
+trim_Icon Business Edition,2.7333073787646323e-08,onehot
+trim_Chilli,2.730564597159275e-08,onehot
+generation_Saloon (2014 - 2015) MK 1 Facelift,2.7164914943650526e-08,onehot
+generation_Hatchback (2005 - 2010) MK2,2.7100745648601553e-08,onehot
+trim_F Sport Black Edition,2.703850315967711e-08,onehot
+trim_SE-L+,2.6931178961915833e-08,onehot
+generation_Convertible (2007 - 2011) MK2 Facelift,2.691647618643271e-08,onehot
+trim_Veloce Ti,2.6882051809296837e-08,onehot
+trim_Verve,2.676983027062416e-08,onehot
+trim_Night Eagle II,2.6635261147073835e-08,onehot
+trim_Zetec White Edition,2.6523564421476663e-08,onehot
+generation_Convertible (2015 - 2016),2.649686457380867e-08,onehot
+trim_SE Nav+,2.6473259441400917e-08,onehot
+generation_Hatchback (2008 - 2012) MK1 Facelift,2.6274477446302786e-08,onehot
+trim_30 Years,2.6035615718132587e-08,onehot
+trim_Feel Nav Edition,2.5748183091102273e-08,onehot
+model_Matiz,2.5693217531848487e-08,onehot
+trim_Blue,2.5668211544760445e-08,onehot
+model_Insight,2.557498396534296e-08,onehot
+generation_Convertible (2006 - 2014) MK 2 Facelift,2.545637897460832e-08,onehot
+model_Turismo,2.5348528724082253e-08,onehot
+trim_ELLE,2.5180742043944128e-08,onehot
+trim_Chill,2.517083063895643e-08,onehot
+trim_BRABUS Xclusive,2.5081879039289448e-08,onehot
+model_Grande Punto,2.5041236407310713e-08,onehot
+generation_SUV (2010 - 2013) MK2,2.4995349819114187e-08,onehot
+trim_Elegance SE,2.4850796876957992e-08,onehot
+trim_ROCKS,2.4842863707064742e-08,onehot
+trim_Sport Luxury,2.4425524276000955e-08,onehot
+generation_Hatchback (2006 - 2012) K12C Facelift,2.4315666382256437e-08,onehot
+trim_Alltrack,2.4208524319807092e-08,onehot
+model_Corrado,2.4165400052616704e-08,onehot
+generation_MPV (2008 - 2012) MK 1,2.4095629842476337e-08,onehot
+trim_Anniversario,2.4032568314739836e-08,onehot
+generation_Hatchback (2005 - 2011),2.3991677064319404e-08,onehot
+trim_All-Terrain Edition,2.3907026189803446e-08,onehot
+trim_S Air,2.3812661722996897e-08,onehot
+generation_Saloon (2012 - 2014) MK 1,2.3571633956053787e-08,onehot
+trim_HX,2.353231602549781e-08,onehot
+trim_Cooper D London 2012,2.3507415203521956e-08,onehot
+generation_Convertible (2009 - 2011),2.346999768206235e-08,onehot
+trim_Mach 1,2.3220264264950106e-08,onehot
+trim_R.S.280,2.3187765541465633e-08,onehot
+trim_T2,2.3107411718001813e-08,onehot
+trim_ZC-H,2.3091923842687554e-08,onehot
+trim_Renaultsport Cup,2.3031044760379846e-08,onehot
+trim_Flair Edition,2.3023545448703358e-08,onehot
+trim_FR Titanium,2.2887769263298162e-08,onehot
+trim_Limited Nav,2.2777615496362055e-08,onehot
+generation_MPV (2003 - 2011) MK 1,2.2737099028363433e-08,onehot
+trim_Titanium S,2.2725942304309533e-08,onehot
+trim_Go,2.2652996598196528e-08,onehot
+trim_Field,2.2571389785639158e-08,onehot
+trim_Move,2.2565822345150535e-08,onehot
+trim_Red Carbon,2.24968642234975e-08,onehot
+generation_Convertible (2010 - 2012),2.2453028538125453e-08,onehot
+trim_S-Design,2.226946634320684e-08,onehot
+model_Logan MCV,2.225546859009933e-08,onehot
+generation_Saloon (2008 - 2011) MK1 Facelift,2.219741497992228e-08,onehot
+model_MP4,2.211128739487167e-08,onehot
+generation_SUV (2013 - 2016) MK1 Facelilft 2,2.2107711870144697e-08,onehot
+trim_My Life,2.2047856306535874e-08,onehot
+generation_MPV (2008 - 2015) MK 1,2.1851220643784697e-08,onehot
+trim_Sport Final Edition,2.182119737068695e-08,onehot
+trim_Technik SE,2.1785624894339688e-08,onehot
+trim_20th Anniversary,2.136279426815051e-08,onehot
+trim_Cooper Bayswater,2.1292604290676886e-08,onehot
+trim_S Navi,2.127412474035294e-08,onehot
+trim_Active Limited Edition,2.1029208206574603e-08,onehot
+trim_SRi VX line Red,2.1009422110893238e-08,onehot
+trim_Titanium B&O Play Series,2.092175274473597e-08,onehot
+trim_City Black,2.089887822667163e-08,onehot
+trim_Active Style,2.0874329077338996e-08,onehot
+model_Mazda5,2.0752739664197567e-08,onehot
+trim_4 Tech,2.0730957615768175e-08,onehot
+trim_Style Advanced,2.068502557470369e-08,onehot
+trim_City Life,2.0683263769391696e-08,onehot
+trim_ST Performance Pack,2.0651863249450546e-08,onehot
+model_408,2.0605149412974956e-08,onehot
+generation_Hatchback (2013 - 2016) MK 1,2.0546331516899425e-08,onehot
+generation_SUV (2008 - 2011),2.053361382440854e-08,onehot
+model_Grand Vitara,2.030647111019638e-08,onehot
+trim_Cooper Baker Street,2.024160196278424e-08,onehot
+trim_SRi VX line Red Nav,2.0079720682646797e-08,onehot
+trim_GTi by Peugeot Sport,2.007525039377019e-08,onehot
+generation_Estate (2008 - 2011) C6 Facelift,2.0031532017872114e-08,onehot
+trim_Zetec S Black Edition,2.0030561494036488e-08,onehot
+trim_Edition 25,1.9793989338933456e-08,onehot
+trim_Gold,1.9644138633056597e-08,onehot
+trim_One 1499 GT,1.9564138244240597e-08,onehot
+generation_SUV (2005 - 2010),1.9455210792292436e-08,onehot
+generation_MPV (2009 - 2016),1.9421001463663628e-08,onehot
+trim_Prime Sport Night Sky,1.9347288700173674e-08,onehot
+generation_Estate (2013 - 2015),1.9339796178983972e-08,onehot
+generation_Estate (2009 - 2013) MK 3 Facelift,1.9300428750578697e-08,onehot
+trim_XC Premium,1.9269899154497732e-08,onehot
+model_IS 220d,1.9140559774011578e-08,onehot
+trim_SE4,1.912723140854821e-08,onehot
+trim_S Plus,1.8930255858975304e-08,onehot
+trim_Feel Plus,1.8909851171275856e-08,onehot
+generation_SUV (2006 - 2009),1.8879640178876072e-08,onehot
+trim_Zetec S Red Edition,1.8794112396742608e-08,onehot
+trim_Sportiva,1.8773192333791224e-08,onehot
+trim_Elegance Edition 125,1.8709910843033034e-08,onehot
+trim_Kendo,1.8663239986731874e-08,onehot
+trim_Cult,1.8578427831952015e-08,onehot
+trim_White Edition,1.8524896225581793e-08,onehot
+generation_Hatchback (2004 - 2009) MK 1 Facelift,1.8488305166500904e-08,onehot
+generation_MPV (2006 - 2011) MK3,1.8455837822219416e-08,onehot
+generation_Coupe (2006 - 2010) GK Facelift 2,1.8385847826772026e-08,onehot
+generation_Hatchback (2010 - 2012) MK1 Facelift,1.833048780776715e-08,onehot
+trim_Sportrider,1.8305448590173536e-08,onehot
+model_Exeo,1.8083465680409394e-08,onehot
+generation_Coupe (2004 - 2009) C203 Facelift,1.802387885663147e-08,onehot
+trim_x-claim,1.7966624677707214e-08,onehot
+trim_FR First Edition,1.7722876579719523e-08,onehot
+generation_Convertible (2002 - 2011),1.7722022756855644e-08,onehot
+trim_First,1.764383103212204e-08,onehot
+trim_Lusso Plus,1.758572399893236e-08,onehot
+trim_Sportline,1.7532452933745007e-08,onehot
+trim_VXR Clubsport,1.745544297881533e-08,onehot
+trim_x-pure,1.7214212818758947e-08,onehot
+trim_Long Range Plus Pilot,1.7140767450183717e-08,onehot
+trim_GreenLine,1.711025790376795e-08,onehot
+generation_Estate (2005 - 2015) MK1 Facelift,1.6913258144365642e-08,onehot
+trim_MyLife,1.6877646848636345e-08,onehot
+trim_I-Music,1.6767236684566218e-08,onehot
+trim_Urban Lite,1.6730360252286153e-08,onehot
+trim_SE Highline,1.6601331912017064e-08,onehot
+trim_One Highgate,1.660041903675217e-08,onehot
+trim_Extreme,1.6380392111315294e-08,onehot
+trim_Visia Limited Edition,1.6273839254372043e-08,onehot
+trim_Active X Vignale Edition,1.618311262598502e-08,onehot
+trim_Cooper D Seven,1.6145347604587542e-08,onehot
+trim_SE Business GreenLine III,1.6092743777822783e-08,onehot
+model_Orlando,1.6085696631115734e-08,onehot
+trim_Vintage 57,1.5919915823011082e-08,onehot
+generation_Coupe (2015 - 2018) MK2,1.5877614247738083e-08,onehot
+generation_Saloon (2005 - 2012),1.58432213097208e-08,onehot
+generation_Estate (2013 - 2016) MK 1,1.5792722560357057e-08,onehot
+trim_Estrema,1.5731327641613315e-08,onehot
+generation_Saloon (2009 - 2013),1.5673575092698907e-08,onehot
+generation_Estate (2010 - 2012) MK4,1.5469423398634027e-08,onehot
+trim_Nav+,1.540929628444339e-08,onehot
+generation_Hatchback (2005 - 2009) MK 2,1.5380296756940572e-08,onehot
+trim_FR Line,1.524716937618328e-08,onehot
+trim_Renaultsport Nav,1.5201438927192167e-08,onehot
+generation_Saloon (2003 - 2013),1.520093001737226e-08,onehot
+trim_Linear SE,1.5161719355851505e-08,onehot
+generation_Convertible (2003 - 2012) MK1,1.48750155964513e-08,onehot
+trim_Dark Light,1.4834009253069419e-08,onehot
+trim_ES GT,1.48210480613623e-08,onehot
+generation_Estate (2007 - 2011) MK2,1.4818653501842526e-08,onehot
+trim_Roland Garros,1.4780590312107117e-08,onehot
+trim_Kuro Edition,1.4706661336389993e-08,onehot
+trim_SE Plus-T,1.4601510523830442e-08,onehot
+generation_Saloon (2010 - 2013) MK1,1.4594075587448064e-08,onehot
+trim_Laureate Prime,1.4535966378906689e-08,onehot
+generation_MPV (2006 - 2011) W251,1.4535795133145494e-08,onehot
+trim_Executive S line,1.4529311361847268e-08,onehot
+generation_Convertible (2005 - 2008),1.4493155409267319e-08,onehot
+trim_Centre-Line,1.4426685249859415e-08,onehot
+generation_Saloon (2015 - 2016),1.4416155477179668e-08,onehot
+generation_SUV (2008 - 2010) MK 1,1.437023422064733e-08,onehot
+trim_Match Edition BlueMotion,1.4232861484744428e-08,onehot
+generation_Hatchback (2003 - 2011) MK 2,1.4222826660251019e-08,onehot
+trim_Competition Line,1.4204386987592073e-08,onehot
+trim_DSign,1.4183769066826458e-08,onehot
+generation_MPV (2011 - 2015),1.4076735023157539e-08,onehot
+trim_Cooper D Soho,1.400807067522195e-08,onehot
+trim_Cooper SD Seven,1.4002883781953338e-08,onehot
+trim_Ecomotive,1.393111067033654e-08,onehot
+trim_Cooper Highgate,1.3846201498372871e-08,onehot
+generation_Hatchback (2006 - 2010) MK1,1.3777909550249294e-08,onehot
+trim_Acenta Sport,1.3753737705185528e-08,onehot
+trim_Sport Black Edition,1.3677958647118355e-08,onehot
+trim_Turbo Edition,1.3489657455452921e-08,onehot
+trim_Turbo SE,1.3432566097921906e-08,onehot
+trim_Searcher,1.3411848863394839e-08,onehot
+generation_MPV (2006 - 2011) MK1 Facelift,1.3362311247070136e-08,onehot
+trim_VXR SuperSport,1.3273896313893326e-08,onehot
+generation_Estate (2004 - 2010),1.3167603102284415e-08,onehot
+trim_Icon+,1.315140009999205e-08,onehot
+trim_Cooper D Pimlico,1.3063847351990723e-08,onehot
+trim_EsseEsse 70th,1.301427371732543e-08,onehot
+generation_Hatchback (1996 - 2009) MK1,1.2954079384178419e-08,onehot
+trim_Design SE,1.2922259628239878e-08,onehot
+trim_Iron Man Edition,1.2719841656766467e-08,onehot
+trim_SE Inscription,1.2592126182343696e-08,onehot
+generation_Hatchback (2011 - 2019),1.2544504883628526e-08,onehot
+generation_MPV (2010 - 2015),1.251761595799145e-08,onehot
+generation_Estate (2008 - 2013) C6,1.2448387212977466e-08,onehot
+trim_One Graphite,1.2266157958204203e-08,onehot
+trim_Pilot One Edition,1.2237178461613939e-08,onehot
+trim_Connexion,1.223023990348013e-08,onehot
+trim_Cooper SE Shadow Edition,1.2228647000571828e-08,onehot
+generation_SUV (2013 - 2014) MK 2 Facelift,1.2185924208052927e-08,onehot
+model_Pixo,1.213108238941699e-08,onehot
+trim_x-clusiv3,1.1882569807006119e-08,onehot
+trim_GT Tech,1.1835675377729631e-08,onehot
+model_Accord,1.171418937505578e-08,onehot
+trim_Domino,1.170649300564135e-08,onehot
+trim_M Sport Business Edition,1.1684302561938476e-08,onehot
+trim_SOL,1.164090156432166e-08,onehot
+trim_Grandstyle,1.1624412734304045e-08,onehot
+model_300C,1.1562550620520997e-08,onehot
+trim_Sovereign,1.1492361877207279e-08,onehot
+trim_Tech Line GT,1.1474429881854687e-08,onehot
+generation_Convertible (2010 - 2013),1.1466470667270203e-08,onehot
+generation_Hatchback (2007 - 2010) 5J,1.144091325588224e-08,onehot
+generation_MPV (2004 - 2015),1.13417025799323e-08,onehot
+generation_MPV (2004 - 2011) MK 1,1.1211729675071309e-08,onehot
+trim_La Prima,1.1106894274417568e-08,onehot
+trim_3Form Sport,1.1044539354194708e-08,onehot
+generation_SUV (2005 - 2014) MK 2,1.09476971365034e-08,onehot
+trim_Ghia,1.0833208354928677e-08,onehot
+generation_MPV (2006 - 2012) MK 3,1.0787000563761253e-08,onehot
+trim_Connect Plus,1.0777470801825616e-08,onehot
+trim_John Cooper Works Anniversary Edition,1.0773909598956141e-08,onehot
+model_CR-Z,1.077374794014128e-08,onehot
+generation_Saloon (2008 - 2011) MK 8 Facelift,1.0572387972269437e-08,onehot
+trim_120th,1.0554269123162653e-08,onehot
+trim_Advance Plus,1.0550641675849366e-08,onehot
+trim_XTEn,1.0531207370112133e-08,onehot
+model_Aveo,1.0474918408209066e-08,onehot
+trim_Club up!,1.044867346364954e-08,onehot
+generation_Convertible (2003 - 2009) MK 1,1.0426076574663592e-08,onehot
+trim_M Sport Highline Edition,1.0211467119914993e-08,onehot
+trim_R-Line Style,1.0094056258102166e-08,onehot
+generation_Estate (2012 - 2016) MK4 Facelift,1.0035473180823444e-08,onehot
+model_Altea,9.946818493549346e-09,onehot
+trim_Panda,9.888879809011651e-09,onehot
+generation_Hatchback (2005 - 2010) MK 3,9.88444750899561e-09,onehot
+model_RX 400h,9.808828909023689e-09,onehot
+trim_Trend Plus,9.792680529560448e-09,onehot
+trim_60th Anniversary Edition,9.764719991318338e-09,onehot
+trim_ELX4,9.644421727435712e-09,onehot
+trim_Ultra,9.598086087841994e-09,onehot
+trim_Turbo Black,9.565022408376016e-09,onehot
+trim_Exclusiv Nav,9.532188089592532e-09,onehot
+generation_Hatchback (2005 - 2009) MK6 Facelift,9.531873082170878e-09,onehot
+generation_MPV (2018 - 2018),9.488698059748026e-09,onehot
+trim_Quantum,9.471513472794957e-09,onehot
+generation_Estate (2007 - 2009),9.310951901336996e-09,onehot
+trim_Colour Collection,9.169976651749254e-09,onehot
+trim_Visia+,9.113900743483705e-09,onehot
+trim_SE Edition 125,9.076788614133586e-09,onehot
+generation_Estate (2004 - 2011) H,9.037231232012549e-09,onehot
+model_Kizashi,9.005340650518416e-09,onehot
+trim_R.S.300,8.834320672649665e-09,onehot
+trim_Premium Panorama,8.818951830208182e-09,onehot
+trim_GT Nav,8.80281390472394e-09,onehot
+trim_Street up!,8.743430370627773e-09,onehot
+trim_Sola,8.615323128627383e-09,onehot
+trim_Ice Velvet,8.59369200047544e-09,onehot
+trim_ST-Line Red Edition,8.530327267372328e-09,onehot
+generation_Saloon (2016 - 2018),8.473254129915279e-09,onehot
+trim_R-Design Premium,8.428226169723638e-09,onehot
+trim_Splash,8.372277065943518e-09,onehot
+trim_Design Pro,8.340684455641502e-09,onehot
+trim_Junior,8.286418361552875e-09,onehot
+generation_SUV (2005 - 2009) W164,8.286192791828513e-09,onehot
+trim_Sportiva Nav,8.24007578993993e-09,onehot
+trim_Blackcherry,8.176033806536397e-09,onehot
+trim_Shiro,8.122698584241673e-09,onehot
+generation_Hatchback (2006 - 2010) MK1 Facelift,8.10149807402727e-09,onehot
+generation_Estate (2006 - 2010) S211 Facelift,8.083709914817452e-09,onehot
+trim_SE Action,8.082487666657174e-09,onehot
+trim_Challenge 210,8.00729919525426e-09,onehot
+generation_Estate (2008 - 2011) MK1,7.991200208459149e-09,onehot
+model_Nitro,7.943650668336053e-09,onehot
+generation_Hatchback (2005 - 2011) MK 2,7.900910158205325e-09,onehot
+generation_Saloon (2005 - 2009) MK 7 Facelift,7.884601447253223e-09,onehot
+trim_Ministry of Sound,7.837070046922341e-09,onehot
+trim_Red Edition,7.634906020285253e-09,onehot
+generation_Saloon (2005 - 2010) 4E Facelift,7.61350358088956e-09,onehot
+generation_SUV (2005 - 2010) MK 2,7.579093397481202e-09,onehot
+trim_Griffin Plus,7.574963816800242e-09,onehot
+trim_T Spirit 10th Anniversary,7.552383225262561e-09,onehot
+generation_SUV (2006 - 2009) MK 3,7.51347259569077e-09,onehot
+trim_Move up! Tech Edition,7.48546399643828e-09,onehot
+trim_Endurance Edition,7.380337748660948e-09,onehot
+model_Copen,7.362338153834101e-09,onehot
+trim_SE Discover Nav,7.344639772170145e-09,onehot
+generation_Hatchback (2004 - 2011) MK 1,7.303439591850115e-09,onehot
+trim_ES Nav,7.246271464872615e-09,onehot
+trim_Edition Black,7.190756866800474e-09,onehot
+trim_Contrast Edition Plus,7.175999003941903e-09,onehot
+trim_EX Style,7.118733642121598e-09,onehot
+trim_Halo,7.020031615818756e-09,onehot
+trim_3Style+,7.00063053141441e-09,onehot
+model_Pathfinder,6.995482286368414e-09,onehot
+trim_evolution,6.90822134482728e-09,onehot
+trim_GO!,6.902548975494013e-09,onehot
+trim_BRABUS,6.708179390052396e-09,onehot
+trim_R3,6.65453687945096e-09,onehot
+generation_MPV (2009 - 2012) MK 2,6.639777081887721e-09,onehot
+model_307 CC,6.60104858234644e-09,onehot
+generation_Estate (2007 - 2011) MK5,6.5447092490029736e-09,onehot
+trim_Avantgarde Edition 125,6.475818575425317e-09,onehot
+model_Ami,6.385760599965605e-09,onehot
+trim_by MANGO,6.32017224633712e-09,onehot
+generation_Coupe (2010 - 2014) MK 1,6.142774593134215e-09,onehot
+trim_DSire,6.116394290782674e-09,onehot
+trim_x-cite 3,5.9872797502787185e-09,onehot
+trim_Active Plus,5.925637428420097e-09,onehot
+trim_Stormer,5.902348370259662e-09,onehot
+trim_Cooper SD Bayswater,5.899346824044398e-09,onehot
+trim_Le Mans,5.894321292790472e-09,onehot
+generation_Convertible (2003 - 2009),5.856035047107604e-09,onehot
+trim_EX-T,5.8420776061418394e-09,onehot
+generation_MPV (2006 - 2010) MK1,5.822074718540863e-09,onehot
+trim_TomTom Edition,5.80632760706096e-09,onehot
+trim_DSire Plus,5.7990477353116495e-09,onehot
+trim_Iceshine,5.703474174331382e-09,onehot
+trim_R-Design Sport,5.660784951408046e-09,onehot
+trim_Vista,5.640948087539949e-09,onehot
+trim_Digital,5.600408234786135e-09,onehot
+generation_Hatchback (2009 - 2012) MK2 Facelift,5.53727986117384e-09,onehot
+generation_Convertible (2004 - 2009) R52,5.464577877630769e-09,onehot
+generation_Estate (2007 - 2010) MK1,5.412125118386992e-09,onehot
+generation_Hatchback (2007 - 2013),5.411916757962968e-09,onehot
+model_Logan MCV Stepway,5.3120105588923586e-09,onehot
+trim_Shaker,5.293585024998049e-09,onehot
+trim_Cooper S Park Lane,5.2632640639267324e-09,onehot
+generation_Coupe (2006 - 2010) MK 1,5.253020407633038e-09,onehot
+trim_Individual,5.246056471227717e-09,onehot
+generation_Convertible (2009 - 2015) MK2 Facelift,5.143151439659977e-09,onehot
+trim_Sting R,5.132289678257481e-09,onehot
+trim_+,5.124608005001112e-09,onehot
+trim_SE Lux Edition,5.073601038729466e-09,onehot
+generation_Hatchback (2005 - 2009) MK1,5.016704702841366e-09,onehot
+trim_R 20 Years,5.0116358370585825e-09,onehot
+trim_VR6,4.9549650187454e-09,onehot
+trim_EX Plus,4.917487319876273e-09,onehot
+trim_DSign Ice,4.744196662409316e-09,onehot
+generation_Convertible (2006 - 2011) H,4.607115472130742e-09,onehot
+trim_Edition 10,4.570490235111372e-09,onehot
+generation_MPV (2007 - 2011) MK1,4.499758320134025e-09,onehot
+generation_Saloon (2012 - 2014),4.495917466786856e-09,onehot
+trim_Privilege TomTom,4.475941320007745e-09,onehot
+trim_Type S,4.447764278561828e-09,onehot
+generation_Estate (2007 - 2010) 5J,4.414915365383506e-09,onehot
+generation_SUV (2006 - 2015),4.335987055062211e-09,onehot
+model_Splash,4.2750132468536865e-09,onehot
+trim_Vibe,4.198657256838986e-09,onehot
+trim_vRS Blackline,4.174897461289236e-09,onehot
+generation_Hatchback (2004 - 2009) MK1,4.159829912572385e-09,onehot
+trim_Tamura Nav,4.144232201427745e-09,onehot
+trim_Urban Cross,4.118283896888186e-09,onehot
+trim_Cloverleaf,4.0982651287564086e-09,onehot
+trim_Electric Art,4.0847742158824905e-09,onehot
+trim_SE Limited,4.071359917035213e-09,onehot
+trim_Inferno,4.0621788078228184e-09,onehot
+model_LS 460,4.039398996134557e-09,onehot
+trim_GLX,3.973343515735327e-09,onehot
+trim_BRABUS Line,3.91562482195222e-09,onehot
+generation_SUV (2010 - 2011) MK 1 Facelift,3.9075344152363184e-09,onehot
+trim_DStyle by Benefit,3.906045062900162e-09,onehot
+trim_X-PERIENCE SE Technology,3.861618692480426e-09,onehot
+model_SX4,3.850235200541599e-09,onehot
+model_Corolla Verso,3.832423626528239e-09,onehot
+trim_Touch,3.768473234735051e-09,onehot
+make_Daihatsu,3.743831644645037e-09,onehot
+trim_DSport Red,3.736369896288063e-09,onehot
+generation_MPV (2002 - 2011),3.701970147495632e-09,onehot
+trim_The Color Run,3.6745217386375712e-09,onehot
+trim_BlueMotion SE,3.6492662507121787e-09,onehot
+generation_Hatchback (1999 - 2012) MK1,3.6409591689810326e-09,onehot
+trim_Crossway,3.6314849426466314e-09,onehot
+generation_MPV (2007 - 2011),3.6181571079038002e-09,onehot
+trim_10-Year Edition,3.5524473162322483e-09,onehot
+trim_S Copa,3.516971893508113e-09,onehot
+trim_Cooper S Hampton,3.477428524116868e-09,onehot
+trim_Aventura Explorer,3.470171575389612e-09,onehot
+model_12C,3.396037352105489e-09,onehot
+trim_BRABUS Sport,3.3923328126053827e-09,onehot
+trim_Ecomotive SE,3.340196601684759e-09,onehot
+trim_Newground,3.3025700745653577e-09,onehot
+trim_Zetec Blue Edition,3.3022838380034557e-09,onehot
+trim_Proxy,3.2704899085547155e-09,onehot
+model_Premacy,3.2603274670078327e-09,onehot
+model_Patriot,3.2005688095184747e-09,onehot
+model_Grand Espace,3.2000978091409875e-09,onehot
+generation_MPV (2009 - 2014),3.1980652789191756e-09,onehot
+generation_MPV (2006 - 2010) MK 2 Facelift,3.0889730671643245e-09,onehot
+model_Bipper Tepee,3.0440821698193955e-09,onehot
+trim_Agile,3.0287976154417173e-09,onehot
+generation_Estate (2010 - 2012) MK1 Facelift,3.0013934704822187e-09,onehot
+trim_ROCKS Unlimited,2.9797077279761197e-09,onehot
+trim_SE Lux RTI Nav,2.9740295604953356e-09,onehot
+trim_RXH,2.9368666649809727e-09,onehot
+trim_up! Black,2.855846103122522e-09,onehot
+generation_MPV (2007 - 2010),2.7883828918198032e-09,onehot
+trim_SE5,2.7234221284011913e-09,onehot
+trim_GSE,2.70815521075217e-09,onehot
+trim_Ambiance Prime,2.688825729605776e-09,onehot
+trim_DStyle Ice,2.621682400492559e-09,onehot
+trim_GT Line S,2.613095786806777e-09,onehot
+generation_MPV (2000 - 2011) MK1 Facelift,2.589144284752383e-09,onehot
+trim_Atlas,2.564982316959398e-09,onehot
+trim_RC,2.530263894970478e-09,onehot
+trim_Iconic 25 Nav,2.5196431150354374e-09,onehot
+generation_Convertible (2010 - 2013) MK 1,2.4924832939258013e-09,onehot
+trim_XEC,2.4795968786012365e-09,onehot
+trim_Pzaz,2.4731711620292145e-09,onehot
+trim_Si-T,2.4367796185156446e-09,onehot
+model_Grand Modus,2.393559334054889e-09,onehot
+generation_Estate (2008 - 2010) MK 3,2.389922780567014e-09,onehot
+trim_EX Sport Line,2.35492474519984e-09,onehot
+trim_x-cite 4,2.230648014916923e-09,onehot
+model_Camry,2.227836577817865e-09,onehot
+trim_Type S GT,2.2058297210820664e-09,onehot
+trim_byGucci,2.1600158104194553e-09,onehot
+generation_SUV (2004 - 2008),2.1160604191240365e-09,onehot
+trim_Expression + Convenience,2.1054479638292056e-09,onehot
+trim_Sporting,2.0838710090392515e-09,onehot
+trim_Motorsport Edition,2.0567464573757256e-09,onehot
+trim_BlueMotion 2,2.042840440278849e-09,onehot
+trim_Ocean Race,2.0421373045728026e-09,onehot
+trim_X-EC,1.9452426392381244e-09,onehot
+trim_SE+,1.9248219727012744e-09,onehot
+model_RX-8,1.9148240900512108e-09,onehot
+trim_ByDiesel,1.801795360954391e-09,onehot
+trim_White,1.7729603098630524e-09,onehot
+generation_Estate (2008 - 2011),1.7008444954317858e-09,onehot
+trim_Strike,1.6596421929175282e-09,onehot
+trim_Feel Edition,1.65895002317711e-09,onehot
+trim_SE Lux Premium,1.636467218572228e-09,onehot
+trim_Style Climate,1.6360956226425818e-09,onehot
+generation_Estate (2004 - 2008) S203 Facelift,1.6291275222340215e-09,onehot
+trim_Cupra 280,1.625883419758947e-09,onehot
+trim_Rock up!,1.5407158519963069e-09,onehot
+trim_E-Tech engineered,1.5265393289263995e-09,onehot
+trim_Midnight,1.5172192461277992e-09,onehot
+generation_MPV (2007 - 2010) MK 3,1.488336079640969e-09,onehot
+trim_Breeze,1.4407501081480872e-09,onehot
+trim_SE Blue,1.4323474879462732e-09,onehot
+trim_Twist,1.4198392094760377e-09,onehot
+model_Nemo Multispace,1.4185919037008389e-09,onehot
+trim_Ron Arad Edition,1.3755720814471064e-09,onehot
+trim_S GreenLine II,1.3593730168212279e-09,onehot
+trim_Sport Recaro,1.323423786954372e-09,onehot
+model_159 Sportwagon,1.2795584055237473e-09,onehot
+model_Justy,1.2683290919811906e-09,onehot
+trim_ZC,1.2256388468808898e-09,onehot
+trim_GQ,1.194391349526872e-09,onehot
+trim_SE-L Lux Nav,1.1273398044867245e-09,onehot
+generation_Estate (2006 - 2012) C6,1.1202378892689867e-09,onehot
+trim_N Line +,1.1120955799609623e-09,onehot
+trim_W,1.0935894903680432e-09,onehot
+trim_Centura,1.0702496045380412e-09,onehot
+generation_SUV (2007 - 2010) MK 1,1.0375768080925684e-09,onehot
+trim_SE Lux Solstice,1.0126941118757506e-09,onehot
+trim_Color Edition,9.834781722796447e-10,onehot
+trim_SXT,9.184889623719865e-10,onehot
+trim_Giallo,9.108935541492995e-10,onehot
+model_Fox,8.872481758821411e-10,onehot
+trim_WRX STI,8.851742652372769e-10,onehot
+generation_Saloon (2008 - 2012) MK 8,8.845684564192565e-10,onehot
+trim_Bizu,8.555342317672853e-10,onehot
+generation_Hatchback (2008 - 2010),8.110830991736329e-10,onehot
+trim_Active Design,7.923092263760658e-10,onehot
+generation_Estate (2015 - 2017) MK4 Facelift 2,7.890836632872206e-10,onehot
+trim_60th,7.708119758454399e-10,onehot
+trim_ZC-M,7.394517135157417e-10,onehot
+generation_Saloon (2005 - 2009) MK 8,7.109278487614997e-10,onehot
+trim_Sport Colour Edition,7.055854319327125e-10,onehot
+trim_Code,7.012792658563725e-10,onehot
+trim_Stylance,6.78272847624615e-10,onehot
+trim_10,6.743801356329106e-10,onehot
+trim_SE Technology Business,6.607151590239883e-10,onehot
+trim_Takara,6.517859861831447e-10,onehot
+trim_2 Luxe,6.401958303837272e-10,onehot
+trim_Luna,5.665283997437507e-10,onehot
+trim_Tour de France,5.569084223927467e-10,onehot
+trim_Urban Fox,5.154324286957301e-10,onehot
+trim_Matt Black,5.135642020630611e-10,onehot
+trim_WRX S,5.120133956440594e-10,onehot
+trim_Warrior,4.4752993445450636e-10,onehot
+trim_25th Anniversary,4.2788168941306806e-10,onehot
+generation_SUV (2007 - 2011) MK 1,3.6338971442470353e-10,onehot
+model_Urbancruiser,3.5711560460342947e-10,onehot
+generation_Hatchback (2006 - 2010) MK 2 Facelift,3.4482637409798117e-10,onehot
+generation_Hatchback (2005 - 2009) MK1 Facelift,3.297066720281402e-10,onehot
+model_Getz,3.0756850857410025e-10,onehot
+generation_Saloon (2006 - 2010) MK 2 Facelift,2.978381817322779e-10,onehot
+generation_SUV (2009 - 2012) MK 1,2.635820711137163e-10,onehot
+model_Kangoo,2.447575366575353e-10,onehot
+trim_HS-T,2.413975824534981e-10,onehot
+trim_4x4 Cross,2.365679077400665e-10,onehot
+trim_Equinox,2.0628472894349903e-10,onehot
+generation_Hatchback (2007 - 2010) MK2,1.96381412906877e-10,onehot
+trim_GSi,1.7725778594565557e-10,onehot
+generation_Estate (2006 - 2012),1.6695315643866995e-10,onehot
+trim_Tributo 131 Rally,1.607987021579473e-10,onehot
+generation_MPV (2006 - 2009),1.2757698864553e-10,onehot
+generation_Estate (2006 - 2010) MK 2 Facelift,1.2697598411671357e-10,onehot
+model_IS 200,1.0366949931724045e-10,onehot
+model_Sedona,9.905146998537557e-11,onehot
+trim_Givenchy Le Makeup,9.449584171924756e-11,onehot
+trim_SE Summit,8.402145757664455e-11,onehot
+generation_Hatchback (2012 - 2015) MK 3,6.521298162741413e-11,onehot
+generation_MPV (1999 - 2005),5.0889427253956226e-11,onehot
+trim_GLS,2.0829789529341316e-11,onehot
+trim_S-T,5.027037156336128e-12,onehot
+make_Dodge,3.4372792349204645e-14,onehot
+model_Grand Voyager,2.0899166122006496e-14,onehot
+trim_Freeway,1.3272874698055177e-14,onehot
+generation_Estate (2005 - 2009),0.0,onehot

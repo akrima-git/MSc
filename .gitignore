@@ -2,6 +2,8 @@ __pycache__/
 
 *.docx
 
-*.csv
+data.csv
+schema.csv
+
 
 venv/
