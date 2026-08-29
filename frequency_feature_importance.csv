@@ -1,0 +1,16 @@
+feature,importance,encoder
+list_price,0.6710694139669047,frequency
+vehicle_age_years,0.16011856330754487,frequency
+mileage,0.0998007266610854,frequency
+reg_year,0.013302427332274066,frequency
+plate_age_id,0.009335054917560655,frequency
+model,0.008444226289588706,frequency
+trim,0.007902212475667417,frequency
+generation,0.0072996288031950815,frequency
+make,0.0071706700683365834,frequency
+engine,0.006761341207103626,frequency
+fuel,0.003068095184288783,frequency
+body,0.002062808358787694,frequency
+transmission,0.0013041329499947115,frequency
+engine_missing,0.0012008024912058075,frequency
+doors,0.001159895986461809,frequency
