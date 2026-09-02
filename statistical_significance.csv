@@ -1,10 +1,10 @@
 model,encoder_a,encoder_b,mean_rmse_a,mean_rmse_b,better_encoder,p_value,significant
-Linear Regression,onehot,ordinal,2504.320570378072,5146.6383891532005,onehot,,False
-Linear Regression,onehot,frequency,2504.320570378072,5086.867921895844,onehot,,False
-Linear Regression,onehot,target,2504.320570378072,4312.827278483649,onehot,,False
-Linear Regression,onehot,catboost,2504.320570378072,4206.236491187619,onehot,,False
-Linear Regression,onehot,binary,2504.320570378072,4909.926317299084,onehot,,False
-Linear Regression,onehot,hashing,2504.320570378072,5123.931223889659,onehot,,False
+Linear Regression,onehot,ordinal,2499.771284404729,5146.6383891532005,onehot,0.001953125,True
+Linear Regression,onehot,frequency,2499.771284404729,5086.867921895844,onehot,0.001953125,True
+Linear Regression,onehot,target,2499.771284404729,4312.827278483649,onehot,0.001953125,True
+Linear Regression,onehot,catboost,2499.771284404729,4206.236491187619,onehot,0.001953125,True
+Linear Regression,onehot,binary,2499.771284404729,4909.926317299084,onehot,0.001953125,True
+Linear Regression,onehot,hashing,2499.771284404729,5123.931223889659,onehot,0.001953125,True
 Linear Regression,ordinal,frequency,5146.6383891532005,5086.867921895844,frequency,0.001953125,True
 Linear Regression,ordinal,target,5146.6383891532005,4312.827278483649,target,0.001953125,True
 Linear Regression,ordinal,catboost,5146.6383891532005,4206.236491187619,catboost,0.001953125,True
@@ -20,12 +20,12 @@ Linear Regression,target,hashing,4312.827278483649,5123.931223889659,target,0.00
 Linear Regression,catboost,binary,4206.236491187619,4909.926317299084,catboost,0.001953125,True
 Linear Regression,catboost,hashing,4206.236491187619,5123.931223889659,catboost,0.001953125,True
 Linear Regression,binary,hashing,4909.926317299084,5123.931223889659,binary,0.001953125,True
-KNN,onehot,ordinal,3740.5380426741685,2687.427800620124,ordinal,,False
-KNN,onehot,frequency,3740.5380426741685,2611.641430472845,frequency,,False
-KNN,onehot,target,3740.5380426741685,2291.297609441396,target,,False
-KNN,onehot,catboost,3740.5380426741685,2297.070831703433,catboost,,False
-KNN,onehot,binary,3740.5380426741685,2853.5673450646455,binary,,False
-KNN,onehot,hashing,3740.5380426741685,3327.7734234925047,hashing,,False
+KNN,onehot,ordinal,3692.232773280557,2687.427800620124,ordinal,0.001953125,True
+KNN,onehot,frequency,3692.232773280557,2611.641430472845,frequency,0.001953125,True
+KNN,onehot,target,3692.232773280557,2291.297609441396,target,0.001953125,True
+KNN,onehot,catboost,3692.232773280557,2297.070831703433,catboost,0.001953125,True
+KNN,onehot,binary,3692.232773280557,2853.5673450646455,binary,0.001953125,True
+KNN,onehot,hashing,3692.232773280557,3327.7734234925047,hashing,0.001953125,True
 KNN,ordinal,frequency,2687.427800620124,2611.641430472845,frequency,0.00390625,True
 KNN,ordinal,target,2687.427800620124,2291.297609441396,target,0.001953125,True
 KNN,ordinal,catboost,2687.427800620124,2297.070831703433,catboost,0.001953125,True
@@ -41,12 +41,12 @@ KNN,target,hashing,2291.297609441396,3327.7734234925047,target,0.001953125,True
 KNN,catboost,binary,2297.070831703433,2853.5673450646455,catboost,0.001953125,True
 KNN,catboost,hashing,2297.070831703433,3327.7734234925047,catboost,0.001953125,True
 KNN,binary,hashing,2853.5673450646455,3327.7734234925047,binary,0.001953125,True
-Decision Tree,onehot,ordinal,2868.6553681757514,2937.4441051207514,onehot,,False
-Decision Tree,onehot,frequency,2868.6553681757514,2995.470355125934,onehot,,False
-Decision Tree,onehot,target,2868.6553681757514,2789.290310174924,target,,False
-Decision Tree,onehot,catboost,2868.6553681757514,2695.8727984004568,catboost,,False
-Decision Tree,onehot,binary,2868.6553681757514,2987.252902300059,onehot,,False
-Decision Tree,onehot,hashing,2868.6553681757514,3384.711789008458,onehot,,False
+Decision Tree,onehot,ordinal,2829.105701446608,2937.4441051207514,onehot,0.048828125,True
+Decision Tree,onehot,frequency,2829.105701446608,2995.470355125934,onehot,0.001953125,True
+Decision Tree,onehot,target,2829.105701446608,2789.290310174924,target,0.4921875,False
+Decision Tree,onehot,catboost,2829.105701446608,2695.8727984004568,catboost,0.009765625,True
+Decision Tree,onehot,binary,2829.105701446608,2987.252902300059,onehot,0.013671875,True
+Decision Tree,onehot,hashing,2829.105701446608,3384.711789008458,onehot,0.001953125,True
 Decision Tree,ordinal,frequency,2937.4441051207514,2995.470355125934,ordinal,0.232421875,False
 Decision Tree,ordinal,target,2937.4441051207514,2789.290310174924,target,0.037109375,True
 Decision Tree,ordinal,catboost,2937.4441051207514,2695.8727984004568,catboost,0.005859375,True
@@ -62,12 +62,12 @@ Decision Tree,target,hashing,2789.290310174924,3384.711789008458,target,0.001953
 Decision Tree,catboost,binary,2695.8727984004568,2987.252902300059,catboost,0.005859375,True
 Decision Tree,catboost,hashing,2695.8727984004568,3384.711789008458,catboost,0.001953125,True
 Decision Tree,binary,hashing,2987.252902300059,3384.711789008458,binary,0.001953125,True
-Random Forest,onehot,ordinal,2059.3294974370774,2101.87951156017,onehot,,False
-Random Forest,onehot,frequency,2059.3294974370774,2125.1336442760835,onehot,,False
-Random Forest,onehot,target,2059.3294974370774,1992.757942777019,target,,False
-Random Forest,onehot,catboost,2059.3294974370774,1937.82940511632,catboost,,False
-Random Forest,onehot,binary,2059.3294974370774,2109.2574786599334,onehot,,False
-Random Forest,onehot,hashing,2059.3294974370774,2411.136558383086,onehot,,False
+Random Forest,onehot,ordinal,2048.8289140417514,2101.87951156017,onehot,0.00390625,True
+Random Forest,onehot,frequency,2048.8289140417514,2125.1336442760835,onehot,0.001953125,True
+Random Forest,onehot,target,2048.8289140417514,1992.757942777019,target,0.001953125,True
+Random Forest,onehot,catboost,2048.8289140417514,1937.82940511632,catboost,0.001953125,True
+Random Forest,onehot,binary,2048.8289140417514,2109.2574786599334,onehot,0.01953125,True
+Random Forest,onehot,hashing,2048.8289140417514,2411.136558383086,onehot,0.001953125,True
 Random Forest,ordinal,frequency,2101.87951156017,2125.1336442760835,ordinal,0.037109375,True
 Random Forest,ordinal,target,2101.87951156017,1992.757942777019,target,0.001953125,True
 Random Forest,ordinal,catboost,2101.87951156017,1937.82940511632,catboost,0.001953125,True
@@ -83,12 +83,12 @@ Random Forest,target,hashing,1992.757942777019,2411.136558383086,target,0.001953
 Random Forest,catboost,binary,1937.82940511632,2109.2574786599334,catboost,0.001953125,True
 Random Forest,catboost,hashing,1937.82940511632,2411.136558383086,catboost,0.001953125,True
 Random Forest,binary,hashing,2109.2574786599334,2411.136558383086,binary,0.001953125,True
-Stacking,onehot,ordinal,2035.7112836256572,2113.241190800691,onehot,,False
-Stacking,onehot,frequency,2035.7112836256572,2134.1817797606554,onehot,,False
-Stacking,onehot,target,2035.7112836256572,1975.3545179829973,target,,False
-Stacking,onehot,catboost,2035.7112836256572,1926.270532667441,catboost,,False
-Stacking,onehot,binary,2035.7112836256572,2112.777249024996,onehot,,False
-Stacking,onehot,hashing,2035.7112836256572,2434.257608966231,onehot,,False
+Stacking,onehot,ordinal,2026.1036627850888,2113.241190800691,onehot,0.001953125,True
+Stacking,onehot,frequency,2026.1036627850888,2134.1817797606554,onehot,0.001953125,True
+Stacking,onehot,target,2026.1036627850888,1975.3545179829973,target,0.00390625,True
+Stacking,onehot,catboost,2026.1036627850888,1926.270532667441,catboost,0.001953125,True
+Stacking,onehot,binary,2026.1036627850888,2112.777249024996,onehot,0.001953125,True
+Stacking,onehot,hashing,2026.1036627850888,2434.257608966231,onehot,0.001953125,True
 Stacking,ordinal,frequency,2113.241190800691,2134.1817797606554,ordinal,0.130859375,False
 Stacking,ordinal,target,2113.241190800691,1975.3545179829973,target,0.001953125,True
 Stacking,ordinal,catboost,2113.241190800691,1926.270532667441,catboost,0.001953125,True
